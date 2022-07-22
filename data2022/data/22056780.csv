@@ -1,0 +1,28 @@
+Primary_ActivityCode,Primary_Activity,Secondary_ActivityCode,Secondary_Activity,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,Start Time ,EndTime,DurationMins,EnjoymentScore,Productivity,Weather
+S801,Sleep,,,Sleeping peacefully ,2022-02-12,20,Saturday,00:00:00,07:00:00,420,2,Very good,Neither good or bad
+O733,Other,O733,Other,Shower/brushing teeth,2022-02-12,20,Saturday,07:00:00,08:15:00,75,1,Neither,Neither good or bad
+ED145,Eating / Drinking,UD415,Using Devices,Breakfast whilst browsing/ checking emails,2022-02-12,20,Saturday,08:15:00,09:00:00,45,2,Somewhat good,Neither good or bad
+H179,Housework,UD415,Using Devices,Housework whilst listening to music/podcasts,2022-02-12,20,Saturday,09:15:00,10:15:00,60,0,Somewhat good,Bad
+T695,Travelling,,,Travelling from Bath to Birmingham,2022-02-12,20,Saturday,10:30:00,13:00:00,150,0,Very good,Neither Good or Bad
+L418,Leisure,ED145,Eating / Drinking,Day out at zoo,2022-02-12,20,Saturday,13:15:00,19:45:00,390,2,Very good,Neither Good or Bad
+T695,Travelling,,,driving home,2022-02-12,20,Saturday,20:00:00,20:30:00,30,2,Very good,Bad
+CW982,Coursework,EL642,Education / Lectures,completing university coursework ,2022-02-12,20,Saturday,21:00:00,22:45:00,105,0,Somewhat good,Bad
+O733,Other,,,"Prepping for bed (shower, brush teeth etc)",2022-02-12,20,Saturday,23:00:00,23:45:00,45,1,Neither,Bad
+S801,Sleep,,,Sleeping peacefully ,2022-02-12,20,Saturday,23:45:00,1900-01-01 00:00:00,15,2,Very good,Bad
+S801,Sleep,,,Sleeping peacefully ,2022-02-13,20,Sunday,00:00:00,07:00:00,420,2,Very good,Very Bad 
+O733,Other,,,Shower/brushing teeth,2022-02-13,20,Sunday,07:00:00,08:15:00,75,1,Neither,Very Bad 
+O733,Other,UD415,Using Devices,Breakfast whilst browsing/ checking emails,2022-02-13,20,Sunday,08:30:00,09:00:00,30,2,Neither,Bad
+H179,Housework,UD415,Using Devices,Housework whilst listening to music/podcasts,2022-02-13,20,Sunday,09:15:00,10:15:00,60,0,Neither,Bad
+EL642,Education / Lectures,O733,Other,Doing university related work with breaks,2022-02-13,20,Sunday,10:30:00,15:30:00,300,1,Very good,Very Bad 
+O733,Other,H179,Housework,"grocery shopping, cooking, cleaning",2022-02-13,20,Sunday,15:45:00,18:00:00,135,0,Somewhat good,Bad
+ED145,Eating / Drinking,H179,Housework,eating and washing up afterwards,2022-02-13,20,Sunday,18:15:00,19:15:00,60,2,Somewhat good,Bad
+L418,Leisure,S801,Sleep,taking a break after eating and resting before travelling,2022-02-13,20,Sunday,19:15:00,20:00:00,45,1,Somewhat good,Bad
+T695,Travelling,,,Travelling back to Bath from Birmingham,2022-02-13,20,Sunday,20:15:00,22:30:00,135,0,Somewhat good,Neither Good or Bad
+O733,Other,,,"Prepping for bed (shower, brush teeth etc)",2022-02-13,20,Sunday,22:45:00,23:45:00,60,1,Somewhat good,Bad
+S801,Sleep,,,Sleeping peacefully ,2022-02-13,20,Sunday,23:45:00,1900-01-01 00:00:00,15,2,Very good,Bad
+S801,Sleep,,,Sleeping peacefully ,2022-02-20,21,Sunday,00:00:00,07:00:00,420,2,Very good,Neither good or bad
+O733,Other,O733,Other,Shower/brushing teeth,2022-02-20,21,Sunday,07:15:00,08:15:00,60,1,Somewhat good,Neither good or bad
+ED145,Eating / Drinking,UD415,Using Devices,Breakfast whilst browsing/ checking emails,2022-02-20,21,Sunday,08:30:00,09:00:00,30,2,Neither,Neither good or bad
+H179,Housework,UD415,Using Devices,Housework whilst listening to music/podcasts,2022-02-20,21,Sunday,09:15:00,10:15:00,60,0,Somewhat good,Bad
+R523,Reading,,,reading before work,2022-02-20,21,Sunday,10:30:00,11:30:00,60,1,Very good,Bad
+PW101,Paid Work,,,worked a 12 hour shift,2022-02-20,21,Sunday,12:00:00,1900-01-01 00:00:00,720,0,Very good,Bad

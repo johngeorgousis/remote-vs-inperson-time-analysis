@@ -1,0 +1,48 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Location,Number of participants
+S801,,,2022-02-21,21,Monday,08:00:00,10:15:00,135,2,Home,1
+X893,,,2022-02-21,21,Monday,10:15:00,10:45:00,30,2,Home,1
+O733,,Taking shower,2022-02-21,21,Monday,10:45:00,11:30:00,45,2,Home,1
+EL642,,Reviewing lecture,2022-02-21,21,Monday,11:30:00,12:00:00,30,2,Home,1
+ED145,EL642,Having Brunch while reading,2022-02-21,21,Monday,12:00:00,12:30:00,30,2,Home,1
+T695,,Walking to campus,2022-02-21,21,Monday,12:30:00,13:15:00,45,2,Outside,2 or more
+EL642,,Attending lecture,2022-02-21,21,Monday,13:15:00,14:15:00,60,1,Outside,2 or more
+EL642,UD415,Attending lecture,2022-02-21,21,Monday,14:15:00,14:30:00,15,1,Outside,2 or more
+T695,UD415,Taking a bus back home,2022-02-21,21,Monday,14:30:00,15:00:00,30,0,Outside,2 or more
+O733,,Doing grocery,2022-02-21,21,Monday,15:00:00,16:00:00,60,2,Outside,2 or more
+L418,UD415,,2022-02-21,21,Monday,16:00:00,16:15:00,15,2,Home,1
+L418,R523,,2022-02-21,21,Monday,16:15:00,17:00:00,45,2,Home,1
+ED145,UD415,Having dinner while youtubing,2022-02-21,21,Monday,17:00:00,17:30:00,30,2,Home,1
+O733,,Taking shower,2022-02-21,21,Monday,17:30:00,18:00:00,30,2,Home,1
+EL642,,Studying online course,2022-02-21,21,Monday,18:00:00,20:15:00,135,2,Home,1
+L418,UD415,,2022-02-21,21,Monday,20:15:00,20:30:00,15,2,Home,1
+CW982,,,2022-02-21,21,Monday,20:30:00,22:45:00,135,2,Home,1
+S801,,,2022-02-21,21,Monday,22:45:00,08:00:00,555,2,Home,1
+L418,UD415,,2022-02-22,21,Tuesday,00:00:00,00:30:00,30,2,Home,1
+S801,,,2022-02-22,21,Tuesday,00:30:00,08:00:00,450,2,Home,1
+S801,,,2022-02-22,21,Tuesday,08:00:00,09:45:00,105,2,Home,1
+X893,,,2022-02-22,21,Tuesday,09:45:00,10:15:00,30,2,Home,1
+O733,,Taking shower,2022-02-22,21,Tuesday,10:15:00,10:30:00,15,2,Home,1
+ED145,,Having breakfast,2022-02-22,21,Tuesday,10:30:00,11:00:00,30,2,Home,1
+CW982,,,2022-02-22,21,Tuesday,11:00:00,14:00:00,180,1,Home,1
+ED145,UD415,Having lunch,2022-02-22,21,Tuesday,14:00:00,14:30:00,30,2,Home,1
+L418,,,2022-02-22,21,Tuesday,14:30:00,15:00:00,30,2,Home,1
+EL642,,Watching lecture,2022-02-22,21,Tuesday,15:00:00,18:00:00,180,2,Home,1
+CW982,,,2022-02-22,21,Tuesday,18:00:00,21:00:00,180,2,Home,1
+O733,,Taking shower,2022-02-22,21,Tuesday,21:00:00,21:30:00,30,2,Home,1
+CW982,,,2022-02-22,21,Tuesday,21:30:00,00:00:00,150,2,Home,1
+L418,UD415,,2022-02-23,21,Wednesday,00:00:00,00:30:00,30,2,Home,1.0
+S801,,,2022-02-23,21,Wednesday,00:30:00,08:00:00,450,2,Home,1.0
+S801,,,2022-02-23,21,Wednesday,08:00:00,09:00:00,60,2,Home,1.0
+UD415,,,2022-02-23,21,Wednesday,09:00:00,09:15:00,15,2,Home,1.0
+X893,,,2022-02-23,21,Wednesday,09:15:00,09:45:00,30,2,Home,1.0
+O733,,Taking shower,2022-02-23,21,Wednesday,09:45:00,10:00:00,15,2,Home,1.0
+ED145,,Having breakfast,2022-02-23,21,Wednesday,10:00:00,10:30:00,30,2,Home,1.0
+CW982,,,2022-02-23,21,Wednesday,12:15:00,13:00:00,45,1,Home,1.0
+ED145,UD415,Having lunch,2022-02-23,21,Wednesday,13:00:00,13:30:00,30,1,Home,1.0
+EL642,UD415,Watching lecture,2022-02-23,21,Wednesday,13:30:00,16:00:00,150,1,Home,1.0
+L418,,,2022-02-23,21,Wednesday,16:00:00,16:30:00,30,2,Home,1.0
+ED145,,Having dinner,2022-02-23,21,Wednesday,16:30:00,17:00:00,30,2,Home,1.0
+O733,,Taking shower,2022-02-23,21,Wednesday,17:00:00,17:30:00,30,2,Home,1.0
+CW982,,,2022-02-23,21,Wednesday,17:30:00,21:00:00,210,0,Home,1.0
+L418,,Youtubing,2022-02-23,21,Wednesday,21:00:00,22:00:00,60,2,Home,1.0
+CW982,,,2022-02-23,21,Wednesday,22:00:00,00:00:00,120,2,Home,1.0

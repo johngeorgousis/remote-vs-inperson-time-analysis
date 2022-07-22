@@ -1,0 +1,37 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AdditionalData1,AdditionalData2
+S801,,Sleep,13/02/22,19,Sunday,00:00,08:00,480,0,Bedroom,0
+ED145,R523,Breakfast,13/02/22,19,Sunday,08:00,09:00,60,1,Kitchen,1
+H179,UD415,Cleaning,13/02/22,19,Sunday,09:00,11:00,119,-2,Living Room,0
+X893,,Running,13/02/22,19,Sunday,11:00,12:00,60,1,Park,1
+ED145,UD415,Eating and watching TV,13/02/22,19,Sunday,12:00,12:30,29,1,Living Room,1
+EL642 ,R523,Lectures,13/02/22,19,Sunday,12:30,16:00,210,1,Campus,1
+T695,UD415,Going Home,13/02/22,19,Sunday,16:00,17:00,59,0,Car,0
+ED145,,Dinner,13/02/22,19,Sunday,17:00,17:30,30,1,Living Room,0
+UD415,,Playing games,13/02/22,19,Sunday,17:30,20:00,149,2,Bedroom,1
+EL642 ,R523,Consolidate reading,13/02/22,19,Sunday,20:00,21:00,60,0,Study,1
+X893,,Short run,13/02/22,19,Sunday,21:00,21:30,29,1,Park,1
+S801,,Sleep,13/02/22,19,Sunday,21:30,23:45,135,0,Bedroom,1
+S801,,Sleep,14/02/22,20,Monday,00:00,08:00,480,0,Bedroom,0
+ED145,R523,Breakfast,14/02/22,20,Monday,08:00,09:00,60,1,Kitchen,1
+EL642 ,UD415,Lectures,14/02/22,20,Monday,09:00,11:00,119,-1,Living Room,0
+X893,T695,Running,14/02/22,20,Monday,11:00,12:00,60,0,Park,1
+ED145,UD415,Eating and watching TV,14/02/22,20,Monday,12:00,12:30,29,1,Living Room,1
+R523,H179,Lectures,14/02/22,20,Monday,12:30,16:00,210,0,Campus,1
+T695,UD415,Going Home,14/02/22,20,Monday,16:00,17:00,59,1,Car,0
+ED145,,Dinner,14/02/22,20,Monday,17:00,17:30,30,2,Living Room,0
+UD415,,Playing games,14/02/22,20,Monday,17:30,20:00,149,1,Bedroom,1
+R523,UD415,Consolidate reading,14/02/22,20,Monday,20:00,21:00,60,2,Study,1
+X893,,Short run,14/02/22,20,Monday,21:00,21:30,29,1,Park,1
+S801,,Sleep,14/02/22,20,Monday,21:30,23:45,135,1,Bedroom,1
+S801,,Sleep,15/02/22,20,Tuesday,00:00,08:00,480,0,Bedroom,0
+ED145,R523,Breakfast,15/02/22,20,Tuesday,08:00,09:00,60,1,Kitchen,1
+H179,UD415,Cleaning,15/02/22,20,Tuesday,09:00,11:00,119,-1,Living Room,0
+X893,,Rowing,15/02/22,20,Tuesday,11:00,12:00,60,1,Park,1
+ED145,UD415,Eating and watching TV,15/02/22,20,Tuesday,12:00,12:30,29,1,Living Room,1
+EL642 ,R523,Lectures,15/02/22,20,Tuesday,12:30,16:00,210,1,Campus,1
+T695,UD415,Going Home,15/02/22,20,Tuesday,16:00,17:00,59,-1,Car,0
+ED145,,Dinner,15/02/22,20,Tuesday,17:00,17:30,30,1,Living Room,0
+UD415,,Playing games,15/02/22,20,Tuesday,17:30,20:00,149,1,Bedroom,1
+L418,R523,Consolidate reading,15/02/22,20,Tuesday,20:00,21:00,60,0,Study,1
+X893,,Short run,15/02/22,20,Tuesday,21:00,21:30,29,2,Park,1
+S801,,Sleep,15/02/22,20,Tuesday,21:30,23:45,135,1,Bedroom,1

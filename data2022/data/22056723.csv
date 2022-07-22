@@ -1,0 +1,30 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressLevel,ConcentrationLevel
+UD415,L418,Watching Kdrama,17/02/2022,21,Thursday,00:00:00,02:00:00,120,2,0,1
+S801,,Seeping,17/02/2022,21,Thursday,02:00:00,10:00:00,480,2,0,0
+Other(O733),,Bathing,17/02/2022,21,Thursday,10:00:00,10:30:00,30,1,0,1
+Travelling(T695),,Travelling to uni,17/02/2022,21,Thursday,10:30:00,11:00:00,30,0,0,1
+Coursework(CW982),UD415,Completing Assignments,17/02/2022,21,Thursday,11:00:00,13:00:00,120,-1,2,3
+Education/Lectures(EL642),R523,Machine Learning Lecture,17/02/2022,21,Thursday,13:15:00,14:15:00,60,-1,2,3
+Coursework(CW982),,Assignments,17/02/2022,21,Thursday,14:15:00,18:00:00,225,1,3,2
+Sleep(S801),,Sleeping,17/02/2022,21,Thursday,18:00:00,19:30:00,90,1,0,0
+Travelling(T695),,Travelling to McDonald's,17/02/2022,21,Thursday,19:30:00,20:00:00,30,-2,0,0
+PaidWork(PW101),,Part-time Job,17/02/2022,21,Thursday,20:00:00,00:00:00,240,-2,3,2
+PaidWork(PW101),,Part-time Job,18/02/2022,21,Friday,00:00:00,06:00:00,360,-2,3,2
+Other(O733),,Waiting for bus,18/02/2022,21,Friday,06:00:00,07:00:00,60,-1,0,1
+Travelling(T695),,Travelling to home,18/02/2022,21,Friday,07:00:00,07:30:00,30,0,0,1
+Eating/Drinking(ED145),,Breakfast,18/02/2022,21,Friday,07:30:00,08:00:00,30,1,0,0
+Sleep(S801),,Sleeping,18/02/2022,21,Friday,08:00:00,13:00:00,300,2,0,0
+Other(O733),,Bathing,18/02/2022,21,Friday,13:00:00,13:30:00,30,2,0,1
+Travelling(T695),,Travelling to McDonald's,18/02/2022,21,Friday,13:30:00,14:00:00,30,-1,1,0
+PaidWork(PW101),,Part-time Job,18/02/2022,21,Friday,14:00:00,23:00:00,540,-2,3,3
+Travelling(T695),,Travelling to home,18/02/2022,21,Friday,23:00:00,23:30:00,30,1,1,1
+Eating/Drinking(ED145),,Dinner,18/02/2022,21,Friday,23:30:00,00:00:00,30,2,0,0
+UseDevice(UD415),L418,Watching Kdrama,19/02/2022,21,Saturday,00:00:00,02:00:00,120,2,0,1
+Sleep(S801),,Sleeping,19/02/2022,21,Saturday,02:00:00,11:00:00,540,2,0,0
+UseDevice(UD415),,Social Media,19/02/2022,21,Saturday,11:00:00,12:00:00,60,1,1,3
+Other(O733),,Bathing,19/02/2022,21,Saturday,12:00:00,13:00:00,60,2,0,2
+Eating/Drinking(ED145),,Lunch,19/02/2022,21,Saturday,13:00:00,13:30:00,30,1,0,0
+Travelling(T695),UD415,Travelling to McDonald's,19/02/2022,21,Saturday,13:30:00,14:00:00,30,-1,1,1
+PaidWork(PW101),,Part-time Job,19/02/2022,21,Saturday,14:00:00,23:00:00,540,-2,3,3
+Travelling(T695),UD415,Travelling to home,19/02/2022,21,Saturday,23:00:00,23:30:00,30,0,1,1
+Eating/Drinking(ED145),,Dinner,19/02/2022,21,Saturday,23:30:00,00:00:00,30,2,0,0

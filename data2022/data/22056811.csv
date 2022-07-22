@@ -1,0 +1,22 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,Start Date,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,TimeSatisfaction ,RepeatedActivity
+ED145,,Eating / Drinking,2/18/22,2,Friday,08:00:00,10:00:00,120,1,Yes I spent the perfect amount of time on the activity,Yes
+H179,,Housework,2/18/22,2,Friday,11:30:00,12:30:00,60,-1,No I wish I spent less time on the activity,No
+CW982,,Coursework,2/18/22,2,Friday,13:00:00,18:00:00,300,0,Yes I spent the perfect amount of time on the activity,Yes
+L418,,Leisure,2/18/22,2,Friday,18:30:00,00:00:00,330,0,No I wish I spent less time on the activity,No
+S801,,Sleep,2/19/22,2,Saturday,00:00:00,09:00:00,540,1,Yes I spent the perfect amount of time on the activity,Yes
+ED145,,Eating / Drinking,2/19/22,2,Saturday,09:30:00,10:30:00,60,1,Yes I spent the perfect amount of time on the activity,Yes
+UD415,,Using Devices,2/19/22,2,Saturday,11:00:00,12:00:00,60,1,No I wish I spent less time on the activity,Yes
+CW982,,Coursework,2/19/22,2,Saturday,12:00:00,19:00:00,420,1,Yes I spent the perfect amount of time on the activity,Yes
+ED145,,Eating / Drinking,2/19/22,2,Saturday,19:00:00,20:30:00,90,1,Yes I spent the perfect amount of time on the activity,Yes
+L418,,Leisure,2/19/22,2,Saturday,20:30:00,23:30:00,180,1,Yes I spent the perfect amount of time on the activity,No
+S801,,Sleep,2/20/22,2,Sunday,00:00:00,08:00:00,480,1,Yes I spent the perfect amount of time on the activity,Yes
+O733,,Other,2/20/22,2,Sunday,08:00:00,10:00:00,120,0,No I wish I spent less time on the activity,Yes
+ED145,,Eating / Drinking,2/20/22,2,Sunday,10:00:00,11:00:00,60,1,Yes I spent the perfect amount of time on the activity,Yes
+CW982,,Coursework,2/20/22,2,Sunday,11:00:00,16:00:00,300,1,No I wish I spent more time on the activity,Yes
+T695,,Travelling,2/20/22,2,Sunday,16:00:00,17:00:00,60,2,No I wish I spent more time on the activity,No
+L418,,Leisure,2/20/22,2,Sunday,17:00:00,19:00:00,120,1,Yes I spent the perfect amount of time on the activity,No
+ED145,,Eating / Drinking,2/20/22,2,Sunday,19:00:00,20:00:00,60,1,Yes I spent the perfect amount of time on the activity,Yes
+R523,,Reading,2/20/22,2,Sunday,20:00:00,22:00:00,120,1,Yes I spent the perfect amount of time on the activity,No
+UD415,,Using Devices,2/20/22,2,Sunday,22:00:00,00:00:00,120,0,No I wish I spent less time on the activity,Yes
+S801,,Sleep,2/21/22,2,Monday,00:00:00,08:00:00,480,1,Yes I spent the perfect amount of time on the activity,Yes
+ED145,,Eating / Drinking,2/21/22,2,Monday,08:00:00,09:00:00,60,0,No I wish I spent less time on the activity,Yes

@@ -1,0 +1,32 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressLevel,MoodLevel
+S801,,Sleeping,20-02-2022,20,Sunday,00:15:00,08:30:00,495,1,0,2
+O733,,Shower/Freshening Up,20-02-2022,20,Sunday,08:45:00,09:30:00,45,0,0,0
+ED145,,Breakfast,20-02-2022,20,Sunday,09:45:00,10:30:00,45,1,1,2
+T695,,Sight Seeing,20-02-2022,20,Sunday,10:45:00,15:00:00,255,2,0,3
+ED145,,Lunch,20-02-2022,20,Sunday,15:15:00,16:30:00,75,2,1,3
+L418,UD415,Playing Video Games,20-02-2022,20,Sunday,16:45:00,17:30:00,45,2,0,3
+R523,,Self Study,20-02-2022,20,Sunday,17:45:00,22:30:00,285,2,2,3
+ED145,,Dinner,20-02-2022,20,Sunday,22:45:00,00:00:00,75,1,1,2
+S801,,Sleeping,21-02-2022,21,Monday,00:15:00,07:30:00,435,1,0,2
+X893,,Exercising,21-02-2022,21,Monday,07:45:00,08:30:00,45,-1,3,-1
+O733,,Shower/Freshening Up,21-02-2022,21,Monday,08:45:00,09:30:00,45,0,0,2
+ED145,,Breakfast,21-02-2022,21,Monday,09:45:00,10:30:00,45,2,1,3
+EL642,CW982,Studying,21-02-2022,21,Monday,10:45:00,14:00:00,195,2,2,3
+ED145,,Lunch,21-02-2022,21,Monday,14:15:00,15:30:00,75,1,0,2
+S801,,Taking a nap,21-02-2022,21,Monday,15:45:00,16:30:00,45,1,0,2
+L418,,Playing Pool,21-02-2022,21,Monday,16:45:00,18:00:00,75,2,1,3
+O733,,Grocery Shopping,21-02-2022,21,Monday,18:15:00,19:30:00,75,-1,2,-1
+EL642,,Studying,21-02-2022,21,Monday,19:45:00,21:30:00,105,1,3,1
+ED145,,Dinner,21-02-2022,21,Monday,21:45:00,23:00:00,75,1,1,1
+L418,UD415,Chatting with a friend,21-02-2022,21,Monday,23:15:00,00:00:00,45,2,0,2
+S801,,Sleeping,22-02-2022,21,Tuesday,00:15:00,07:30:00,435,1,0,2
+X893,,Exercising,22-02-2022,21,Tuesday,07:45:00,08:30:00,45,-1,3,-1
+O733,,Shower/Freshening Up,22-02-2022,21,Tuesday,08:45:00,09:30:00,45,1,0,2
+ED145,,Breakfast,22-02-2022,21,Tuesday,09:45:00,10:30:00,45,2,1,2
+EL642,UD415,Going through lectures,22-02-2022,21,Tuesday,10:45:00,14:00:00,195,1,2,1
+ED145,,Lunch,22-02-2022,21,Tuesday,14:15:00,15:30:00,75,2,1,2
+EL642,CW982,Studying,22-02-2022,21,Tuesday,15:45:00,18:00:00,135,1,2,2
+ED145,,Drinks with Friends,22-02-2022,21,Tuesday,18:15:00,19:30:00,75,2,0,3
+L418,UD415,Playing FIFA,22-02-2022,21,Tuesday,19:45:00,21:15:00,90,2,0,3
+ED145,,Dinner,22-02-2022,21,Tuesday,21:30:00,22:30:00,60,1,1,3
+EL642,UD415,Watching Tutorials,22-02-2022,21,Tuesday,22:45:00,00:00:00,75,1,1,2

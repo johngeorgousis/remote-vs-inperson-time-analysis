@@ -1,0 +1,39 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,"Mood scale
+(before the activity)","Subjective judgment 
+of activity's results 
+(where applicable)"
+S801,,Sleeping,2022-02-20,21,Sunday,22:00:00,07:00:00,540.0,1,7,8
+ED145,,Eating,2022-02-21,21,Monday,07:15:00,07:30:00,15.0,2,8,9
+R523,,Reading a book,2022-02-21,21,Monday,07:15:00,08:15:00,60.0,1,6,5
+T695,,Travelling to the university,2022-02-21,21,Monday,08:15:00,09:15:00,60.0,0,5,5
+EL642,,Lectures and studying at the unviersity,2022-02-21,21,Monday,09:15:00,14:00:00,285.0,-1,9,9
+T695,,Travelling from the university,2022-02-21,21,Monday,14:00:00,15:00:00,60.0,0,5,5
+ED145,,Dinner,2022-02-21,21,Monday,15:00:00,15:45:00,45.0,2,8,8
+S801,,Afternoon nap,2022-02-21,21,Monday,15:45:00,16:15:00,30.0,2,9,9
+CW982,,Working on the university coursework,2022-02-21,21,Monday,16:15:00,17:45:00,90.0,0,9,9
+UD415,,Using social media,2022-02-21,21,Monday,17:45:00,18:15:00,30.0,1,7,7
+EL642,,Watching online lectures,2022-02-21,21,Monday,18:15:00,20:00:00,105.0,0,6,4
+L418,UD415,Watching netflix,2022-02-21,21,Monday,20:00:00,21:00:00,60.0,1,8,5
+ED145,,Eating a supper,2022-02-21,21,Monday,21:00:00,21:30:00,30.0,0,7,7
+R523,,Reading a book,2022-02-21,21,Monday,21:30:00,22:00:00,30.0,1,6,5
+S801,,Sleeping,2022-02-21,21,Monday,22:00:00,07:00:00,540.0,2,9,10
+ED145,UD415,Eating,2022-02-22,21,Tuesday,07:15:00,07:30:00,15.0,2,8,9
+T695,,Travelling to the gym,2022-02-22,21,Tuesday,07:30:00,08:00:00,30.0,0,5,6
+X893,,Gym,2022-02-22,21,Tuesday,08:00:00,10:00:00,120.0,2,8,9
+T695,,Travelling to the university,2022-02-22,21,Tuesday,10:00:00,11:00:00,60.0,0,5,5
+EL642,,Lectures and studying at the unviersity,2022-02-22,21,Tuesday,11:00:00,16:45:00,345.0,-1,7,7
+T695,,Travelling from the university,2022-02-22,21,Tuesday,16:45:00,17:45:00,60.0,0,5,5
+L418,,Watching netflix and youtube,2022-02-22,21,Tuesday,17:45:00,19:00:00,75.0,1,8,8
+CW982,,Working on the coursework,2022-02-22,21,Tuesday,19:00:00,21:00:00,120.0,-1,8,9
+ED145,,Eating dinner/supper ,2022-02-22,21,Tuesday,21:00:00,21:45:00,45.0,1,8,10
+S801,,Sleeping,2022-02-22,21,Tuesday,21:45:00,06:45:00,540.0,1,8,9
+X893,UD415,Running and listening to the music,2022-02-23,21,Wednesday,06:45:00,08:00:00,75.0,2,9,10
+ED145,,Eating a breakfast,2022-02-23,21,Wednesday,08:00:00,08:30:00,30.0,1,8,9
+T695,,Travelling to the university,2022-02-23,21,Wednesday,08:30:00,09:15:00,45.0,0,5,5
+EL642,,Lectures and labs at the university,2022-02-23,21,Wednesday,09:15:00,13:00:00,225.0,0,3,2
+ED145,UD415,Break at the university,2022-02-23,21,Wednesday,13:00:00,14:15:00,75.0,1,6,8
+EL642,,Lectures and labs at the university,2022-02-23,21,Wednesday,14:15:00,18:15:00,240.0,1,9,8
+T695,,Travelling from the university,2022-02-23,21,Wednesday,18:15:00,19:15:00,60.0,0,5,5
+L418,,Cinema with a friend,2022-02-23,21,Wednesday,19:15:00,21:00:00,105.0,2,10,10
+L418,,Going out for a drink with a friend,2022-02-23,21,Wednesday,21:00:00,22:30:00,90.0,2,10,10
+S801,,Sleeping,2022-02-23,21,Wednesday,22:30:00,07:00:00,510.0,2,10,10

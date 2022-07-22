@@ -1,0 +1,43 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,was the activity stressful? (Y/N),doing activity with friends? (Y/N)
+S801,,sleeping,2022-02-15,20,Tuesday,23:00:00,06:30:00,450,1,N,N
+O733,,getting ready for the classes,2022-02-16,20,Wednesday,06:30:00,07:15:00,45,0,N,N
+T695,L418,home to university,2022-02-16,20,Wednesday,07:15:00,09:00:00,105,1,N,N
+CW982,EL642,Lab,2022-02-16,20,Wednesday,09:00:00,11:00:00,120,1,Y,Y
+L418,,gardening session at university,2022-02-16,20,Wednesday,11:15:00,12:15:00,60,2,N,Y
+ED145,UD415,lunch while watching music videos,2022-02-16,20,Wednesday,12:30:00,13:00:00,30,2,N,N
+R523,EL642,preparation for lecture,2022-02-16,20,Wednesday,13:00:00,14:00:00,59,-1,Y,N
+EL642,UD415,LOIL lecture,2022-02-16,20,Wednesday,14:15:00,15:00:00,45,0,Y,Y
+UD415,EL642,watching youtube tutorials,2022-02-16,20,Wednesday,15:15:00,16:00:00,45,1,N,N
+CW982,EL642,Lab,2022-02-16,20,Wednesday,16:15:00,18:00:00,105,1,Y,Y
+T695,UD415,back to home while listening to music,2022-02-16,20,Wednesday,18:00:00,19:15:00,75,1,N,N
+O733,,getting refresh,2022-02-16,20,Wednesday,19:15:00,19:45:00,30,2,N,N
+H179,ED145,cooking dinner and eating it,2022-02-16,20,Wednesday,19:45:00,20:30:00,45,0,N,N
+L418,UD415,watching movie,2022-02-16,20,Wednesday,20:30:00,23:15:00,165,2,N,N
+X893,UD415,walking while listening to music,2022-02-19,20,Saturday,06:15:00,07:45:00,90,1,N,Y
+O733,,getting ready,2022-02-19,20,Saturday,07:45:00,08:30:00,45,1,N,N
+ED145,,breakfast,2022-02-19,20,Saturday,08:30:00,09:00:00,30,2,N,N
+O733,T695,buying groceries,2022-02-19,20,Saturday,09:00:00,11:30:00,150,1,N,N
+H179,ED145,cooking lunch and eating it,2022-02-19,20,Saturday,11:30:00,12:45:00,75,2,N,N
+CW982,,lab work,2022-02-19,20,Saturday,12:45:00,15:30:00,164,1,Y,N
+O733,,getting ready for the job,2022-02-19,20,Saturday,15:30:00,16:15:00,45,-1,Y,N
+EL642,PW101,travelling for the job,2022-02-19,20,Saturday,16:15:00,17:45:00,90,0,N,N
+PW101,,at job,2022-02-19,20,Saturday,18:00:00,21:30:00,210,-1,Y,N
+ED145,,evening break,2022-02-19,20,Saturday,21:30:00,22:00:00,30,1,N,Y
+PW101,,job,2022-02-19,20,Saturday,22:00:00,01:30:00,210,-1,Y,N
+ED145,,night break,2022-02-19,20,Saturday,01:30:00,02:00:00,30,1,N,Y
+PW101,,job,2022-02-20,20,Sunday,02:00:00,04:30:00,150,-1,Y,N
+T695,,back to home,2022-02-20,20,Sunday,04:30:00,06:30:00,120,0,N,Y
+O733,,getting ready for the classes,2022-02-23,21,Wednesday,06:15:00,07:30:00,75,1,N,N
+T695,L418,home to university,2022-02-23,21,Wednesday,07:30:00,09:15:00,105,0,Y,N
+CW982,EL642,Lab,2022-02-23,21,Wednesday,09:15:00,11:00:00,105,0,Y,Y
+CW982,UD415,watching youtube tutorials,2022-02-23,21,Wednesday,11:00:00,11:30:00,30,1,N,N
+O733,,taking booster vaccine,2022-02-23,21,Wednesday,11:30:00,12:00:00,30,-1,Y,N
+L418,EL642,PAL session,2022-02-23,21,Wednesday,12:15:00,13:30:00,75,2,N,Y
+ED145,,lunch,2022-02-23,21,Wednesday,13:30:00,14:00:00,29,1,N,N
+EL642,UD415,LOIL lecture,2022-02-23,21,Wednesday,14:00:00,15:00:00,60,1,N,N
+R523,CW982,coursework,2022-02-23,21,Wednesday,15:00:00,16:15:00,74,-1,Y,N
+CW982,EL642,Lab,2022-02-23,21,Wednesday,16:15:00,18:00:00,105,0,Y,N
+T695,ED145,back to home while eating snacks,2022-02-23,21,Wednesday,18:00:00,19:30:00,90,0,Y,N
+O733,,getting refresh,2022-02-23,21,Wednesday,19:30:00,20:15:00,45,1,N,N
+H179,ED145,cooking dinner and eating it,2022-02-23,21,Wednesday,20:15:00,21:45:00,90,0,Y,N
+S801,UD415,sleeping while listening to music,2022-02-23,21,Wednesday,21:45:00,06:00:00,495,2,N,N

@@ -1,0 +1,45 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Outdoor/Indoor,Group/Individual
+S801,Data Not Available,Data Not Available,2022-02-22,21.0,Tuesday,00:00:00,06:00:00,360.0,2,Indoor,Indoor
+L418,Data Not Available,Morning routine,2022-02-22,21.0,Tuesday,06:00:00,07:00:00,60.0,0,Indoor,Indoor
+X893,UD415,Excersing with music,2022-02-22,21.0,Tuesday,07:00:00,09:00:00,120.0,2,Outdoor,Outdoor
+O733,UD415,Getting ready for college,2022-02-22,21.0,Tuesday,09:00:00,10:15:00,75.0,1,Indoor,Indoor
+R523,Data Not Available,Reading newspaper,2022-02-22,21.0,Tuesday,10:15:00,11:00:00,45.0,0,Indoor,Indoor
+T695,UD415,Travelling to Uni,2022-02-22,21.0,Tuesday,11:00:00,11:15:00,15.0,2,Outdoor,Outdoor
+EL642,Data Not Available,Lectures,2022-02-22,21.0,Tuesday,11:15:00,12:00:00,45.0,-2,Outdoor,Outdoor
+ED145,L418,Lunch,2022-02-22,21.0,Tuesday,12:00:00,13:15:00,75.0,2,Outdoor,Outdoor
+EL642,Data Not Available,Lecture,2022-02-22,21.0,Tuesday,13:15:00,14:00:00,45.0,-1,Outdoor,Outdoor
+T695,Data Not Available,Walking back home,2022-02-22,21.0,Tuesday,14:00:00,14:30:00,30.0,2,Outdoor,Outdoor
+CW982,Data Not Available,Group Discussion,2022-02-22,21.0,Tuesday,14:30:00,15:30:00,60.0,2,Indoor,Indoor
+CW982,Data Not Available,Individual Assignment,2022-02-22,21.0,Tuesday,15:30:00,17:00:00,90.0,0,Indoor,Indoor
+L418,UD415,Netflix,2022-02-22,21.0,Tuesday,17:00:00,19:00:00,120.0,2,Indoor,Indoor
+H179,UD415,Preparing Supper,2022-02-22,21.0,Tuesday,19:00:00,20:00:00,60.0,1,Indoor,Indoor
+L418,Data Not Available,Chilling,2022-02-22,21.0,Tuesday,20:00:00,21:30:00,90.0,1,Indoor,Indoor
+ED145,Data Not Available,Eating dinner,2022-02-22,21.0,Tuesday,21:30:00,22:00:00,30.0,0,Indoor,Indoor
+L418,UD415,Coding,2022-02-22,21.0,Tuesday,22:00:00,00:00:00,120.0,2,Indoor,Indoor
+S801,Data Not Available,Data Not Available,2022-02-23,21.0,Wednesday,00:00:00,06:00:00,360.0,2,Indoor,Indoor
+L418,Data Not Available,Morning routine,2022-02-23,21.0,Wednesday,06:00:00,07:00:00,60.0,-1,Outdoor,Outdoor
+X893,UD415,Excersing with music,2022-02-23,21.0,Wednesday,07:00:00,09:00:00,120.0,2,Indoor,Indoor
+L418,Data Not Available,Getting groomed,2022-02-23,21.0,Wednesday,09:00:00,10:00:00,60.0,1,Indoor,Indoor
+PW101,Data Not Available,Part-time job,2022-02-23,21.0,Wednesday,10:00:00,19:00:00,540.0000000000001,1,Outdoor,Outdoor
+L418,EL642,Netflix,2022-02-23,21.0,Wednesday,19:00:00,20:00:00,60.0,2,Indoor,Indoor
+H179,UD415,Preparing Supper,2022-02-23,21.0,Wednesday,20:00:00,21:00:00,60.0,2,Indoor,Indoor
+ED145,UD415,Dinner,2022-02-23,21.0,Wednesday,21:00:00,21:30:00,30.0,1,Indoor,Indoor
+EL642,Data Not Available,Individual Assignment,2022-02-23,21.0,Wednesday,21:30:00,23:00:00,90.0,1,Indoor,Indoor
+L418,L418,Coding,2022-02-23,21.0,Wednesday,23:00:00,00:00:00,60.0,2,Indoor,Indoor
+S801,Data Not Available,Data Not Available,2022-02-24,21.0,Thursday,00:00:00,08:00:00,480.0,2,Indoor,Indoor
+L418,Data Not Available,Morning routine,2022-02-24,21.0,Thursday,08:00:00,09:00:00,60.0,-1,Indoor,Indoor
+ED145,UD415,Listening to music while eating,2022-02-24,21.0,Thursday,09:00:00,09:30:00,30.0,2,Indoor,Indoor
+O733,UD415,Getting groomed,2022-02-24,21.0,Thursday,09:30:00,10:15:00,45.0,1,Indoor,Indoor
+R523,Data Not Available,Watching news,2022-02-24,21.0,Thursday,10:15:00,11:00:00,45.0,0,Indoor,Indoor
+T695,UD415,Bus to Uni,2022-02-24,21.0,Thursday,11:00:00,11:15:00,15.0,0,Indoor,Indoor
+EL642,Data Not Available,Lecture,2022-02-24,21.0,Thursday,11:15:00,12:00:00,45.0,-1,Indoor,Indoor
+ED145,L418,Eating lunch,2022-02-24,21.0,Thursday,12:00:00,13:15:00,75.0,2,Indoor,Indoor
+EL642,Data Not Available,Lecture,2022-02-24,21.0,Thursday,13:15:00,14:00:00,45.0,-1,Indoor,Indoor
+T695,Data Not Available,Walking back home,2022-02-24,21.0,Thursday,14:00:00,14:30:00,30.0,2,Indoor,Indoor
+CW982,Data Not Available,Data Not Available,2022-02-24,21.0,Thursday,14:30:00,16:00:00,90.0,0,Indoor,Indoor
+X893,Data Not Available,Data Not Available,2022-02-24,21.0,Thursday,16:00:00,17:00:00,60.0,1,Outdoor,Outdoor
+L418,Data Not Available,Chilling,2022-02-24,21.0,Thursday,17:00:00,19:00:00,120.0,2,Indoor,Indoor
+H179,Data Not Available,Cooking dinner,2022-02-24,21.0,Thursday,19:00:00,20:00:00,60.0,1,Indoor,Indoor
+L418,Data Not Available,Chilling,2022-02-24,21.0,Thursday,21:00:00,21:30:00,30.0,2,Indoor,Indoor
+ED145,Data Not Available,Eating dinner,2022-02-24,21.0,Thursday,21:30:00,22:00:00,30.0,2,Indoor,Indoor
+UD415,Data Not Available,Netflix,2022-02-24,21.0,Thursday,22:00:00,00:00:00,120.0,2,Indoor,Indoor

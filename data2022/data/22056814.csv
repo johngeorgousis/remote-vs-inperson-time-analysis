@@ -1,0 +1,50 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressLevel,PhysicalActivityLevel
+S801,nan,Sleeping,2022-02-21,21,Monday,00:15:00,07:30:00,435,2,0,0
+O733,nan,Shower/Freshening Up,2022-02-21,21,Monday,07:30:00,07:45:00,15,0,0,1
+H179,nan,Cooking,2022-02-21,21,Monday,07:45:00,08:15:00,30,2,0,1
+ED145,nan,Breakfast,2022-02-21,21,Monday,08:15:00,08:30:00,15,1,0,1
+T695,nan,ATM,2022-02-21,21,Monday,08:30:00,09:00:00,30,0,1,2
+X893,nan,,2022-02-21,21,Monday,09:00:00,10:00:00,60,2,0,3
+L418,nan,Playing badminton,2022-02-21,21,Monday,10:00:00,11:00:00,60,2,0,3
+EL642,R523,,2022-02-21,21,Monday,11:00:00,13:00:00,120,-2,3,3
+H179,nan,Cooking,2022-02-21,21,Monday,13:00:00,14:00:00,60,2,0,2
+L418,nan,Phone Call,2022-02-21,21,Monday,14:00:00,14:15:00,15,2,0,1
+T695,nan,Shopping,2022-02-21,21,Monday,14:15:00,15:30:00,75,2,0,3
+ED145,nan,Tea time,2022-02-21,21,Monday,15:30:00,16:30:00,60,1,0,2
+L418,UD415,Phone Call,2022-02-21,21,Monday,16:30:00,17:00:00,30,2,0,2
+EL642,nan,,2022-02-21,21,Monday,17:00:00,18:30:00,90,-2,2,2
+O733,nan,Prayer,2022-02-21,21,Monday,18:30:00,19:00:00,30,1,0,2
+L418,nan,TV,2022-02-21,21,Monday,19:00:00,20:30:00,90,2,0,2
+ED145,nan,Dinner,2022-02-21,21,Monday,20:30:00,21:30:00,60,2,0,1
+PW101,nan,,2022-02-21,21,Monday,21:30:00,00:00:00,150,-1,2,2
+S801,nan,Sleeping,2022-02-22,21,Tuesday,00:15:00,09:15:00,540,2,0,0
+O733,nan,Shower/Freshening Up,2022-02-22,21,Tuesday,09:15:00,09:30:00,15,0,0,1
+H179,nan,Cooking,2022-02-22,21,Tuesday,09:30:00,10:00:00,30,2,0,1
+ED145,nan,Breakfast,2022-02-22,21,Tuesday,10:00:00,10:30:00,30,1,0,1
+EL642,nan,Reading,2022-02-22,21,Tuesday,10:30:00,13:00:00,150,-2,3,2
+L418,UD415,Watching movie,2022-02-22,21,Tuesday,13:00:00,14:00:00,60,2,0,2
+H179,nan,Cleaning,2022-02-22,21,Tuesday,14:00:00,14:30:00,30,-1,1,1
+O733,nan,Hanging out,2022-02-22,21,Tuesday,14:30:00,15:30:00,60,1,1,1
+H179,nan,Tea time,2022-02-22,21,Tuesday,15:30:00,16:30:00,60,1,0,1
+PW101,nan,,2022-02-22,21,Tuesday,16:30:00,18:30:00,120,-1,2,1
+O733,nan,Prayer,2022-02-22,21,Tuesday,18:30:00,19:00:00,30,1,0,1
+H179,nan,,2022-02-22,21,Tuesday,19:00:00,21:00:00,120,-1,1,1
+ED145,nan,Dinner,2022-02-22,21,Tuesday,21:00:00,22:00:00,60,1,0,1
+EL642,CW982,,2022-02-22,21,Tuesday,22:00:00,23:45:00,105,-2,1,2
+S801,nan,,2022-02-23,21,Wednesday,00:15:00,07:30:00,435,2,0,0
+O733,nan,Shower/Freshening Up,2022-02-23,21,Wednesday,07:30:00,07:45:00,15,0,0,1
+X893,nan,,2022-02-23,21,Wednesday,07:45:00,08:45:00,60,2,0,3
+H179,nan,Cooking,2022-02-23,21,Wednesday,08:45:00,09:30:00,45,2,0,2
+ED145,nan,Breakfast,2022-02-23,21,Wednesday,09:30:00,10:00:00,30,1,0,1
+EL642,nan,French class,2022-02-23,21,Wednesday,10:15:00,11:45:00,90,1,1,3
+T695,nan,,2022-02-23,21,Wednesday,11:45:00,13:00:00,75,2,0,3
+EL642,nan,,2022-02-23,21,Wednesday,13:00:00,15:00:00,120,-1,3,3
+L418,nan,Playing badminton,2022-02-23,21,Wednesday,15:00:00,16:00:00,60,2,0,3
+H179,nan,Tea time,2022-02-23,21,Wednesday,16:00:00,17:00:00,60,1,0,1
+L418,UD415,listening songs,2022-02-23,21,Wednesday,17:00:00,17:30:00,30,2,0,1
+EL642,nan,,2022-02-23,21,Wednesday,17:30:00,19:00:00,90,-1,1,3
+O733,nan,Prayer,2022-02-23,21,Wednesday,19:00:00,19:15:00,15,1,0,2
+R523,nan,,2022-02-23,21,Wednesday,19:15:00,20:00:00,45,0,1,2
+PW101,nan,part-time office work,2022-02-23,21,Wednesday,20:00:00,21:30:00,90,-1,2,3
+ED145,nan,Dinner,2022-02-23,21,Wednesday,21:30:00,22:30:00,60,2,0,1
+EL642,CW982,,2022-02-23,21,Wednesday,22:30:00,23:45:00,75,-1,2,3

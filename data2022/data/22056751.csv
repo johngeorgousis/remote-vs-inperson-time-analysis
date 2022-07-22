@@ -1,0 +1,31 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel ,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AdditionalData1,AdditionalData2
+R523,,Reading a book,2022-02-22,21,Tuesday,08:00:00,12:00:00,240,1,(1) somewhat motivated ,(0) neutral 
+EL642,,Lecture,2022-02-22,21,Tuesday,12:15:00,16:15:00,240,0,(1) somewhat motivated ,( -1) somewhat tired
+T695,UD415,Travelling back to home,2022-02-22,21,Tuesday,16:30:00,17:00:00,30,2,(2) very motivated,(0) neutral 
+PW101,,Part Time Job,2022-02-22,21,Tuesday,17:00:00,20:00:00,180,1,(0) neither motivated nor demotivated,( -1) somewhat tired
+H179,L418,Cooking,2022-02-22,21,Tuesday,20:00:00,23:00:00,180,2,(-2) Very demotivated,(1) somewhat not tired 
+S801,,Sleeping,2022-02-22,21,Tuesday,23:15:00,07:30:00,495,2,(0) neither motivated nor demotivated,(2) not tired at all
+X893,,Exercise,2022-02-23,21,Wednesday,07:45:00,08:45:00,60,1,(2) very motivated,( -1) somewhat tired
+ 0733,,Getting Ready for uni,2022-02-23,21,Wednesday,08:45:00,09:45:00,60,0,(0) neither motivated nor demotivated,(0) neutral 
+ED145,,Breakfast,2022-02-23,21,Wednesday,09:45:00,10:15:00,30,1,(1) somewhat motivated ,(0) neutral 
+T695,UD415,Travelling to University,2022-02-23,21,Wednesday,10:20:00,11:15:00,60,0,(0) neither motivated nor demotivated,(0) neutral 
+EL642,,Lecture,2022-02-23,21,Wednesday,11:15:00,14:30:00,195,1,(1) somewhat motivated ,( -1) somewhat tired
+CW982,,Coursework,2022-02-23,21,Wednesday,14:35:00,16:45:00,135,-2,(1) somewhat motivated ,(-2) Very tired
+T695,S801,,2022-02-23,21,Wednesday,16:45:00,17:30:00,45,0,(1) somewhat motivated ,(1) somewhat not tired 
+UD415,,,2022-02-23,21,Wednesday,17:35:00,18:30:00,60,2,(2) very motivated,(2) not tired at all
+ 0733,,Cooking,2022-02-23,21,Wednesday,18:35:00,20:00:00,90,1,(2) very motivated,( -1) somewhat tired
+ED145,L418,Dinner ,2022-02-23,21,Wednesday,20:05:00,21:05:00,60,2,(2) very motivated,(2) not tired at all
+R523,,,2022-02-23,21,Wednesday,21:10:00,23:00:00,105,-1,(1) somewhat motivated ,(0) neutral 
+S801,,Sleeping,2022-02-23,21,Wednesday,23:00:00,08:00:00,540,2,(1) somewhat motivated ,(2) not tired at all
+X893,,Doing Exercise,2022-02-24,21,Thursday,08:15:00,09:15:00,60,1,(2) very motivated,(-2) Very tired
+ED145,UD415,Breakfast,2022-02-24,21,Thursday,09:05:00,10:00:00,60,1,(2) very motivated,(2) not tired at all
+H179,,Cleaning,2022-02-24,21,Thursday,10:00:00,10:30:00,30,-2,(0) neither motivated nor demotivated,(0) neutral 
+ 0733,,Getting Ready for uni,2022-02-24,21,Thursday,10:45:00,11:10:00,30,0,(1) somewhat motivated ,(2) not tired at all
+T695,,,2022-02-24,21,Thursday,11:10:00,12:00:00,45,2,(1) somewhat motivated ,(2) not tired at all
+EL642,,,2022-02-24,21,Thursday,12:15:00,16:00:00,225,1,(1) somewhat motivated ,( -1) somewhat tired
+CW982,,Coursework,2022-02-24,21,Thursday,16:05:00,18:00:00,120,2,(2) very motivated,(-2) Very tired
+T695,,Travelling back to home,2022-02-24,21,Thursday,18:00:00,18:45:00,45,1,(1) somewhat motivated ,( -1) somewhat tired
+L418,,,2022-02-24,21,Thursday,18:50:00,21:00:00,135,2,(1) somewhat motivated ,(2) not tired at all
+ED145,,Dinner ,2022-02-24,21,Thursday,21:10:00,22:00:00,45,2,(2) very motivated,(2) not tired at all
+UD415, 0733,,2022-02-24,21,Thursday,22:00:00,23:00:00,60,1,(1) somewhat motivated ,(0) neutral 
+S801,,Sleeping,2022-02-24,21,Thursday,23:00:00,08:00:00,540,2,(1) somewhat motivated ,(2) not tired at all

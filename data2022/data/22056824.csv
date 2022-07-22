@@ -1,0 +1,41 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,ActivityPlanned,ActivityTimeEfficient
+L418,ED145,Out with friends,20/02/2022,20,Sunday,00:00,04:45,285,2,No,No
+O733,,Got ready for bed,20/02/2022,20,Sunday,04:45,05:00,15,0,Yes,Yes
+S801,,,20/02/2022,20,Sunday,05:00,12:15,435,,,
+O733,,Shower,20/02/2022,20,Sunday,12:15,12:30,15,1,Yes,Yes
+ED145,UD415,Breakfast and social media,20/02/2022,20,Sunday,12:30,13:30,60,1,Yes,No
+UD415,L418,Watching suits,20/02/2022,20,Sunday,13:30,19:45,375,2,No,No
+ED145,,Eating dinner,20/02/2022,20,Sunday,19:45,21:15,90,1,Yes,No
+CW982,UD415,Doing assignments,20/02/2022,20,Sunday,21:15,23:15,120,-1,No,No
+O733,,Got ready for bed,20/02/2022,20,Sunday,23:15,23:30,15,0,Yes,Yes
+S801,,Sleeping,20/02/2022,20,Sunday,23:30,08:15,525,,,
+O733,UD415,Getting ready listening to music,21/02/2022,21,Monday,08:15,08:45,30,2,Yes,Yes
+ED145,,,21/02/2022,21,Monday,08:45,09:15,30,1,Yes,Yes
+O733,,Brushing teeth,21/02/2022,21,Monday,09:15,09:30,15,1,Yes,Yes
+H179,UD415,Cleaning room,21/02/2022,21,Monday,09:30,10:00,30,0,No,No
+T695,,Going to gym,21/02/2022,21,Monday,10:00,10:30,30,-1,Yes,No
+X893,UD415,Gymming,21/02/2022,21,Monday,10:30,11:45,75,2,Yes,Yes
+O733,,Showering  ,21/02/2022,21,Monday,11:45,12:00,15,1,Yes,Yes
+T695,UD415,Going home,21/02/2022,21,Monday,12:00,12:30,30,0,Yes,No
+ED145,,Making lunch,21/02/2022,21,Monday,12:30,13:15,45,0,No,Yes
+CW982,R523,Researching projects,21/02/2022,21,Monday,13:15,14:30,75,-1,No,No
+EL642,UD415,Catching up on lectures,21/02/2022,21,Monday,14:30,16:45,135,-2,Yes,No
+L418,UD415,Watching TV,21/02/2022,21,Monday,16:45,19:30,165,2,No,No
+ED145,,having pizza,21/02/2022,21,Monday,19:30,20:45,75,2,No,Yes
+L418,UD415,Watching TV,21/02/2022,21,Monday,20:45,22:30,105,2,No,No
+O733,,Getting ready for bed,21/02/2022,21,Monday,22:30,22:45,15,0,Yes,Yes
+S801,,,21/02/2022,21,Monday,22:45,08:15,570,,,
+O733,,Getting ready for day,22/02/2022,21,Tuesday,08:15,09:00,45,0,Yes,No
+ED145,,Breakfast,22/02/2022,21,Tuesday,09:00,09:45,45,-1,Yes,No
+H179,,Tidying,22/02/2022,21,Tuesday,09:45,10:15,30,-1,No,No
+L418,UD415,Netflix,22/02/2022,21,Tuesday,10:15,11:15,60,1,No,No
+T695,UD415,Getting bus,22/02/2022,21,Tuesday,11:15,11:45,30,0,Yes,Yes
+X893,UD415,Gymming,22/02/2022,21,Tuesday,11:45,13:00,75,1,Yes,Yes
+O733,,Showering,22/02/2022,21,Tuesday,13:00,13:15,15,1,Yes,Yes
+T695,,Going home,22/02/2022,21,Tuesday,13:15,13:45,30,0,Yes,Yes
+ED145,,Lunch,22/02/2022,21,Tuesday,13:45,14:15,30,1,Yes,Yes
+EL642,UD415,Online learning,22/02/2022,21,Tuesday,14:15,17:00,165,0,No,No
+ED145,,Dinner,22/02/2022,21,Tuesday,17:00,18:00,60,1,Yes,No
+L418,UD415,Netflix,22/02/2022,21,Tuesday,18:00,21:30,210,2,No,No
+R523,,Reading my book,22/02/2022,21,Tuesday,21:30,23:00,90,1,No,Yes
+S801,,Sleeping,22/02/2022,21,Tuesday,23:00,,15,,Yes,Yes

@@ -1,0 +1,40 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SleepQuality,FocusLevel
+S801,,Sleep,21/02/2022,22,Monday,00:00:00,08:00:00,480,0,2,
+L418,,Morning Routine,21/02/2022,22,Monday,08:00:00,08:30:00,30,1,,
+H179,,Cleaning Room,21/02/2022,22,Monday,08:30:00,09:15:00,45,0,,1
+EL642,CW982,Uni Classes/work,21/02/2022,22,Monday,09:15:00,14:15:00,300,1,,3
+ED145,,preparing and eating lunch,21/02/2022,22,Monday,14:15:00,15:15:00,60,2,,2
+UD415,L418,Speaking to a friend,21/02/2022,22,Monday,15:15:00,16:00:00,45,1,,
+PW101,,part-time work,21/02/2022,22,Monday,16:30:00,21:30:00,300,1,,1
+T695,,Travelling back home,21/02/2022,22,Monday,21:30:00,22:15:00,45,1,,
+ED145,,preparing and eating dinner,21/02/2022,22,Monday,22:15:00,23:15:00,60,1,,
+CW982,,ADS Lab work,21/02/2022,22,Monday,23:15:00,00:00:00,45,1,,3
+S801,,Sleep,22/02/2022,22,Tuesday,00:00:00,08:00:00,480,0,1,
+L418,,Morning Routine,22/02/2022,22,Tuesday,08:00:00,08:30:00,30,1,,
+X893,,Exercise,22/02/2022,22,Tuesday,08:30:00,09:15:00,45,1,,1
+EL642,,Uni Classes,22/02/2022,22,Tuesday,09:15:00,10:15:00,60,1,,2
+O733,,Personal Project work,22/02/2022,22,Tuesday,10:15:00,12:15:00,120,2,,2
+ED145,,preparing and eating lunch,22/02/2022,22,Tuesday,12:15:00,13:15:00,60,2,,2
+EL642,,Uni Classes,22/02/2022,22,Tuesday,13:15:00,14:15:00,60,1,,2
+UD415,,Scrolling Phone,22/02/2022,22,Tuesday,14:15:00,16:00:00,105,1,,0
+PW101,,part-time work,22/02/2022,22,Tuesday,16:00:00,21:30:00,330,1,,1
+T695,,Travelling back home,22/02/2022,22,Tuesday,21:30:00,22:15:00,45,1,,
+ED145,,preparing and eating dinner,22/02/2022,22,Tuesday,22:15:00,23:15:00,60,1,,
+CW982,,ADS Lab work,22/02/2022,22,Tuesday,23:15:00,00:00:00,45,1,,3
+UD415,,Scrolling Phone,23/02/2022,22,Wednesday,00:00:00,01:00:00,60,1,,0
+L418,,Speaking to a friend,23/02/2022,22,Wednesday,01:00:00,03:00:00,120,2,,
+S801,,Sleep,23/02/2022,22,Wednesday,03:00:00,05:00:00,120,0,0,
+L418,UD415,Speaking to a friend,23/02/2022,22,Wednesday,05:00:00,08:00:00,180,2,,
+L418,,Morning Routine,23/02/2022,22,Wednesday,08:00:00,08:30:00,30,1,,
+T695,,Travelling to uni,23/02/2022,22,Wednesday,08:30:00,09:15:00,45,0,,
+EL642,CW982,Lab,23/02/2022,22,Wednesday,09:15:00,11:15:00,120,0,,0
+L418,,Walking around uni,23/02/2022,22,Wednesday,11:15:00,12:15:00,60,1,,
+EL642,,Lectures,23/02/2022,22,Wednesday,12:15:00,13:15:00,60,-1,,0
+ED145,,Lunch,23/02/2022,22,Wednesday,13:15:00,14:15:00,60,1,,
+EL642,,Lectures,23/02/2022,22,Wednesday,14:15:00,15:15:00,60,0,,0
+L418,,Speaking to a friend,23/02/2022,22,Wednesday,15:15:00,16:15:00,60,1,,
+EL642,,lab,23/02/2022,22,Wednesday,16:15:00,18:15:00,120,-1,,1
+T695,,Travelling back home,23/02/2022,22,Wednesday,18:15:00,19:00:00,45,0,,
+CW982,,ADS Lab work,23/02/2022,22,Wednesday,19:00:00,20:00:00,60,-1,,1
+ED145,,Dinner,23/02/2022,22,Wednesday,20:00:00,21:00:00,60,2,,
+S801,,Sleep,23/02/2022,22,Wednesday,21:00:00,00:00:00,180,2,,

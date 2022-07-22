@@ -1,0 +1,45 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Stand_Sit_Lying_Position,Tired
+0,S801,,,19/02/2022,20,Saturday,23:00,07:30,510,2,Lying down,No
+1,PW101,MS23,Part time job,20/02/2022,20,Sunday,07:30,10:30,180,-2,Standing,Yes
+2,ED145,,Breakfast,20/02/2022,20,Sunday,10:30,11:15,45,2,Sitting,No
+3,UD415,MS23,Social media,20/02/2022,20,Sunday,11:15,12:30,75,1,Sitting,No
+4,L418,MS23,,20/02/2022,20,Sunday,12:30,13:45,75,1,Sitting,No
+5,ED145,,Lunch,20/02/2022,20,Sunday,13:45,14:15,30,2,Sitting,No
+6,CW982,MS23,,20/02/2022,20,Sunday,14:15,15:30,75,0,Sitting,Yes
+7,O733,,Taking a shower,20/02/2022,20,Sunday,15:30,16:00,30,2,Standing,No
+8,T695,MS23,Went to supermarket,20/02/2022,20,Sunday,16:00,16:45,45,1,Standing,Yes
+9,L418,,Movie,20/02/2022,20,Sunday,16:45,19:30,165,1,Sitting,No
+10,ED145,,Dinner,20/02/2022,20,Sunday,19:30,20:15,45,2,Sitting,No
+11,UD415,MS23,,20/02/2022,20,Sunday,20:15,21:30,75,2,Sitting,No
+12,L418,,Gaming,20/02/2022,20,Sunday,21:30,23:30,120,2,Sitting,No
+13,S801,,,20/02/2022,20,Sunday,23:30,06:30,420,2,Lying down,No
+14,O733,,Shower,21/02/2022,20,Monday,06:30,06:45,15,2,Standing,No
+15,PW101,MS23,,21/02/2022,20,Monday,06:45,08:45,120,0,Standing,Yes
+16,T695,MS23,,21/02/2022,20,Monday,08:45,09:00,15,0,Standing,No
+17,X893,MS23,,21/02/2022,20,Monday,09:00,10:00,60,1,Standing,Yes
+18,ED145,MS23,,21/02/2022,20,Monday,10:00,10:45,45,2,Sitting,No
+19,PW101,,Calling friend,21/02/2022,20,Monday,10:45,12:00,75,2,Lying down,No
+20,S801,,,21/02/2022,20,Monday,12:00,17:30,330,0,Lying down,Yes
+21,ED145,,Dinner,21/02/2022,20,Monday,17:30,18:00,30,2,Sitting,No
+22,L418,,,21/02/2022,20,Monday,18:00,21:00,180,2,Sitting,No
+23,EL642,,,21/02/2022,20,Monday,21:00,22:30,90,-1,Sitting,Yes
+24,L418,,Gaming,21/02/2022,20,Monday,22:30,01:00,150,2,Sitting,No
+25,S801,,,22/02/2022,20,Tuesday,01:30,06:30,300,2,Lying down,No
+26,O733,,Shower,22/02/2022,20,Tuesday,06:30,07:15,45,0,Standing,No
+27,T695,MS23,,22/02/2022,20,Tuesday,07:15,07:30,15,0,Standing,No
+28,PW101,MS23,,22/02/2022,20,Tuesday,07:30,08:45,75,-1,Standing,Yes
+29,T695,MS23,,22/02/2022,20,Tuesday,08:45,09:00,15,1,Standing,No
+30,L418,MS23,,22/02/2022,20,Tuesday,09:00,10:30,90,1,Sitting,No
+31,EL642,,,22/09/2022,50,Thursday,10:30,12:00,90,-1,Sitting,Yes
+32,T695,MS23,,22/02/2022,20,Tuesday,12:00,12:15,15,0,Standing,No
+33,O733,,Buying from shop,22/02/2022,20,Tuesday,12:15,12:30,15,1,Standing,No
+34,T695,MS23,,22/02/2022,20,Tuesday,12:30,12:45,15,0,Standing,No
+35,O733,,Talking to friends,22/02/2022,20,Tuesday,12:45,13:45,60,2,Standing,No
+36,ED145,,Lunch,22/02/2022,20,Tuesday,13:45,14:15,30,2,Sitting,No
+37,O733,,Fixing laptop,22/02/2022,20,Tuesday,14:15,15:30,75,1,Sitting,Yes
+38,S801,,,22/02/2022,20,Tuesday,15:30,18:30,180,0,Lying down,Yes
+39,O733,,Shower,22/02/2022,20,Tuesday,18:30,19:00,30,2,Standing,No
+40,ED145,,Dinner,22/02/2022,20,Tuesday,19:00,20:00,60,1,Sitting,No
+41,EL642,,,22/02/2022,20,Tuesday,20:00,21:30,90,-2,Sitting,Yes
+42,L418,,,22/02/2022,20,Tuesday,21:30,23:30,120,2,Sitting,No
+43,S801,,,22/02/2022,20,Tuesday,23:30,06:30,420,2,Lying down,No

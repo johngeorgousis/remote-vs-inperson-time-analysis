@@ -1,0 +1,48 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Location,NoOfPeopleInvolved
+UD415,,Browsing social media,16/02/2022,20,Wednesday,00:00,00:30,30,2,Home,1
+S801,,Sleeping,16/02/2022,20,Wednesday,00:30,09:15,525,1,Home,1
+O733,,Showering,16/02/2022,20,Wednesday,09:15,09:30,15,0,Home,1
+ED145,,Eating breakfast,16/02/2022,20,Wednesday,09:30,09:45,15,1,Home,1
+X893,T695,Walking to campus,16/02/2022,20,Wednesday,09:45,10:30,45,2,Outdoors,1
+ED145,EL642,Working on coursework and reading lecture material,16/02/2022,20,Wednesday,10:30,13:30,180,1,Campus,3
+ED145,,Eating lunch,16/02/2022,20,Wednesday,13:30,14:15,45,1,Campus,4
+EL642,,Reading lecture material,16/02/2022,20,Wednesday,14:15,16:15,120,0,Campus,1
+X893,T695,Walking home,16/02/2022,20,Wednesday,16:15,17:00,45,2,Outdoors,1
+EL642,,Reading lecture material,16/02/2022,20,Wednesday,17:00,17:45,45,-1,Home,1
+H179,ED145,Cooking and eating dinner,16/02/2022,20,Wednesday,17:45,19:00,75,0,Home,2
+L418,,Watching television,16/02/2022,20,Wednesday,19:00,20:00,60,-1,Home,4
+L418,,Watching football,16/02/2022,20,Wednesday,20:00,22:15,135,0,Home,4
+UD415,,Browsing social media,16/02/2022,20,Wednesday,22:15,23:15,60,1,Home,1
+T695,,Travelling into city centre,16/02/2022,20,Wednesday,23:15,23:30,15,1,Private Transport,1
+ED145,,Drinking socially,17/02/2022,20,Thursday,23:30,00:00,30,1,City Centre,14
+ED145,,Drinking socially,17/02/2022,20,Thursday,00:00,01:30,90,1,City Centre,14
+T695,,Travelling Home,17/02/2022,20,Thursday,01:30,01:45,15,0,Public Transport,1
+S801,,Sleeping,17/02/2022,20,Thursday,01:45,09:15,450,1,Home,1
+ED145,O733,Eating Breakfast and talking with housemate,17/02/2022,20,Thursday,09:15,11:15,120,-1,Home,2
+T695,,Driving into Bath,17/02/2022,20,Thursday,11:15,11:30,15,0,Private Transport,3
+ED145,O733,Shopping and got coffee,17/02/2022,20,Thursday,11:30,13:00,90,1,City Centre,3
+T695,,Driving to a friends house,17/02/2022,20,Thursday,13:00,13:15,15,1,Private Transport,3
+O733,,Socialising at friends house,17/02/2022,20,Thursday,13:15,14:15,60,1,Friends Home,6
+T695,,Driving into Bath,17/02/2022,20,Thursday,14:15,14:30,15,-1,Private Transport,4
+ED145,,Out to eat food,17/02/2022,20,Thursday,14:30,16:00,90,2,City Centre,4
+T695,,Driving home,17/02/2022,20,Thursday,16:00,16:15,15,0,Private Transport,4
+L418,,Watching a film,17/02/2022,20,Thursday,16:15,20:00,225,1,Home,3
+L418,,Watching football,17/02/2022,20,Thursday,20:00,22:15,135,2,Home,3
+L418,UD415,Watching a film and eating takeaway,17/02/2022,20,Thursday,22:15,00:00,105,2,Home,3
+L418,UD415,Watching a film and eating takeaway,18/02/2022,20,Friday,00:00,01:30,90,2,Home,3
+O733,,Clean teeth,18/02/2022,20,Friday,01:30,01:45,15,0,Home,1
+S801,,Sleeping,18/02/2022,20,Friday,01:45,09:15,450,1,Home,1
+UD415,,Browsing social media,18/02/2022,20,Friday,09:15,10:15,60,2,Home,1
+O733,,Shower,18/02/2022,20,Friday,10:15,10:30,15,1,Home,1
+ED145,O733,Cooking + eating breakfast,18/02/2022,20,Friday,10:30,11:30,60,1,Home,2
+O733,,Talking with housemates,18/02/2022,20,Friday,11:30,11:45,15,1,Home,4
+CW982,,ADS Coursework,18/02/2022,20,Friday,11:45,13:15,90,0,Home,1
+O733,UD415,Browsing social media and talking with housemates,18/02/2022,20,Friday,13:15,13:45,30,1,Home,3
+EL642,,Catching up with missed lecture,18/02/2022,20,Friday,13:45,15:15,90,-1,Home,1
+H179,,Cleaning kitchen,18/02/2022,20,Friday,15:15,16:00,45,-2,Home,2
+CW982,,Machine learning coursework,18/02/2022,20,Friday,16:00,17:30,90,-1,Home,1
+ED145,,Eating dinner,18/02/2022,20,Friday,17:30,18:00,30,1,Home,2
+UD415,,Browsing social media,18/02/2022,20,Friday,18:00,19:30,90,2,Home,1
+ED145,L418,Watching a film and drinking,18/02/2022,20,Friday,19:30,22:30,180,1,Home,3
+O733,,Getting ready for bed,18/02/2022,20,Friday,22:30,22:45,15,0,Home,1
+O733,,Browsing social media,18/02/2022,20,Friday,22:45,00:00,75,2,Home,1

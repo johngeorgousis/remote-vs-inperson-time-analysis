@@ -1,0 +1,75 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,FoodType,TransportType
+UD415,,Browsing Instagram and whatsapp,2022-02-21,21,Monday,00:00,00:30,30,1,,
+R523,,Reading a fiction book,2022-02-21,21,Monday,00:30,01:00,30,2,,
+S801,,Regular night sleep,2022-02-21,21,Monday,01:00,08:00,420,2,,
+ X893,,Morning back exercises,2022-02-21,21,Monday,08:00,08:15,15,0,,
+O733,,Brush and shower,2022-02-21,21,Monday,08:15,08:45,30,1,,
+ED145,,Breakfast,2022-02-21,21,Monday,08:45,09:15,30,0,Healthy,
+R523,,Bible reading and quiet time,2022-02-21,21,Monday,09:15,09:45,30,2,,
+T695,,Travel to University,2022-02-21,21,Monday,09:45,10:15,30,0,,Public transport
+EL642,,University Lecture,2022-02-21,21,Monday,10:15,11:15,60,-1,,
+ED145,L418,Break time; having coffee and cake with friends,2022-02-21,21,Monday,11:15,12:15,60,1,Junk,
+EL642,,University Lecture,2022-02-21,21,Monday,12:15,13:15,60,0,,
+ED145,UD415,Lunch on campus; also checked messages,2022-02-21,21,Monday,13:15,14:30,75,1,Healthy,
+T695,,Travel to study space on campus,2022-02-21,21,Monday,14:30,14:45,15,0,,"Personal (walk, cycle etc.)"
+CW982,,Working on coursework,2022-02-21,21,Monday,14:45,15:45,60,0,,
+L418,O733,Taking a short break; listening to music,2022-02-21,21,Monday,15:45,16:00,15,1,,
+CW982,,Working on coursework,2022-02-21,21,Monday,16:00,17:00,60,-1,,
+T695,,Travel back home from campus,2022-02-21,21,Monday,17:00,17:45,45,0,,Public transport
+L418,UD415,Snacks and watching some tv show,2022-02-21,21,Monday,17:45,18:30,45,2,Junk,
+O733,,Freshen up,2022-02-21,21,Monday,18:30,19:00,30,1,,
+T695,,Travel to friend's house,2022-02-21,21,Monday,19:00,19:30,30,0,,Public transport
+ED145,,Dinner with friends,2022-02-21,21,Monday,19:30,20:30,60,2,Healthy,
+O733,,Impact group discussion,2022-02-21,21,Monday,20:30,21:30,60,1,,
+ED145,,Snacks or desserts,2022-02-21,21,Monday,21:30,21:45,15,2,Junk,
+T695,,Return home,2022-02-21,21,Monday,21:45,22:15,30,0,,Car with car-pooling
+L418,,Talking and music with housemates,2022-02-21,21,Monday,22:15,23:00,45,2,,
+EL642,,Revising some lecture content,2022-02-21,21,Monday,23:00,00:00,-1380,-1,,
+EL642,,Revision of lectures,2022-02-23,21,Wednesday,00:00,01:00,60,-1,,
+UD415,,Browsing Instagram,2022-02-23,21,Wednesday,01:00,01:15,15,1,,
+R523,,Reading a fiction book,2022-02-23,21,Wednesday,01:15,01:45,30,1,,
+S801,,Regular night sleep,2022-02-23,21,Wednesday,01:45,08:00,375,2,,
+O733,,Brush and get dressed,2022-02-23,21,Wednesday,08:00,08:30,30,0,,
+ED145,,Breakfast,2022-02-23,21,Wednesday,08:30,08:45,15,0,Healthy,
+T695,O733,Travel to University and listening to music,2022-02-23,21,Wednesday,08:45,09:15,30,1,,Public transport
+EL642,,Lab work,2022-02-23,21,Wednesday,09:15,11:00,105,-1,,
+T695,,Walking to next lab location,2022-02-23,21,Wednesday,11:00,11:15,15,0,,"Personal (walk, cycle etc.)"
+EL642,,Lab work,2022-02-23,21,Wednesday,11:15,12:00,45,0,,
+PW101,,Teaching assistant,2022-02-23,21,Wednesday,12:00,13:00,60,0,,
+T695,,Walk to chaplaincy,2022-02-23,21,Wednesday,13:00,13:15,15,0,,"Personal (walk, cycle etc.)"
+ED145,,Lunch at the chaplaincy,2022-02-23,21,Wednesday,13:15,14:30,75,1,Healthy,
+EL642,,Lab work,2022-02-23,21,Wednesday,14:30,16:00,90,-1,,
+ED145,L418,Quick hot chocolate break,2022-02-23,21,Wednesday,16:00,16:15,15,1,Junk,
+EL642,,Lab work,2022-02-23,21,Wednesday,16:15,18:00,105,-2,,
+T695,,From campus to home,2022-02-23,21,Wednesday,18:00,18:30,30,0,,Public transport
+ED145,UD415,Snacks and video call with family,2022-02-23,21,Wednesday,18:30,19:15,45,2,Junk,
+ X893,,Home workout,2022-02-23,21,Wednesday,19:15,20:00,45,1,,
+L418,,Post workout rest,2022-02-23,21,Wednesday,20:00,20:15,15,1,,
+ED145,,Cooking and eating dinner,2022-02-23,21,Wednesday,20:15,21:30,75,0,Healthy,
+L418,,Relaxing with housemates,2022-02-23,21,Wednesday,21:30,22:15,45,1,,
+CW982,,Working on coursework,2022-02-23,21,Wednesday,22:15,23:15,60,-1,,
+ X893,,Short walk,2022-02-23,21,Wednesday,23:15,23:45,30,0,,"Personal (walk, cycle etc.)"
+UD415,,Browsing Instagram and Whatsapp,2022-02-23,21,Wednesday,23:45,00:00,-1425,1,,
+UD415,,Watching TV show,2022-02-24,21,Thursday,00:00,00:45,45,2,,
+S801,,Regular night sleep,2022-02-24,21,Thursday,00:45,07:45,420,1,,
+O733,,Brush and shower,2022-02-24,21,Thursday,07:45,08:30,45,0,,
+ED145,,Cook and have breakfast,2022-02-24,21,Thursday,08:30,09:15,45,1,Healthy,
+R523,,Reading the Bible and spending quiet time,2022-02-24,21,Thursday,09:15,09:45,30,2,,
+T695,O733,Travel to university and listening to music,2022-02-24,21,Thursday,09:45,10:15,30,1,,Public transport
+EL642,,Course lecture,2022-02-24,21,Thursday,10:15,11:15,60,-1,,
+L418,ED145,Coffee break,2022-02-24,21,Thursday,11:15,11:45,30,1,Junk,
+T695,,Walk to library,2022-02-24,21,Thursday,11:45,12:00,15,0,,"Personal (walk, cycle etc.)"
+CW982,,Working on group coursework,2022-02-24,21,Thursday,12:00,14:00,120,-1,,
+ED145,,Lunch on campus,2022-02-24,21,Thursday,14:00,15:00,60,0,Healthy,
+CW982,,Working on group coursework,2022-02-24,21,Thursday,15:00,16:00,60,-1,,
+ X893,,Badminton at University,2022-02-24,21,Thursday,16:00,17:30,90,1,,
+T695,,University to home,2022-02-24,21,Thursday,17:30,18:15,45,0,,Public transport
+S801,,Short nap,2022-02-24,21,Thursday,18:15,18:45,30,1,,
+O733,,Freshen up,2022-02-24,21,Thursday,18:45,19:15,30,0,,
+T695,,Travel to society meeting location,2022-02-24,21,Thursday,19:15,19:30,15,0,,"Personal (walk, cycle etc.)"
+O733,,Society gathering,2022-02-24,21,Thursday,19:30,21:00,90,1,,
+ED145,L418,Snacks at gathering and talking with friends,2022-02-24,21,Thursday,21:00,21:15,15,1,Junk,
+T695,,From society gathering to home,2022-02-24,21,Thursday,21:15,21:30,15,0,,Car with car-pooling
+ED145,,Dinner with housemates,2022-02-24,21,Thursday,21:30,22:30,60,1,Healthy,
+UD415,,Video call with friends,2022-02-24,21,Thursday,22:30,23:00,30,2,,
+L418,UD415,Relaxing and watching a tv show,2022-02-24,21,Thursday,23:00,00:00,-1380,1,,

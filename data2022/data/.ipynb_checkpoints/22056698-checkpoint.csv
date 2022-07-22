@@ -1,0 +1,41 @@
+,PrimaryActivity,SecondaryActivity,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SuccessScore,RecreationalDrugs
+0,Leisure,,L418,,,2022-02-21,21,Mon,00:00,01:30,90,2,-1,None
+1,Sleep,,S801,,,2022-02-21,21,Mon,01:30,10:30,540,1,1,None
+2,Leisure,,L418,,,2022-02-21,21,Mon,10:30,11:15,45,1,-1,None
+3,Other,Eating / Drinking,O733,ED145,Morning Routine,2022-02-21,21,Mon,11:15,11:45,30,1,1,None
+4,Education / Lectures,,EL642,,Online Lectures,2022-02-21,21,Mon,11:45,12:45,60,0,-1,None
+5,Travelling,Exercise,T695,X893,Commute Uni,2022-02-21,21,Mon,11:45,12:15,30,1,1,None
+6,Education / Lectures,,EL642,,,2022-02-21,21,Mon,12:15,13:00,45,1,1,None
+7,Coursework,,CW982,,,2022-02-21,21,Mon,13:00,17:00,240,0,-2,None
+8,Travelling,Exercise,T695,X893,Commute Home,2022-02-21,21,Mon,17:00,17:15,15,1,2,None
+9,Housework,,H179,,,2022-02-21,21,Mon,17:15,17:45,30,1,2,None
+10,Leisure,,L418,,,2022-02-21,21,Mon,17:45,18:30,45,2,2,None
+11,Education / Lectures,,EL642,,Online Lectures,2022-02-21,21,Mon,18:30,20:00,90,0,0,None
+12,Eating / Drinking,,ED145,,,2022-02-21,21,Mon,20:00,20:30,30,2,2,None
+13,Leisure,,L418,,,2022-02-21,21,Mon,20:30,00:30,240,2,2,None
+14,Sleep,,S801,,,2022-02-22,21,Tue,00:30,09:30,540,2,0,None
+15,Other,Eating / Drinking,O733,ED145,Morning Routine,2022-02-22,21,Tue,09:30,10:45,75,2,1,None
+16,Travelling,,T695,,Commute Uni,2022-02-22,21,Tue,10:45,11:15,30,-1,-1,None
+17,Education / Lectures,,EL642,,,2022-02-22,21,Tue,11:15,12:00,45,1,1,None
+18,Coursework,,CW982,,This Spreadsheet,2022-02-22,21,Tue,12:00,14:00,120,1,2,None
+19,Eating / Drinking,,ED145,,,2022-02-22,21,Tue,14:00,15:15,75,2,2,Caffeine
+20,Coursework,,CW982,,,2022-02-22,21,Tue,15:15,16:30,75,2,2,None
+21,Travelling,,T695,,,2022-02-22,21,Tue,16:30,17:15,45,2,0,None
+22,Leisure,,L418,,,2022-02-22,21,Tue,17:15,17:45,30,2,0,None
+23,Exercise,,X893,,,2022-02-22,21,Tue,17:45,19:00,75,2,2,None
+24,Housework,,H179,,Shopping + Cooking,2022-02-22,21,Tue,19:00,20:45,105,0,2,None
+25,Leisure,,L418,,,2022-02-22,21,Tue,20:45,00:30,225,2,2,None
+26,Sleep,,S801,,,2022-02-23,21,Wed,00:30,03:00,150,0,-2,None
+27,Sleep,,S801,,,2022-02-23,21,Wed,03:00,09:30,390,1,1,None
+28,Leisure,,L418,,,2022-02-23,21,Wed,09:30,11:00,90,1,0,None
+29,Other,,O733,,Morning Routine,2022-02-23,21,Wed,11:00,12:00,60,1,1,None
+30,Travelling,Exercise,T695,X893,,2022-02-23,21,Wed,12:00,12:30,30,2,2,None
+31,Coursework,,CW982,,,2022-02-23,21,Wed,12:30,14:00,90,0,1,None
+32,Eating / Drinking,,ED145,,,2022-02-23,21,Wed,14:00,14:30,30,2,2,None
+33,Other,,O733,,Medical,2022-02-23,21,Wed,14:30,15:00,30,2,2,None
+34,Education / Lectures,,EL642,,,2022-02-23,21,Wed,15:00,15:45,45,1,0,None
+35,Coursework,,CW982,,,2022-02-23,21,Wed,15:45,18:00,135,1,0,None
+36,Travelling,Exercise,T695,X893,,2022-02-23,21,Wed,18:00,18:15,15,0,2,None
+37,Leisure,,L418,,,2022-02-23,21,Wed,18:15,19:30,75,2,2,None
+38,Eating / Drinking,,ED145,,,2022-02-23,21,Wed,19:30,19:45,15,0,1,None
+39,Leisure,,L418,,Pub,2022-02-23,21,Wed,19:45,00:00,255,2,2,Alcohol

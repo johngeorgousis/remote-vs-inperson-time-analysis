@@ -1,0 +1,33 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Money Spent (£),On whom?
+S801,,,11/02/2022,19,Friday,03:00,10:45,465,0,0,Yourself
+O733,,Shower + Toilet,11/02/2022,19,Friday,10:45,11:15,30,0,0,Yourself
+T695,,Uber,11/02/2022,19,Friday,11:15,11:30,15,-1,0 < 10,Yourself
+X893,L418,Tennis + Coach,11/02/2022,19,Friday,11:30,13:30,120,2,20,On others
+ED145,L418,Lunch with Coach,11/02/2022,19,Friday,13:30,14:30,60,2,0 < 10,On others
+T695,UD415,Bus Home,11/02/2022,19,Friday,14:30,15:00,30,-2,0 < 10,Yourself
+O733,UD415,Shower + Music,11/02/2022,19,Friday,15:00,15:30,30,1,0,Yourself
+UD415,,Netflix,11/02/2022,19,Friday,15:30,19:30,240,1,0,Yourself
+ED145,,Dinner + Parents,11/02/2022,19,Friday,19:30,20:30,60,1,0,On others
+EL642,UD415,CWs and Phone,11/02/2022,19,Friday,20:30,02:30,360,-2,0,Yourself
+S801,,,12/02/2022,19,Saturday,02:30,11:30,540,0,0,Yourself
+O733,,Shower,12/02/2022,19,Saturday,11:30,11:45,15,0,0,Yourself
+T695,,Bolt,12/02/2022,19,Saturday,11:45,12:15,30,-1,0 < 10,Yourself
+X893,L418,Tennis + Coach,12/02/2022,19,Saturday,12:30,14:30,120,2,20,On others
+L418,UD415,Shopping Mall,12/02/2022,19,Saturday,14:30,15:15,45,2,10 ≤ 20,On others
+T695,UD415,Lift Home,12/02/2022,19,Saturday,15:15,15:45,30,2,0,On others
+O733,,Shower,12/02/2022,19,Saturday,15:45,16:00,15,1,0,Yourself
+ED145,,,12/02/2022,19,Saturday,16:00,16:30,30,0,0,Yourself
+L418,UD415,TV + Internet,12/02/2022,19,Saturday,16:30,19:30,179,1,0,Yourself
+ED145,,Food +  Parents,12/02/2022,19,Saturday,19:30,20:15,45,1,0,Yourself
+T695,,Bolt,12/02/2022,19,Saturday,20:15,20:45,30,-1,0 < 10,Yourself
+ED145,L418,Drinking at friends,12/02/2022,19,Saturday,20:45,04:30,465,2,20,On others
+S801,,Hangover,13/02/2022,19,Sunday,04:30,13:30,540,-1,0,Yourself
+O733,,Shower,13/02/2022,19,Sunday,13:30,14:00,30,0,0,Yourself
+ED145,,Breakfast at friends,13/02/2022,19,Sunday,14:00,15:30,90,2,10 ≤ 20,On others
+T695,UD415,Lift,13/02/2022,19,Sunday,15:30,16:00,30,2,0,Yourself
+X893,L418,Tennis + Coach,13/02/2022,19,Sunday,16:00,18:00,120,2,20,On others
+T695,,Lift,13/02/2022,19,Sunday,18:00,18:30,29,1,0 < 10,On others
+L418,UD415,Netflix + Internet,13/02/2022,19,Sunday,18:30,19:30,60,1,0,Yourself
+ED145,,,13/02/2022,19,Sunday,19:30,20:30,60,0,0,Yourself
+EL642,UD415,CWs and Phone,13/02/2022,19,Sunday,20:30,01:30,300,-2,0,Yourself
+S801,,,14/02/2022,20,Monday,01:30,09:45,495,0,0,Yourself

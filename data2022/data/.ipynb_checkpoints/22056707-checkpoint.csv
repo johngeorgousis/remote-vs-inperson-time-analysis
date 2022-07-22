@@ -1,0 +1,60 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Coffee?,ProductivityScore
+UD415,,Using Devices,2022-02-21,21,Monday,00:00,01:15,75,1.0,No,-2.0
+S801,,Sleep,2022-02-21,21,Monday,01:15,07:45,390,,,
+O733,,Other,2022-02-21,21,Monday,07:45,08:15,30,0.0,No,0.0
+ED145,,Eating / Drinking,2022-02-21,21,Monday,08:15,08:30,15,1.0,,
+T695,,Travelling,2022-02-21,21,Monday,08:45,09:15,30,-1.0,,
+EL642,,Education / Lectures,2022-02-21,21,Monday,09:15,10:00,45,-1.0,Yes,1.0
+CW982,,Coursework,2022-02-21,21,Monday,10:15,12:00,105,0.0,No,1.0
+ED145,,Eating / Drinking,2022-02-21,21,Monday,12:15,13:00,45,1.0,,
+EL642,,Education / Lectures,2022-02-21,21,Monday,13:15,14:00,45,1.0,No,0.0
+UD415,,Using Devices,2022-02-21,21,Monday,14:00,15:00,60,2.0,No,-1.0
+R523,,Reading,2022-02-21,21,Monday,15:00,16:00,60,-1.0,Yes,1.0
+CW982,,Coursework,2022-02-21,21,Monday,16:00,17:00,60,1.0,No,2.0
+T695,,Travelling,2022-02-21,21,Monday,17:15,18:00,45,0.0,,
+O733,,Other,2022-02-21,21,Monday,18:00,18:30,30,-2.0,Yes,0.0
+ED145,,Eating / Drinking,2022-02-21,21,Monday,18:30,20:30,120,2.0,,
+T695,,Travelling,2022-02-21,21,Monday,20:45,21:15,30,-2.0,,
+UD415,,Using Devices,2022-02-21,21,Monday,21:30,22:00,30,1.0,No,0.0
+X893,,Exercise,2022-02-21,21,Monday,22:00,22:30,30,1.0,No,1.0
+L418,,Leisure,2022-02-21,21,Monday,22:30,23:00,30,2.0,No,1.0
+ED145,,Eating / Drinking,2022-02-21,21,Monday,23:00,23:30,30,2.0,,
+UD415,,Using Devices,2022-02-22,21,Tuesday,00:00,02:00,120,2.0,No,0.0
+S801,,Sleep,2022-02-22,21,Tuesday,02:15,09:45,450,,,
+O733,,Other,2022-02-22,21,Tuesday,09:45,10:15,30,0.0,No,0.0
+ED145,,Eating / Drinking,2022-02-22,21,Tuesday,10:15,10:30,15,0.0,,
+T695,,Travelling,2022-02-22,21,Tuesday,10:45,11:15,30,0.0,,
+EL642,,Education / Lectures,2022-02-22,21,Tuesday,11:15,12:00,45,-1.0,No,-1.0
+UD415,,Using Devices,2022-02-22,21,Tuesday,12:00,12:15,15,1.0,No,-1.0
+ED145,,Eating / Drinking,2022-02-22,21,Tuesday,12:15,13:00,45,1.0,,
+EL642,,Education / Lectures,2022-02-22,21,Tuesday,13:15,14:00,45,1.0,Yes,1.0
+CW982,,Coursework,2022-02-22,21,Tuesday,14:15,16:00,105,-1.0,No,0.0
+T695,,Travelling,2022-02-22,21,Tuesday,16:15,16:45,30,0.0,,
+UD415,,Using Devices,2022-02-22,21,Tuesday,16:45,17:30,45,2.0,No,1.0
+X893,,Exercise,2022-02-22,21,Tuesday,17:30,18:00,30,0.0,No,1.0
+H179,,Housework,2022-02-22,21,Tuesday,18:00,18:30,30,-2.0,No,2.0
+O733,,Other,2022-02-22,21,Tuesday,18:30,19:00,30,1.0,No,0.0
+ED145,,Eating / Drinking,2022-02-22,21,Tuesday,19:00,20:30,90,1.0,,
+L418,,Leisure,2022-02-22,21,Tuesday,20:30,21:00,30,1.0,No,0.0
+UD415,,Using Devices,2022-02-22,21,Tuesday,21:00,21:30,30,2.0,No,0.0
+T695,,Travelling,2022-02-22,21,Tuesday,21:30,22:00,30,1.0,,
+ED145,,Eating / Drinking,2022-02-22,21,Tuesday,22:00,00:00,120,2.0,,
+UD415,,Using Devices,2022-02-23,21,Wednesday,00:00,00:30,30,1.0,No,0.0
+S801,,Sleep,2022-02-23,21,Wednesday,00:30,07:45,435,,,
+O733,,Other,2022-02-23,21,Wednesday,07:45,08:15,30,0.0,No,0.0
+ED145,,Eating / Drinking,2022-02-23,21,Wednesday,08:15,08:30,15,0.0,,
+UD415,,Using Devices,2022-02-23,21,Wednesday,08:30,08:45,15,0.0,No,-1.0
+T695,,Travelling,2022-02-23,21,Wednesday,08:45,09:15,30,0.0,,
+CW982,,Coursework,2022-02-23,21,Wednesday,09:15,11:00,105,1.0,Yes,2.0
+CW982,,Coursework,2022-02-23,21,Wednesday,11:15,13:00,105,1.0,No,1.0
+ED145,,Eating / Drinking,2022-02-23,21,Wednesday,13:15,14:00,45,1.0,,
+UD415,,Using Devices,2022-02-23,21,Wednesday,14:00,14:15,15,1.0,No,0.0
+EL642,,Education / Lectures,2022-02-23,21,Wednesday,14:15,15:00,45,1.0,Yes,0.0
+UD415,,Using Devices,2022-02-23,21,Wednesday,15:00,15:30,30,1.0,No,0.0
+ED145,,Eating / Drinking,2022-02-23,21,Wednesday,15:30,16:00,30,2.0,,
+CW982,,Coursework,2022-02-23,21,Wednesday,16:15,18:00,105,0.0,No,1.0
+T695,,Travelling,2022-02-23,21,Wednesday,18:15,18:45,30,-1.0,,
+X893,,Exercise,2022-02-23,21,Wednesday,19:00,19:30,30,2.0,No,1.0
+ED145,,Eating / Drinking,2022-02-23,21,Wednesday,20:00,22:00,120,1.0,,
+R523,,Reading,2022-02-23,21,Wednesday,22:00,23:00,60,0.0,No,-1.0
+L418,,Leisure,2022-02-23,21,Wednesday,23:00,23:30,30,1.0,No,0.0

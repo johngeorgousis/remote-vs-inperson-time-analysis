@@ -1,0 +1,77 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AdditionalData1,AdditionalData2
+S801,,Sleeping,20/02/2022,20,Sunday,00:00,08:00,480,2,2,
+UD415,L418,Browsing on mobile phone,21/02/2022,21,Monday,08:00,08:30,30,1,,
+O733,,Making breakfast,21/02/2022,21,Monday,08:30,08:45,15,0,,
+ED145,,Having breakfast,21/02/2022,21,Monday,08:45,09:00,15,2,,
+O733,,Getting dressed,21/02/2022,21,Monday,09:00,09:45,45,1,,
+T695,,Travelling to university,21/02/2022,21,Monday,09:45,10:15,30,-2,,
+EL642,,Lab,21/02/2022,21,Monday,10:15,12:15,120,1,,1
+ED145,L418,Having coffee with friends,21/02/2022,21,Monday,12:15,13:15,60,2,,
+EL642,,Lecture,21/02/2022,21,Monday,13:15,14:00,45,-1,,0
+T695,,Travelling home,21/02/2022,21,Monday,14:00,14:30,30,-2,,
+O733,,Cooking lunch,21/02/2022,21,Monday,14:30,15:00,30,1,,
+ED145,UD415,Having lunch & watching a tv show,21/02/2022,21,Monday,15:00,15:30,30,2,,
+H179,,Washing dishes,21/02/2022,21,Monday,15:30,15:45,15,-1,,
+UD415,L418,Watching a tv show,21/02/2022,21,Monday,15:45,16:45,60,2,,
+EL642,L418,Online pre-recorded lecture,21/02/2022,21,Monday,16:45,17:45,60,1,,1
+UD415,L418,Browsing on mobile phone,21/02/2022,21,Monday,17:45,18:15,30,1,,
+UD415,L418,Facetime call,21/02/2022,21,Monday,18:15,19:00,45,2,,
+O733,,Getting dressed,21/02/2022,21,Monday,19:00,19:15,15,0,,
+T695,,Travelling to the gym,21/02/2022,21,Monday,19:15,19:30,15,0,,
+X893,,Exercise,21/02/2022,21,Monday,19:30,20:45,75,2,,
+T695,,Travelling home,21/02/2022,21,Monday,20:45,21:00,15,-1,,
+O733,,Cooking dinner,21/02/2022,21,Monday,21:00,21:15,15,1,,
+ED145,,Having dinner,21/02/2022,21,Monday,21:15,21:30,15,2,,
+UD415,L418,Watching a tv show,21/02/2022,21,Monday,21:30,22:00,30,2,,
+CW982,,Coursework,21/02/2022,21,Monday,22:00,23:00,60,1,,2
+O733,,Getting ready for bed,21/02/2022,21,Monday,23:00,23:30,30,0,,
+UD415,L418,Facetime call,21/02/2022,21,Monday,23:30,00:00,30,2,,
+S801,,Sleeping,22/02/2022,21,Tuesday,00:00,08:00,480,2,2,
+UD415,L418,Browsing on mobile phone,22/02/2022,21,Tuesday,08:00,08:30,30,1,,
+O733,,Making breakfast,22/02/2022,21,Tuesday,08:30,08:45,15,1,,
+ED145,,Having breakfast,22/02/2022,21,Tuesday,08:45,09:00,15,2,,
+O733,,Getting dressed,22/02/2022,21,Tuesday,09:00,09:45,45,0,,
+EL642,UD415,Online pre-recorded lecture,22/02/2022,21,Tuesday,09:45,10:45,60,1,,2
+T695,,Travelling to university,22/02/2022,21,Tuesday,10:45,11:15,30,-2,,
+EL642,,Lecture,22/02/2022,21,Tuesday,11:15,12:15,60,1,,1
+ED145,L418,Having coffee with friends,22/02/2022,21,Tuesday,12:15,13:15,60,2,,
+EL642,,Lecture,22/02/2022,21,Tuesday,13:15,14:00,45,-1,,0
+EL642,,Lab,22/02/2022,21,Tuesday,14:00,16:00,120,1,,1
+UD415,L418,Browsing on laptop,22/02/2022,21,Tuesday,16:00,16:30,30,1,,
+CW982,,Coursework,22/02/2022,21,Tuesday,16:30,17:30,60,0,,1
+T695,,Travelling home,22/02/2022,21,Tuesday,17:30,18:00,30,-1,,
+UD415,L418,Facetime call,22/02/2022,21,Tuesday,18:00,18:30,30,2,,
+UD415,L418,Watching a tv show,22/02/2022,21,Tuesday,18:30,19:00,30,2,,
+O733,,Cooking dinner,22/02/2022,21,Tuesday,19:00,19:15,15,1,,
+ED145,UD415,Having dinner & watching a tv show,22/02/2022,21,Tuesday,19:15,19:45,30,2,,
+H179,,Washing dishes,22/02/2022,21,Tuesday,19:45,20:00,15,0,,
+UD415,L418,Watching a tv show,22/02/2022,21,Tuesday,20:00,20:30,30,2,,
+CW982,,Coursework,22/02/2022,21,Tuesday,20:30,22:00,90,-1,,2
+O733,,Getting ready for bed,22/02/2022,21,Tuesday,22:00,22:30,30,0,,
+UD415,L418,Facetime call,22/02/2022,21,Tuesday,22:30,23:00,30,2,,
+UD415,L418,Watching a movie,22/02/2022,21,Tuesday,23:00,00:00,60,2,,
+S801,,Sleeping,23/02/2022,21,Wednesday,00:00,09:00,540,2,2,
+UD415,L418,Browsing on mobile phone,23/02/2022,21,Wednesday,09:00,09:30,30,1,,
+O733,,Making breakfast,23/02/2022,21,Wednesday,09:30,09:45,15,0,,
+ED145,,Having breakfast,23/02/2022,21,Wednesday,09:45,10:00,15,1,,
+O733,,Getting dressed,23/02/2022,21,Wednesday,10:00,10:45,45,0,,
+T695,,Travelling to university,23/02/2022,21,Wednesday,10:45,11:15,30,-1,,
+EL642,,Lab,23/02/2022,21,Wednesday,11:15,13:00,105,1,,1
+ED145,L418,Having lunch with friends,23/02/2022,21,Wednesday,13:00,14:00,60,2,,
+CW982,,Coursework,23/02/2022,21,Wednesday,14:00,15:30,90,1,,2
+L418,,Hanging out with friends,23/02/2022,21,Wednesday,15:30,16:00,30,2,,
+EL642,,Lab,23/02/2022,21,Wednesday,16:00,18:00,120,0,,2
+T695,,Travelling home,23/02/2022,21,Wednesday,18:00,18:30,30,-1,,
+UD415,L418,Facetime call,23/02/2022,21,Wednesday,18:30,19:00,30,2,,
+O733,,Getting dressed,23/02/2022,21,Wednesday,19:00,19:15,15,0,,
+T695,,Travelling to the gym,23/02/2022,21,Wednesday,19:15,19:30,15,1,,
+X893,,Exercise,23/02/2022,21,Wednesday,19:30,20:30,60,2,,
+T695,,Travelling home,23/02/2022,21,Wednesday,20:30,20:45,15,-2,,
+O733,,Cooking dinner,23/02/2022,21,Wednesday,20:45,21:00,15,1,,
+ED145,,Having dinner,23/02/2022,21,Wednesday,21:00,21:15,15,2,,
+H179,,Washing dishes,23/02/2022,21,Wednesday,21:15,21:30,15,-1,,
+UD415,L418,Watching a tv show,23/02/2022,21,Wednesday,21:30,22:30,60,2,,
+UD415,L418,Facetime call,23/02/2022,21,Wednesday,22:30,23:00,30,2,,
+O733,,Getting ready for bed,23/02/2022,21,Wednesday,23:00,23:30,30,0,,
+UD415,L418,Browsing on mobile phone,23/02/2022,21,Wednesday,23:30,00:00,30,1,,
+S801,,Sleeping,24/02/2022,21,Thursday,00:00,08:30,510,2,2,

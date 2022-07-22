@@ -1,0 +1,28 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AdditionalData1,AdditionalData2
+0,PW101,NaN,,21/02/22,21,Monday,08:00,10:50,170,0.0,Y,Night person
+1,ED145,UD415,Having breakfast,21/02/22,21,Monday,11:30,12:00,30,1.0,N,Night person
+2,EL642,NaN,,21/02/22,21,Monday,12:15,13:05,50,0.0,Y,Night person
+3,ED145,UD415,Drinking coffee and watching videos on youtube,21/02/22,21,Monday,13:10,14:00,50,1.0,N,Night person
+4,EL642,NaN,,21/02/22,21,Monday,14:15,15:05,50,0.0,Y,Night person
+5,ED145,UD415,Having dinner with watching videos on youtube,21/02/22,21,Monday,17:40,18:34,54,1.0,N,Night person
+6,X893,NaN,,21/02/22,21,Monday,19:00,20:13,73,2.0,Y,Night person
+7,UD415,NaN,Watching TV shows on Netflix,21/02/22,21,Monday,20:27,23:47,200,2.0,N,Night person
+8,S801,NaN,,22/02/22,21,Tuesday,00:25,07:38,433,1.0,Y,Night person
+9,T695,NaN,To the uni,22/02/22,21,Tuesday,08:45,09:20,35,-1.0,Y,Night person
+10,EL642,NaN,,22/02/22,21,Tuesday,09:20,12:05,165,1.0,Y,Night person
+11,T695,NaN,Back home from the uni,22/02/22,21,Tuesday,12:08,12:45,37,0.0,N,Night person
+12,UD415,NaN,Calling with parents,22/02/22,21,Tuesday,12:45,13:24,39,2.0,Y,Night person
+13,CW982,NaN,,22/02/22,21,Tuesday,14:00,16:08,128,-1.0,Y,Night person
+14,EL642,NaN,,22/02/22,21,Tuesday,16:15,17:05,50,1.0,Y,Night person
+15,CW982,UD415,Watching TV shows during coursework,22/02/22,21,Tuesday,17:06,18:10,64,0.0,Y,Night person
+16,ED145,UD415,Dinner,22/02/22,21,Tuesday,18:30,19:10,40,2.0,N,Night person
+17,UD415,NaN,,22/02/22,21,Tuesday,19:10,21:09,119,2.0,N,Night person
+18,UD415,NaN,,22/02/22,21,Tuesday,20:32,00:27,235,2.0,N,Night person
+19,S801,NaN,,23/02/22,21,Wednesday,00:27,09:00,513,2.0,Y,Night person
+20,X893,NaN,,23/02/22,21,Wednesday,09:00,10:19,79,2.0,Y,Night person
+21,PW101,NaN,,23/02/22,21,Wednesday,10:30,11:50,80,1.0,Y,Night person
+22,UD415,NaN,Calling with friends,23/02/22,21,Wednesday,11:58,15:11,193,2.0,Y,Night person
+23,S801,NaN,,23/02/22,21,Wednesday,16:49,17:53,64,2.0,N,Night person
+24,EL642,NaN,Online lecture,23/02/22,21,Wednesday,17:53,19:05,72,1.0,N,Night person
+25,ED145,NaN,,23/02/22,21,Wednesday,20:00,22:45,165,2.0,N,Night person
+26,CW982,UD415,Watching TV shows during coursework,23/02/22,21,Wednesday,23:20,00:20,60,0.0,Y,Night person

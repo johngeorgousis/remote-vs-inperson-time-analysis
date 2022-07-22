@@ -1,0 +1,44 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AdditionalData1,AdditionalData2
+ED415,EL,Eating Lunch,21/02/2022,21,Monday,11:30,12:00,30,0,,
+UD415,DC,Using Computer,21/02/2022,21,Monday,12:00,12:15,15,0,,
+EL642,,Education/Lectures,21/02/2022,21,Monday,12:15,13:00,45,0,online,
+O733,,Other,21/02/2022,21,Monday,13:00,14:15,75,0,,
+EL642,,Education/Lectures,21/02/2022,21,Monday,14:15,15:00,45,1,in-person,
+X893,,Exercise,21/02/2022,21,Monday,15:00,16:00,60,1,,alone
+O733,,Other,21/02/2022,21,Monday,16:00,16:30,30,0,,
+CW982,,Coursework,21/02/2022,21,Monday,16:30,18:00,90,0,,alone
+ED415,ED,Eating Dinner,21/02/2022,21,Monday,18:00,19:00,60,0,,
+UD415,DC,Using Computer,21/02/2022,21,Monday,19:00,20:00,60,1,,
+O733,,Other,21/02/2022,21,Monday,20:00,21:00,60,0,,
+CW982,,Coursework,21/02/2022,21,Monday,21:00,23:00,120,0,,alone
+UD415,DM,Using Mobile Phone,21/02/2022,21,Monday,23:00,00:00,60,1,,
+S801,,Sleep,22/02/2022,21,Tuesday,00:00,07:00,420,0,,
+ED415,EB,Eating Breakfast,22/02/2022,21,Tuesday,07:00,08:00,60,0,,
+O733,,Other,22/02/2022,21,Tuesday,08:00,09:15,75,0,,
+EL642,,Education/Lectures,22/02/2022,21,Tuesday,09:15,12:00,165,1,in-person,
+O733,,Other,22/02/2022,21,Tuesday,12:00,12:30,30,0,,
+ED415,EL,Eating Lunch,22/02/2022,21,Tuesday,12:30,13:30,60,0,,
+UD415,DM,Using Mobile Phone,22/02/2022,21,Tuesday,13:30,14:30,60,1,,
+CW982,,Coursework,22/02/2022,21,Tuesday,14:30,16:15,105,0,,alone
+EL642,,Education/Lectures,22/02/2022,21,Tuesday,16:15,17:00,45,0,online,
+O733,,Other,22/02/2022,21,Tuesday,17:00,18:15,75,0,,
+EL642,,Education/Lectures,22/02/2022,21,Tuesday,18:15,19:45,90,2,in-person,
+O733,,Other,22/02/2022,21,Tuesday,19:45,20:30,45,0,,
+ED415,ED,Eating Dinner,22/02/2022,21,Tuesday,20:30,21:30,60,0,,
+UD415,DC,Using Computer,22/02/2022,21,Tuesday,21:30,22:30,60,1,,
+O733,,Other,22/02/2022,21,Tuesday,22:30,23:30,60,0,,
+CW982,,Coursework,22/02/2022,21,Tuesday,23:30,01:30,120,0,,alone
+S801,,Sleep,23/02/2022,21,Wednesday,01:30,10:00,510,0,,
+ED415,EB,Eating Breakfast,23/02/2022,21,Wednesday,10:00,11:00,60,0,,
+CW982,,Coursework,23/02/2022,21,Wednesday,11:00,13:30,150,0,,alone
+ED415,EL,Eating Lunch,23/02/2022,21,Wednesday,13:30,14:30,60,0,,
+CW982,,Coursework,23/02/2022,21,Wednesday,14:30,17:00,150,0,,alone
+UD415,DM,Using Mobile Phone,23/02/2022,21,Wednesday,17:00,18:00,60,1,,
+ED415,ED,Eating Dinner,23/02/2022,21,Wednesday,18:00,19:00,60,0,,
+O733,,Other,23/02/2022,21,Wednesday,19:00,20:00,60,0,,
+CW982,,Coursework,23/02/2022,21,Wednesday,20:00,22:30,150,0,,alone
+UD415,DM,Using Mobile Phone,23/02/2022,21,Wednesday,22:30,00:00,90,1,,
+S801,,Sleep,24/02/2022,21,Thursday,00:00,09:00,540,0,,
+ED415,EB,Eating Breakfast,24/02/2022,21,Thursday,09:00,10:00,60,0,,
+CW982,,Coursework,24/02/2022,21,Thursday,10:00,12:00,120,0,,alone
+ED415,EL,Eating Lunch,24/02/2022,21,Thursday,12:00,13:00,60,0,,

@@ -1,0 +1,45 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,ExposureSunlight,RainLevel
+ED145,L418,breakfast + read articles,21/02/22,21,Monday,08:30,09:15,45,1,2,1
+CW982,,bml cw1,21/02/22,21,Monday,09:15,10:15,60,1,2,1
+EL642,,bml lecture,21/02/22,21,Monday,10:15,10:45,30,0,2,1
+L418,,relaxing before going to campus,21/02/22,21,Monday,10:45,11:15,30,1,2,1
+T695,O733,bus up to campus,21/02/22,21,Monday,11:15,12:15,60,1,4,1
+EL642,,rl lab,21/02/22,21,Monday,12:15,13:15,60,1,2,1
+EL642,,ml2 lecture,21/02/22,21,Monday,13:15,14:15,60,0,2,1
+ED145,,lunch on campus,21/02/22,21,Monday,14:15,15:15,60,1,1,1
+T695,UD415,bus down,21/02/22,21,Monday,15:15,15:45,30,1,1,1
+EL642,,,21/02/22,21,Monday,15:45,16:30,45,0,2,1
+O733,,organise birthday,21/02/22,21,Monday,16:30,17:30,60,1,2,1
+X893,,gym,21/02/22,21,Monday,17:30,19:00,90,1,5,1
+ED145,L418,eat and watch youtube,21/02/22,21,Monday,19:00,19:45,45,1,5,1
+T695,,cycle to pool,21/02/22,21,Monday,19:45,20:00,15,1,5,1
+O733,,swim coaching,21/02/22,21,Monday,20:00,21:00,60,1,5,1
+ED145,L418,drinks at pub,21/02/22,21,Monday,21:00,00:00,180,2,5,1
+T695,,go home,22/02/22,21,Tuesday,00:00,01:00,60,1,5,1
+S801,,,22/02/22,21,Tuesday,01:00,08:30,450,0,5,1
+ED145,L418,breakfast,22/02/22,21,Tuesday,08:30,09:15,45,1,1,1
+EL642,,bml lecture,22/02/22,21,Tuesday,09:15,10:15,60,1,1,1
+T695,UD415,go to campus,22/02/22,21,Tuesday,10:15,11:15,60,1,4,2
+EL642,,bml lecture,22/02/22,21,Tuesday,11:15,12:15,60,-1,2,2
+CW982,,applied and ml2 cw,22/02/22,21,Tuesday,12:15,13:15,60,0,1,1
+ED145,CW982,lunch and cw,22/02/22,21,Tuesday,13:15,14:15,60,2,1,1
+CW982,,bml coursework,22/02/22,21,Tuesday,14:15,15:30,75,1,1,1
+T695,UD415,bus down,22/02/22,21,Tuesday,15:30,16:15,45,1,1,1
+L418,UD415,relax,22/02/22,21,Tuesday,16:15,17:30,75,1,1,1
+X893,,gym,22/02/22,21,Tuesday,17:30,18:30,60,1,5,1
+O733,,shower and decide what to do,22/02/22,21,Tuesday,18:30,19:00,30,1,5,1
+ED145,L418,Indian restaurant,22/02/22,21,Tuesday,19:00,21:00,120,2,5,1
+L418,,watch movie,22/02/22,21,Tuesday,21:00,23:30,150,1,5,1
+S801,,,22/02/22,21,Tuesday,23:30,08:30,540,0,5,1
+O733,,prepare for assessment centre,23/02/22,21,Wednesday,09:30,12:00,150,0,2,1
+ED145,,lunch,23/02/22,21,Wednesday,12:00,12:45,45,1,2,1
+O733,,assessment centre,23/02/22,21,Wednesday,12:45,17:00,255,0,2,1
+L418,,relax,23/02/22,21,Wednesday,17:00,18:00,60,1,2,1
+ED145,,tea,23/02/22,21,Wednesday,18:00,19:00,60,1,5,1
+L418,,relax,23/02/22,21,Wednesday,19:00,19:45,45,0,5,1
+T695,,cycle,23/02/22,21,Wednesday,19:45,20:00,15,1,5,1
+X893,,swimming,23/02/22,21,Wednesday,20:00,21:00,60,2,5,1
+T695,,cycle,23/02/22,21,Wednesday,21:00,21:15,15,1,5,1
+ED145,,late snack,23/02/22,21,Wednesday,21:15,21:45,30,1,5,1
+L418,UD415,messaging and watching youtube,23/02/22,21,Wednesday,21:45,00:00,135,1,5,1
+S801,,,24/02/22,21,Thursday,00:00,08:30,510,1,5,1

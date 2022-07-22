@@ -1,0 +1,16 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,HelpfulActivity,SatisfactionScore
+23,ED145,C642,Eating Breakfast,22/02/2022,20,Tuesday,10:15,10:45,30.0,1,2,0
+24,EL642,,Going to library,22/02/2022,20,Tuesday,11:00,15:00,240.0,1,1,1
+25,ED145,C893,Eating Lunch,22/02/2022,20,Tuesday,15:15,16:00,45.0,2,4,1
+27,H179,C642,Housework,22/02/2022,20,Tuesday,21:15,23:00,105.0,-2,3,0
+28,ED145,M145,Drinking Coffee,22/02/2022,20,Tuesday,23:15,23:30,15.0,2,1,0
+32,ED145,C642,Eating Breakfast,23/02/2022,20,Wednesday,10:15,10:45,30.0,1,2,0
+33,EL642,,Going to library,23/02/2022,20,Wednesday,11:00,15:00,240.0,1,1,1
+34,ED145,C893,Eating Lunch,23/02/2022,20,Wednesday,15:15,16:00,45.0,2,4,1
+36,H179,C642,Housework,23/02/2022,20,Wednesday,21:15,23:00,105.0,-2,3,0
+37,ED145,M145,Drinking Coffee,23/02/2022,20,Wednesday,23:15,23:30,15.0,2,1,0
+41,ED145,C642,Eating Breakfast,24/02/2022,20,Thursday,10:15,10:45,30.0,1,2,0
+42,EL642,,Going to library,24/02/2022,20,Thursday,11:00,15:00,240.0,1,1,1
+43,ED145,C893,Eating Lunch,24/02/2022,20,Thursday,15:15,16:00,45.0,2,4,1
+45,H179,C642,Housework,24/02/2022,20,Thursday,21:15,23:00,105.0,-2,3,0
+46,ED145,M145,Drinking Coffee,24/02/2022,20,Thursday,23:15,23:30,15.0,2,1,0

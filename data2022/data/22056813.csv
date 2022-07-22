@@ -1,0 +1,63 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,MinsSpentOnSocialMedia,Mood
+ S801,,Sleeping,14-02-2022,20,Monday,00:15,09:00,525,,,Calm
+ O733,,Getting fresh,14-02-2022,20,Monday,09:00,09:15,15,0,,Calm
+ ED145,,Breakfast,14-02-2022,20,Monday,09:15,10:00,45,1,,Happy
+ EL642, UD415,Lectures,14-02-2022,20,Monday,10:00,11:45,105,1,10,Calm
+ UD415, H179,Talking on phone,14-02-2022,20,Monday,11:45,12:30,45,2,,Happy
+ T695,,Grocery Shopping,14-02-2022,20,Monday,12:30,13:30,60,1,15,Calm
+ H179,,Cooking,14-02-2022,20,Monday,13:30,14:45,75,1,,Calm
+ ED145, R523,Reading novel,14-02-2022,20,Monday,14:45,15:15,30,2,,Happy
+ EL642,,Online Lecture,14-02-2022,20,Monday,15:15,15:30,15,1,,Stressed
+ H179,,Washing utensils,14-02-2022,20,Monday,15:30,15:45,15,-2,,Sad
+ UD415, L418,Browsing web on laptop,14-02-2022,20,Monday,15:45,17:15,90,2,30,Happy
+ X893,,Running,14-02-2022,20,Monday,17:15,18:30,75,1,,Calm
+ O733,,Taking Bath,14-02-2022,20,Monday,18:30,19:30,60,2,,Happy
+ CW982,,Studying,14-02-2022,20,Monday,19:30,21:30,120,1,,Stressed
+ ED145, UD415,Dinner,14-02-2022,20,Monday,21:30,22:00,30,1,15,Calm
+ H179,,Washing utensils,14-02-2022,20,Monday,22:00,22:15,15,-2,,Sad
+ CW982, UD415,Studying,14-02-2022,20,Monday,22:15,23:30,75,0,15,Sad
+ R523, L418,Reading blogs,14-02-2022,20,Monday,23:30,00:15,45,1,,Calm
+ S801,,Sleeping,15-02-2022,20,Tuesday,00:15,09:00,525,,,Calm
+ O733, UD415,Getting fresh,15-02-2022,20,Tuesday,09:00,09:30,30,0,10,Calm
+ ED145,,Making Breakfast and eating,15-02-2022,20,Tuesday,09:30,10:30,60,1,,Happy
+ UD415, L418,Talking on phone,15-02-2022,20,Tuesday,10:30,11:15,45,2,,Happy
+ EL642,,Lecture,15-02-2022,20,Tuesday,11:15,12:15,60,1,,Calm
+ ED145, L418,Brunch and coffee,15-02-2022,20,Tuesday,12:15,13:15,60,2,10,Happy
+ EL642, O733,Watching lecture videos,15-02-2022,20,Tuesday,13:15,14:15,60,1,,Calm
+ EL642,,Lab classes,15-02-2022,20,Tuesday,14:15,16:15,120,1,10,Stressed
+ T695,,In Bus,15-02-2022,20,Tuesday,16:15,17:30,75,0,10,Sad
+ H179,,Cleaning,15-02-2022,20,Tuesday,17:30,18:15,45,-1,,Calm
+ O733,,Taking Bath,15-02-2022,20,Tuesday,18:15,18:45,30,2,,Happy
+ X893,,Running,15-02-2022,20,Tuesday,18:45,20:00,75,1,,Calm
+ ED145, UD415,Dinner,15-02-2022,20,Tuesday,20:00,20:45,45,1,15,Happy
+ CW982,,Studying,15-02-2022,20,Tuesday,20:45,22:30,105,1,,Calm
+ R523,,Reading novel,15-02-2022,20,Tuesday,22:30,23:45,75,2,,Calm
+ UD415, L418,Browsing web on phone,15-02-2022,20,Tuesday,23:45,00:30,45,1,10,Angry
+ S801,,Sleeping,16-02-2022,20,Wednesday,00:30,10:00,570,,,Calm
+ UD415,,Talking on phone,16-02-2022,20,Wednesday,10:00,10:15,15,2,,Happy
+ UD415,,Browsing web on phone,16-02-2022,20,Wednesday,10:15,10:30,15,1,15,Calm
+ O733,,Getting fresh,16-02-2022,20,Wednesday,10:30,10:45,15,0,,Calm
+ ED145,,Breakfast,16-02-2022,20,Wednesday,10:45,11:30,45,1,,Happy
+ CW982,,Studying,16-02-2022,20,Wednesday,11:30,12:15,45,1,,Calm
+ EL642,,Online Lecture,16-02-2022,20,Wednesday,12:15,13:30,75,0,,Calm
+ ED145, UD415,Lunch,16-02-2022,20,Wednesday,13:30,14:00,30,1,10,Calm
+ EL642,,Online Lecture,16-02-2022,20,Wednesday,14:00,16:15,135,1,,Stressed
+ EL642,,Lab classes,16-02-2022,20,Wednesday,16:15,18:00,105,0,,Calm
+ O733,,Grocery Shopping,16-02-2022,20,Wednesday,18:00,18:15,15,1,,Calm
+ T695, UD415,Browsing web on phone,16-02-2022,20,Wednesday,18:15,18:30,15,1,10,Calm
+ H179,,Cooking,16-02-2022,20,Wednesday,18:30,19:00,30,1,,Happy
+ ED145, UD415,Talking on phone,16-02-2022,20,Wednesday,19:00,19:30,30,1,,Happy
+ CW982,,Studying,16-02-2022,20,Wednesday,19:30,20:30,60,1,,Stressed
+ O733,,Taking Bath,16-02-2022,20,Wednesday,20:30,21:30,60,2,,Happy
+ CW982, UD415,Studying,16-02-2022,20,Wednesday,21:30,23:30,120,1,15,Sad
+ UD415,,Browsing web on phone,16-02-2022,20,Wednesday,23:30,00:15,45,1,15,Sad
+ S801,,Sleeping,17-02-2022,20,Thursday,00:15,07:30,435,,,Calm
+ O733,,Getting ready to go out,17-02-2022,20,Thursday,07:30,08:30,60,0,,Calm
+ T695, UD415,In Bus/ Walking,17-02-2022,20,Thursday,08:30,08:45,15,1,,Calm
+ PW101,,Part time job,17-02-2022,20,Thursday,08:45,18:00,555,1,,Calm
+ T695, UD415,In Bus,17-02-2022,20,Thursday,18:00,18:30,30,-1,10,Stressed
+ UD415,,Talking on phone,17-02-2022,20,Thursday,18:30,19:30,60,2,,Happy
+ ED145,,Cooking/Having Dinner,17-02-2022,20,Thursday,19:30,20:30,60,1,,Calm
+ EL642,,Watching lecture videos,17-02-2022,20,Thursday,20:30,22:30,120,0,,Calm
+ R523,,Reading novel,17-02-2022,20,Thursday,22:30,23:30,60,2,,Happy
+ UD415,,Browsing web on phone,17-02-2022,20,Thursday,23:30,00:30,60,1,15,Calm

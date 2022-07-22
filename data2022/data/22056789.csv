@@ -1,0 +1,54 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,FocusLevel,Location
+UD415,-,Browsing web on phone,22/02/2022,21,Tuesday,00:00,00:30,30,1,2,Home
+S801,-,,22/02/2022,21,Tuesday,00:30,09:00,510,1,1,Home
+O733,-,Shower and get dressed,22/02/2022,21,Tuesday,09:00,09:45,45,1,1,Home
+ED145,-,Breakfast,22/02/2022,21,Tuesday,09:45,10:15,30,1,1,Home
+O733,-,Brush teeth and get ready,22/02/2022,21,Tuesday,10:15,10:30,15,0,2,Home
+T695,-,Walk to uni,22/02/2022,21,Tuesday,10:30,11:15,45,1,2,Outside
+EL642,-,,22/02/2022,21,Tuesday,11:15,12:15,60,0,4,University
+T695,-,Walk home,22/02/2022,21,Tuesday,12:15,13:00,45,1,2,Outside
+ED145,-,Lunch,22/02/2022,21,Tuesday,13:00,13:30,30,1,1,Home
+EL642,UD415,Watch recorded online lectures,22/02/2022,21,Tuesday,13:30,16:00,150,0,4,Home
+ED145,UD415,Eat fruit and watch YouTube,22/02/2022,21,Tuesday,16:00,16:15,15,2,2,Home
+CW982,UD415,Coursework while listening to music,22/02/2022,21,Tuesday,16:15,18:00,105,1,4,Home
+O733,-,Get changed and grab sports equipment,22/02/2022,21,Tuesday,18:00,18:30,30,0,3,Home
+T695,-,Travel to uni,22/02/2022,21,Tuesday,18:30,19:00,30,0,1,Bus
+X893,-,Play tennis,22/02/2022,21,Tuesday,19:00,20:15,75,2,4,University
+T695,-,Travel home,22/02/2022,21,Tuesday,20:15,21:00,45,0,1,Bus
+ED145,-,"Cook and eat dinner, then wash up",22/02/2022,21,Tuesday,21:00,22:00,60,2,3,Home
+L418,-,Hang out with flatmates,22/02/2022,21,Tuesday,22:00,23:00,60,2,2,Home
+L418,UD415,Watch Netflix,22/02/2022,21,Tuesday,23:00,00:00,60,2,3,Home
+S801,-,,23/02/2022,21,Wednesday,00:00,07:30,450,1,1,Home
+O733,-,Shower and get dressed,23/02/2022,21,Wednesday,07:30,08:15,45,1,1,Home
+ED145,-,Breakfast,23/02/2022,21,Wednesday,08:15,08:30,15,1,1,Home
+O733,-,Brush teeth and get ready,23/02/2022,21,Wednesday,08:30,08:45,15,0,2,Home
+T695,-,Travel to uni,23/02/2022,21,Wednesday,08:45,09:15,30,0,1,Bus
+EL642,CW982,Labs,23/02/2022,21,Wednesday,09:15,13:15,240,1,4,University
+T695,-,Travel home,23/02/2022,21,Wednesday,13:15,14:00,45,0,1,Bus
+ED145,-,Lunch,23/02/2022,21,Wednesday,14:00,14:30,30,1,1,Home
+CW982,UD415,Coursework while listening to music,23/02/2022,21,Wednesday,14:30,18:00,210,1,4,Home
+T695,-,Walk to town,23/02/2022,21,Wednesday,18:00,18:15,15,1,2,Outside
+ED145,-,Dinner,23/02/2022,21,Wednesday,18:15,19:45,90,2,3,Restaurant
+T695,-,Walk to shop,23/02/2022,21,Wednesday,19:45,20:00,15,0,1,Outside
+O733,-,Buy snacks,23/02/2022,21,Wednesday,20:00,20:15,15,1,3,Shop
+T695,-,Walk to cinema,23/02/2022,21,Wednesday,20:15,20:30,15,0,1,Outside
+L418,ED145,Watch movie,23/02/2022,21,Wednesday,20:30,23:00,150,2,3,Cinema
+T695,-,Walk home,23/02/2022,21,Wednesday,23:00,23:15,15,0,1,Outside
+O733,-,Brush teeth,23/02/2022,21,Wednesday,23:15,23:30,15,0,2,Home
+S801,-,,23/02/2022,21,Wednesday,23:30,08:00,510,1,1,Home
+O733,-,Shower and get dressed,24/02/2022,21,Thursday,08:00,08:45,45,1,1,Home
+ED145,-,Breakfast,24/02/2022,21,Thursday,08:45,09:00,15,1,1,Home
+O733,-,Brush teeth,24/02/2022,21,Thursday,09:00,09:15,15,0,2,Home
+EL642,UD415,Live online lecture,24/02/2022,21,Thursday,09:15,10:15,60,0,4,Home
+CW982,UD415,Coursework while listening to music,24/02/2022,21,Thursday,10:15,13:00,165,1,4,Home
+ED145,-,Lunch,24/02/2022,21,Thursday,13:00,13:30,30,1,1,Home
+EL642,UD415,Watch recorded online lectures,24/02/2022,21,Thursday,13:30,15:00,90,0,4,Home
+H179,-,,24/02/2022,21,Thursday,15:00,16:00,60,-1,2,Home
+CW982,UD415,Coursework while listening to music,24/02/2022,21,Thursday,16:00,18:30,150,1,4,Home
+ED145,-,"Cook and eat dinner, then wash up",24/02/2022,21,Thursday,18:30,19:30,60,2,3,Home
+T695,-,Walk to town,24/02/2022,21,Thursday,19:30,19:45,15,1,2,Outside
+L418,ED145,Watch football match,24/02/2022,21,Thursday,19:45,22:00,135,2,4,Pub
+T695,-,Walk home,24/02/2022,21,Thursday,22:00,22:15,15,0,1,Outside
+L418,UD415,Watch Netflix,24/02/2022,21,Thursday,22:15,23:30,75,2,3,Home
+O733,-,Brush teeth,24/02/2022,21,Thursday,23:30,23:45,15,0,2,Home
+S801,-,,24/02/2022,21,Thursday,23:45,08:00,495,1,1,Home

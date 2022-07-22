@@ -1,0 +1,41 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SleepQuality,CaffeinatedDrink
+S801,,,2022-02-16,20,Wednesday,23:00,08:30,570,2,1,No Caffeinated Drink
+ED145,H179,Breakfast and Tea,2022-02-17,20,Thursday,08:30,08:45,15,2,,Cup of Tea
+L418,UD415,Browsing Internet,2022-02-17,20,Thursday,08:45,10:00,75,2,,Coffee
+CW982,,,2022-02-17,20,Thursday,10:00,11:30,90,-1,,Cup of Tea
+L418,T695,Playing a game,2022-02-17,20,Thursday,11:30,12:00,30,2,,No Caffeinated Drink
+L418,,Having a bath,2022-02-17,20,Thursday,12:00,12:30,30,2,,No Caffeinated Drink
+ED145,,Lunch,2022-02-17,20,Thursday,12:30,12:45,15,2,,Cup of Tea
+T695,,,2022-02-17,20,Thursday,12:45,13:00,15,0,,No Caffeinated Drink
+CW982,,,2022-02-17,20,Thursday,13:00,14:15,75,0,,No Caffeinated Drink
+EL642,,In person lectures,2022-02-17,20,Thursday,14:15,16:00,105,0,,No Caffeinated Drink
+T695,,,2022-02-17,20,Thursday,16:00,16:15,15,1,,No Caffeinated Drink
+O733,,Food Shopping,2022-02-17,20,Thursday,16:15,16:45,30,0,,No Caffeinated Drink
+T695,,,2022-02-17,20,Thursday,16:45,17:00,15,1,,No Caffeinated Drink
+CW982,,,2022-02-17,20,Thursday,17:00,18:00,60,1,,Cup of Tea
+H179,,Cooking,2022-02-17,20,Thursday,18:00,18:30,30,1,,No Caffeinated Drink
+ED145,,,2022-02-17,20,Thursday,18:30,18:45,15,2,,Cup of Tea
+L418,,Relaxing,2022-02-17,20,Thursday,18:45,23:00,255,2,,No Caffeinated Drink
+S801,,,2022-02-17,20,Thursday,23:00,07:30,510,2,2,No Caffeinated Drink
+ED145,H179,Breakfast and Tea,2022-02-18,20,Friday,07:30,08:00,30,2,,Cup of Tea
+L418,UD415,Walk and podcast,2022-02-18,20,Friday,08:00,09:15,75,2,,No Caffeinated Drink
+EL642,,Online Lecture,2022-02-18,20,Friday,09:15,10:00,45,1,,Cup of Tea
+L418,,Playing a game,2022-02-18,20,Friday,10:00,11:15,75,2,,Cup of Tea
+EL642,,Online Lecture,2022-02-18,20,Friday,11:15,12:00,45,0,,Cup of Tea
+ED145,,Lunch,2022-02-18,20,Friday,12:00,12:30,30,2,,Coffee
+CW982,,,2022-02-18,20,Friday,12:30,15:00,150,1,,Cup of Tea
+EL642,,Online Lecture,2022-02-18,20,Friday,15:00,16:00,60,0,,No Caffeinated Drink
+L418,UD415,Playing games,2022-02-18,20,Friday,16:00,19:00,180,2,,Cup of Tea
+L418,,Pub,2022-02-18,20,Friday,19:00,23:00,240,2,,No Caffeinated Drink
+ED145,,Dinner,2022-02-18,20,Friday,23:00,23:30,30,2,,No Caffeinated Drink
+S801,,,2022-02-18,20,Friday,23:30,10:00,630,1,-1,No Caffeinated Drink
+ED145,,Breakfast and Tea,2022-02-19,20,Saturday,10:00,10:30,30,2,,Cup of Tea
+L418,UD415,Watching TV,2022-02-19,20,Saturday,10:30,12:00,90,2,,Cup of Tea
+L418,UD415,Playing games,2022-02-19,20,Saturday,12:00,14:00,120,2,,Cup of Tea
+H179,,,2022-02-19,20,Saturday,14:00,14:15,15,2,,No Caffeinated Drink
+R523,,,2022-02-19,20,Saturday,14:15,14:30,15,1,,Cup of Tea
+L418,,Met family - coffee,2022-02-19,20,Saturday,14:30,17:00,150,2,,Coffee
+L418,UD415,Watching TV,2022-02-19,20,Saturday,17:00,19:30,150,2,,Cup of Tea
+ED145,L418,Out for dinner,2022-02-19,20,Saturday,19:30,21:00,90,2,,Energy Drink
+L418,UD415,Playing a game,2022-02-19,20,Saturday,21:00,23:00,120,2,,No Caffeinated Drink
+S801,,,2022-02-19,20,Saturday,23:00,09:00,600,1,-1,No Caffeinated Drink

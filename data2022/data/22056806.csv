@@ -1,0 +1,31 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,MentalScore,PhysicalScore
+S801,,Sleep,2022/02/18,2,THU,23:30,08:15,525,0,0,0
+ED145,,Breakfast,2022/02/19,2,FRI,08:30,09:00,30,1,1,1
+PW101,,As UBER Driver,2022/02/19,2,FRI,09:30,12:30,180,-1,-1,-1
+ED145,,Lunch,2022/02/19,2,FRI,12:30,13:00,30,1,1,1
+PW101,,As UBER Driver,2022/02/19,2,FRI,13:00,18:00,300,-1,-1,-1
+O733,,Catching bus,2022/02/19,2,FRI,18:00,18:30,30,0,0,0
+ED145,,Dinner,2022/02/19,2,FRI,18:30,19:45,75,2,1,1
+H179,,Wash and Clean,2022/02/19,2,FRI,19:45,22:45,180,2,1,-1
+O733,,Shower time,2022/02/19,2,FRI,22:45,23:30,45,1,1,2
+S801,,Sleep,2022/02/19,2,FRI,23:30,10:30,660,1,2,2
+O733,,Get dressed,2022/02/20,2,SAT,10:30,11:00,30,0,0,0
+ED145,,Breakfast,2022/02/20,2,SAT,11:00,12:00,60,1,1,1
+T695,,Flying to the moon,2022/02/20,2,SAT,12:00,19:00,420,2,2,-2
+ED145,,Dinner,2022/02/20,2,SAT,19:00,20:00,60,2,2,-1
+O733,,Shower,2022/02/20,2,SAT,20:00,21:00,60,2,2,2
+O733, R523, Reading Shakespare,2022/02/20,2,SAT,21:00,22:00,60,2,2,2
+S801,,Sleep,2022/02/20,2,SAT,22:00,08:00,600,0,0,0
+O733,,Get dressed,2022/02/21,3,SUN,08:00,08:15,15,0,0,0
+ED145,,Breakfast,2022/02/21,3,SUN,08:15,08:45,30,0,0,1
+O733,,Catching bus,2022/02/21,3,SUN,08:45,09:15,30,0,0,0
+EL642,,Study Applied Statistics and Reading papers,2022/02/21,3,SUN,09:15,10:00,45,0,-1,0
+O733, O733,Breaking,2022/02/21,3,SUN,10:00,10:15,15,1,0,1
+EL642,,Study Applied Statistics and Reading papers,2022/02/21,3,SUN,10:15,12:30,135,1,-1,-1
+ED145,,Lunch,2022/02/21,3,SUN,12:30,13:30,60,1,1,1
+X893,,Go to gym,2022/02/21,3,SUN,13:30,16:30,180,2,1,-1
+O733,,Walking to home,2022/02/21,3,SUN,16:30,18:30,120,1,1,-1
+ED145,,Dinner,2022/02/21,3,SUN,18:30,19:30,60,1,1,0
+L418, EL642,Having online classWatching Movie Study Applied Statistics and Reading papers,2022/02/21,3,SUN,19:30,21:30,120,1,-1,-1
+O733,,Shower time,2022/02/21,3,SUN,21:30,22:30,60,1,0,2
+S801,,Sleep,2022/02/21,3,SUN,22:30,08:30,600,0,0,0

@@ -1,0 +1,39 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressFul,ImpLevel
+S801,,Sleeping,22/02/2022,21,Tuesday,01:15:00,08:30:00,435,2,0,3
+L418,UD415,Social Media,22/02/2022,21,Tuesday,08:30:00,09:00:00,30,2,0,0
+H179,,FreshUp,22/02/2022,21,Tuesday,09:00:00,09:45:00,45,1,1,2
+X893,,Yoga,22/02/2022,21,Tuesday,09:45:00,10:15:00,30,1,1,3
+ED145,,Breakfast,22/02/2022,21,Tuesday,10:15:00,10:30:00,15,1,0,3
+T695,,Bus Travel,22/02/2022,21,Tuesday,10:30:00,11:00:00,30,0,0,2
+EL642,,Lectures,22/02/2022,21,Tuesday,11:00:00,12:45:00,105,1,2,3
+ED145,,Lunch,22/02/2022,21,Tuesday,12:45:00,13:45:00,60,1,0,3
+EL642,,Lab,22/02/2022,21,Tuesday,13:45:00,16:15:00,150,1,2,3
+EL642,,Lectures,22/02/2022,21,Tuesday,16:45:00,17:15:00,30,1,2,3
+EL642,,Meeting,22/02/2022,21,Tuesday,17:15:00,18:00:00,45,2,1,3
+R523,CW982,Self Study,22/02/2022,21,Tuesday,18:00:00,21:30:00,210,2,1,3
+T695,,Bus Travel,22/02/2022,21,Tuesday,21:30:00,22:00:00,30,0,0,2
+ED145,,Dinner,22/02/2022,21,Tuesday,22:00:00,23:00:00,60,1,0,3
+L418,UD415,Social Media,22/02/2022,21,Tuesday,23:00:00,00:00:00,60,2,0,0
+S801,,Sleeping,23/02/2022,21,Wednesday,01:45:00,07:15:00,330,2,0,3
+L418,UD415,Social Media,23/02/2022,21,Wednesday,07:15:00,07:45:00,30,2,0,0
+H179,,FreshUp,23/02/2022,21,Wednesday,07:45:00,08:15:00,30,1,1,2
+ED145,,Breakfast,23/02/2022,21,Wednesday,08:15:00,08:45:00,30,1,0,3
+T695,,Bus Travel,23/02/2022,21,Wednesday,08:45:00,09:15:00,30,0,0,2
+EL642,,Lab,23/02/2022,21,Wednesday,09:15:00,11:15:00,120,1,2,3
+L418,UD415,Video Games,23/02/2022,21,Wednesday,11:15:00,12:15:00,60,2,0,3
+PW101,,Lab,23/02/2022,21,Wednesday,12:15:00,13:15:00,60,1,2,3
+ED145,,Lunch,23/02/2022,21,Wednesday,13:15:00,13:45:00,30,1,0,3
+O733,,Roaming in the city,23/02/2022,21,Wednesday,13:45:00,16:00:00,135,2,0,1
+L418,,Bowling Game,23/02/2022,21,Wednesday,16:00:00,18:00:00,120,2,0,2
+ED145,,Drinks,23/02/2022,21,Wednesday,18:00:00,20:00:00,120,2,0,0
+ED145,,Dinner,23/02/2022,21,Wednesday,20:00:00,21:00:00,60,1,0,3
+CW982,CW982,Self Study,23/02/2022,21,Wednesday,21:00:00,23:45:00,165,0,3,3
+L418,UD415,Social Media,23/02/2022,21,Wednesday,23:45:00,00:00:00,15,2,0,0
+S801,,Sleeping,24/02/2022,21,Thursday,00:15:00,06:15:00,360,2,0,3
+H179,,FreshUp,24/02/2022,21,Thursday,06:15:00,06:45:00,30,1,1,2
+PW101,,Part-time work,24/02/2022,21,Thursday,07:00:00,13:15:00,375,1,2,3
+ED145,,Lunch,24/02/2022,21,Thursday,13:15:00,13:45:00,30,1,0,3
+S801,,Sleeping,24/02/2022,21,Thursday,13:45:00,16:15:00,150,2,0,3
+CW982,CW982,Self Study,24/02/2022,21,Thursday,16:15:00,20:15:00,240,0,3,3
+ED145,,Dinner,24/02/2022,21,Thursday,20:15:00,20:45:00,30,1,0,3
+S801,,Sleeping,24/02/2022,21,Thursday,20:45:00,00:00:00,195,2,0,3

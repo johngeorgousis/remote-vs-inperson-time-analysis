@@ -1,0 +1,51 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Productivity, Types of Food
+S801, ,Sleeping,2022/2/21,3,Monday,0:00,8:00,480,2, ,
+S801, ,Sleeping,2022/2/21,3,Monday,22:30,0:00,90,2, ,
+O733,UD415,Brushing teeth and washing face,2022/2/21,3,Monday,8:15,8:30,15,1,2,
+O733,UD415,Brushing teeth and washing face,2022/2/21,3,Monday,22:00,22:30,30,0,0,
+T695,UD415,Browing web on mobile phone,2022/2/21,3,Monday,8:45,9:05,20,0,2,
+T695,UD415,Browing web on mobile phone,2022/2/21,3,Monday,14:15,14:55,40,0,1,
+EL642, , ,2022/2/21,3,Monday,9:15,11:15,120,1,2,
+EL642, , ,2022/2/21,3,Monday,13:15,14:15,60,1,2,
+T695, , ,2022/2/21,3,Monday,11:15,11:45,30,0,1,
+T695, , ,2022/2/21,3,Monday,12:15,12:45,30,0,1,
+CW982,UD415, ,2022/2/21,3,Monday,12:45,13:15,30,0,2,
+CW982,UD415, ,2022/2/21,3,Monday,19:00,22:00,180,0,2,
+O733, ,Preparing dinner,2022/2/21,3,Monday,17:30,18:30,60,2,2,
+ED145,UD415,Listening to music,2022/2/21,3,Monday,8:30,8:45,15,2,2,milk and sandwich
+ED145,UD415,Listening to music,2022/2/21,3,Monday,11:45,12:15,30,2,1,fired rice and soup
+ED145,L418,Watching TV series,2022/2/21,3,Monday,14:55,17:30,155,2,0,crips and cookies
+ED145,L418,Watching TV series,2022/2/21,3,Monday,18:30,19:00,30,2,0,salad
+S801, ,Sleeping,2022/2/22,3,Tuesday,0:00,9:00,540,2, ,
+S801, ,Sleeping,2022/2/22,3,Tuesday,22:00,0:00,120,2, ,
+O733, ,Brushing teeth and washing face,2022/2/22,3,Tuesday,9:00,9:30,30,2,2,
+O733, ,Brushing teeth and washing face,2022/2/22,3,Tuesday,21:30,22:00,30,1,1,
+T695,UD415,Browing web on mobile phone,2022/2/22,3,Tuesday,10:00,10:40,40,0,0,
+T695,UD415,Browing web on mobile phone,2022/2/22,3,Tuesday,15:15,16:00,45,0,0,
+EL642,UD415,Online lecture,2022/2/22,3,Tuesday,10:40,11:15,35,0,2,
+EL642,UD415,Online lecture,2022/2/22,3,Tuesday,18:20,21:30,190,0,2,
+EL642, , ,2022/2/22,3,Tuesday,11:15,12:15,60,0,2,
+EL642, , ,2022/2/22,3,Tuesday,13:15,15:15,120,0,1,
+T695, , ,2022/2/22,3,Tuesday,12:15,12:40,25,0,2,
+ED145, , ,2022/2/22,3,Tuesday,9:30,10:00,30,2,0,coffee and bread
+ED145, , ,2022/2/22,3,Tuesday,12:40,13:00,20,-1,2,sandwich 
+ED145,L418,Watching TV series,2022/2/22,3,Tuesday,16:00,18:00,120,2,-1,cakes and bubble tea
+ED145, , ,2022/2/22,3,Tuesday,18:00,18:15,15,2,-1,fruit
+ED145, ,Sleeping,2022/2/23,3,Wednesday,0:00,8:00,480,2, ,
+ED145, ,Sleeping,2022/2/23,3,Wednesday,23:30,0:00,30,2, ,
+O733, ,Brushing teeth and washing face,2022/2/23,3,Wednesday,8:00,8:30,30,2,2,
+EL642,UD415,Online lecture,2022/2/23,3,Wednesday,9:15,10:15,60,0,2,
+CW982,UD415, ,2022/2/23,3,Wednesday,10:15,11:30,75,0,2,
+CW982,UD415, ,2022/2/23,3,Wednesday,13:30,14:10,40,0,2,
+CW982,UD415, ,2022/2/23,3,Wednesday,15:20,16:05,45,0,1,
+T695, , ,2022/2/23,3,Wednesday,12:00,12:20,20,0,0,
+T695, , ,2022/2/23,3,Wednesday,12:45,13:30,45,-1,-2,
+T695, , ,2022/2/23,3,Wednesday,17:15,18:00,45,-2,2,
+EL642, , ,2022/2/23,3,Wednesday,14:15,15:15,60,-1,1,
+EL642, , ,2022/2/23,3,Wednesday,16:15,17:15,60,-2,1,
+H179,UD415, ,2022/2/23,3,Wednesday,18:30,22:30,240,-2,2,
+O733, ,Taking a shower,2022/2/23,3,Wednesday,22:30,23:30,60,2,1,
+ED145,UD415,Browing web on mobile phone,2022/2/23,3,Wednesday,8:30,9:10,30,2,-1,milk and oatmeal
+ED145,UD415,Browing web on mobile phone,2022/2/23,3,Wednesday,12:20,12:45,25,1,0,noodle
+ED145,R523, ,2022/2/23,3,Wednesday,11:30,12:00,30,0,2,coffee
+ED145,L418,Watching TV series,2022/2/23,3,Wednesday,18:00,18:30,30,2,0,salad

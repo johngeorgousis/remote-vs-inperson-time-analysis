@@ -1,0 +1,26 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Weather,Drink
+S801,,Sleeping,16/02/2022,20,Wednesday,01:00:00,07:00:00,360,2,Cloudy,No drink
+O733,,Showering,16/02/2022,20,Wednesday,07:00:00,08:00:00,60,2,Cloudy,No drink
+UD415,R523,Prepare to work,16/02/2022,20,Wednesday,08:00:00,08:30:00,30,0,Cloudy,Water
+T695,,Travelling to campus,16/02/2022,20,Wednesday,08:30:00,09:15:00,45,1,Rainy / Drizzle,No drink
+EL642,,In class,16/02/2022,20,Wednesday,09:15:00,13:15:00,240,1,Rainy / Drizzle,Water
+ED145,L418,Having lunch,16/02/2022,20,Wednesday,13:15:00,15:00:00,105,2,Rainy / Drizzle,Coke
+EL642,R523,Reviewing,16/02/2022,20,Wednesday,15:00:00,18:00:00,180,0,Windy,Tea
+ED145,,Having dinner,16/02/2022,20,Wednesday,18:00:00,20:00:00,120,1,Rainy / Drizzle,Tea
+CW982,,Doing coursework,16/02/2022,20,Wednesday,20:00:00,22:00:00,120,-1,Rainy / Drizzle,Coke / Soft drinks
+UD415,,play cellphone,16/02/2022,20,Wednesday,23:00:00,23:15:00,15,2,Cloudy,No drink
+S801,,Sleeping,17/02/2022,20,Thursday,00:00:00,08:00:00,480,1,Cloudy,No drink
+CW982,,Study,17/02/2022,20,Thursday,08:00:00,11:00:00,180,0,Rainy / Drizzle,Tea
+ED145,,Having lunch,17/02/2022,20,Thursday,11:00:00,13:00:00,120,2,Cloudy,Water
+EL642,,Study,17/02/2022,20,Thursday,13:15:00,16:45:00,210,0,Windy,Water
+L418,EL642,Hang out with friends,17/02/2022,20,Thursday,17:00:00,20:00:00,180,2,Cloudy,Beer
+L418,,Play poker,17/02/2022,20,Thursday,20:30:00,22:00:00,90,2,Rainy / Drizzle,Water
+S801,,Sleeping,17/02/2022,20,Thursday,23:15:00,23:45:00,30,2,Cloudy,No drink
+S801,,Sleeping,18/02/2022,20,Friday,00:00:00,06:00:00,360,1,Rainy / Drizzle,No drink
+UD415,,browsing on my phone,18/02/2022,20,Friday,06:00:00,08:00:00,120,-1,Rainy / Drizzle,Water
+O733,,showering,18/02/2022,20,Friday,08:15:00,08:45:00,30,1,Rainy / Drizzle,No drink
+EL642,,In class,18/02/2022,20,Friday,09:00:00,13:15:00,255,0,Sunny,Water
+T695,,Back home,18/02/2022,20,Friday,13:30:00,13:45:00,15,-2,Cloudy,Water
+R523,,Reading books,18/02/2022,20,Friday,15:00:00,18:00:00,180,1,Rainy / Drizzle,Tea
+ED145,,Dinner,18/02/2022,20,Friday,18:15:00,20:00:00,105,1,Windy,Coke / Soft drinks
+R523,,Study,18/02/2022,20,Friday,20:15:00,22:30:00,135,0,Cloudy,Tea

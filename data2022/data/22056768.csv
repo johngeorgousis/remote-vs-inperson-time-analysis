@@ -1,0 +1,26 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,ProductivityScore,TirednessScore
+0,S801,,,18/02/2022,20,Friday,00:00,08:15,495,0,,2
+1,ED145,,Breakfast,18/02/2022,20,Friday,08:15,09:00,45,1,,1
+2,T695,,Bus ride to uni,18/02/2022,20,Friday,09:00,09:45,45,,,0
+3,CW982,EL642,Lectures and coursework,18/02/2022,20,Friday,09:45,14:00,255,0,1,0
+4,ED145,,Lunch,18/02/2022,20,Friday,14:00,14:45,45,2,,0
+5,X893,,Tennis practice,18/02/2022,20,Friday,15:00,17:15,135,-2,1,0
+6,T695,,Bus ride home,18/02/2022,20,Friday,17:15,17:45,30,,,1
+7,ED145,,Dinner,18/02/2022,20,Friday,18:00,19:00,60,1,,1
+8,L418,,Predrinking,18/02/2022,20,Friday,19:30,22:45,195,2,,1
+9,L418,ED145,Going out,18/02/2022,20,Friday,23:00,04:15,315,1,,1
+10,S801,,,19/02/2022,20,Saturday,04:15,10:00,345,-1,,2
+11,O733,,Laying in bed,19/02/2022,20,Saturday,10:00,11:30,90,-1,,2
+12,ED145,,Brunch,19/02/2022,20,Saturday,11:30,12:15,45,1,,2
+13,O733,,Laying in bed,19/02/2022,20,Saturday,12:15,14:00,105,-1,,2
+14,S801,,Nap,19/02/2022,20,Saturday,14:00,14:30,30,1,,2
+15,CW982,,,19/02/2022,20,Saturday,15:00,18:00,180,-2,-2,1
+16,,,Dinner,19/02/2022,20,Saturday,19:00,20:00,60,2,,2
+17,H179,,Cleaning the kitchen,19/02/2022,20,Saturday,20:00,21:30,90,-2,-1,2
+18,S801,,,19/02/2022,20,Saturday,21:30,09:00,690,2,,2
+19,ED145,,Breakfast,20/02/2022,20,Sunday,09:00,09:45,45,1,,1
+20,CW982,,,20/02/2022,20,Sunday,09:45,15:30,345,1,2,0
+21,H179,,Cleaning,20/02/2022,20,Sunday,15:45,17:30,105,-2,1,0
+22,ED145,L418,Having dinner with friends,20/02/2022,20,Sunday,18:00,20:00,120,2,,0
+23,L418,,Watching Netflix,20/02/2022,20,Sunday,20:15,22:15,120,1,,1
+24,S801,,,20/02/2022,20,Sunday,22:15,08:15,600,1,,1

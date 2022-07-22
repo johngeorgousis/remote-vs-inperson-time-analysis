@@ -1,0 +1,37 @@
+PrimaryActivityCode,Descriptive Label,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,Enjoyment,Hungry,FocusLevel
+S801,Sleeping,2022-02-14,20,Monday,23:30,08:30,540,0,Not applicable,Not applicable
+O733,Taking shower,2022-02-14,20,Monday,08:30,08:45,15,0,Yes,Moderate
+ED145,Breakfast,2022-02-14,20,Monday,09:15,09:45,30,2,Not applicable,Not applicable
+T695,Bus,2022-02-14,20,Monday,10:00,10:30,30,0,Not applicable,Not applicable
+X893,Fitness,2022-02-14,20,Monday,11:00,13:00,120,2,No,High
+EL642,Lecture,2022-02-14,20,Monday,13:30,17:15,225,1,Yes,Moderate
+T695,Bus,2022-02-14,20,Monday,17:45,18:15,30,-1,Not applicable,Not applicable
+ED145,Dinner,2022-02-14,20,Monday,18:45,20:00,75,2,Not applicable,Not applicable
+H179,HW,2022-02-14,20,Monday,20:30,23:00,150,2,No,High
+L418,Social Media,2022-02-14,20,Monday,23:00,23:45,45,2,No,High
+S801,Sleeping,2022-02-16,20,Wednesday,00:30,07:45,435,1,Not applicable,Not applicable
+O733,Taking shower,2022-02-16,20,Wednesday,08:15,08:45,30,0,Yes,Moderate
+ED145,Breakfast,2022-02-16,20,Wednesday,09:30,10:00,30,1,Not applicable,Not applicable
+H179,Cleaning,2022-02-16,20,Wednesday,10:00,11:00,60,1,No,High
+T695,Bus,2022-02-16,20,Wednesday,11:15,11:45,30,0,Not applicable,Not applicable
+EL642,Lecture,2022-02-16,20,Wednesday,12:15,16:00,225,1,No,High
+ED145,Lunch,2022-02-16,20,Wednesday,16:15,17:00,45,2,Not applicable,Not applicable
+X893,Fitness,2022-02-16,20,Wednesday,17:15,18:45,90,2,No,High
+O733,Socialise with friends,2022-02-16,20,Wednesday,19:15,21:45,150,2,No,High
+T695,Travelling to home,2022-02-16,20,Wednesday,21:45,22:00,15,0,Not applicable,Not applicable
+R523,HW,2022-02-16,20,Wednesday,22:15,23:45,90,1,Yes,Moderate
+S801,Sleeping,2022-02-18,20,Friday,00:15,09:15,540,2,Not applicable,Not applicable
+EL642,Online Lecture,2022-02-18,20,Friday,09:15,10:15,60,-1,Yes,Low
+R523,HW,2022-02-18,20,Friday,10:30,11:45,75,0,Yes,Moderate
+O733,Taking shower,2022-02-18,20,Friday,12:00,12:15,15,1,Yes,Moderate
+T695,Travelling to campus,2022-02-18,20,Friday,12:15,12:30,15,1,Not applicable,Not applicable
+EL642,Lecture,2022-02-18,20,Friday,12:45,14:15,90,-1,Yes,Low
+ED145,Lunch,2022-02-18,20,Friday,14:15,14:30,15,2,Not applicable,Not applicable
+EL642,Lecture,2022-02-18,20,Friday,14:30,16:15,105,2,No,High
+R523,HW,2022-02-18,20,Friday,17:00,19:45,165,2,No,High
+T695,Travelling to home,2022-02-18,20,Friday,19:45,20:00,15,0,Not applicable,Not applicable
+ED145,Dinner,2022-02-18,20,Friday,20:00,20:45,45,2,Not applicable,Not applicable
+O733,Social Media,2022-02-18,20,Friday,21:00,21:30,30,2,No,High
+R523,HW,2022-02-18,20,Friday,21:30,22:15,45,1,No,High
+X893,Yoga,2022-02-18,20,Friday,22:15,22:45,30,1,No,High
+L418,Watching TV,2022-02-18,20,Friday,22:45,23:45,60,2,No,Moderate

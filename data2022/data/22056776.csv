@@ -1,0 +1,37 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,TemperatureFeel,FocusLevel
+S801, ,Sleeping,21/02/2022,21,Monday,01:00:00,08:15:00,435,2,Too Cold,3.0
+O733, ,Morning Routine,21/02/2022,21,Monday,08:30:00,09:15:00,45,0,Slightly Cold,4.0
+ED145, ,Breakfast,21/02/2022,21,Monday,09:30:00,10:15:00,45,1,Slightly Cold,3.0
+EL642, ,Lectures,21/02/2022,21,Monday,10:30:00,13:00:00,150,1,Optimum,4.0
+ED145, ,Lunch,21/02/2022,21,Monday,13:00:00,13:45:00,45,2,Optimum,4.0
+T695, ,Travel to hospital,21/02/2022,21,Monday,14:00:00,16:00:00,120,-1,Optimum,3.0
+O733, ,Activities in hospital,21/02/2022,21,Monday,16:00:00,21:00:00,300,-2,Optimum,3.0
+T695, ,Travel back home,21/02/2022,21,Monday,21:00:00,23:00:00,120,-1,Slightly Cold,2.0
+CW982, ,ADS coursework,21/02/2022,21,Monday,23:00:00,23:30:00,30,1,Too Cold,4.0
+R523,L418,Leisure reading,22/02/2022,21,Tuesday,00:00:00,01:00:00,60,2,Too Cold,3.0
+S801, ,Sleeping,22/02/2022,21,Tuesday,01:00:00,07:30:00,390,2,Too Cold,4.0
+O733, ,Morning Routine,22/02/2022,21,Tuesday,07:30:00,08:15:00,45,0,Too Cold,3.0
+X893, ,Walk,22/02/2022,21,Tuesday,08:30:00,09:30:00,60,2,Slightly Cold,4.0
+ED145, ,Breakfast,22/02/2022,21,Tuesday,09:30:00,10:15:00,45,2,Slightly Cold,3.0
+CW982, ,ADS coursework,22/02/2022,21,Tuesday,10:30:00,13:00:00,150,1,Optimum,4.0
+ED145, ,Lunch,22/02/2022,21,Tuesday,13:00:00,14:15:00,75,2,Optimum,4.0
+UD415,L418,Netflix,22/02/2022,21,Tuesday,14:30:00,15:30:00,60,2,Optimum,4.0
+H179, ,Cleaning and Grocery,22/02/2022,21,Tuesday,15:45:00,17:00:00,75,0,Optimum,3.0
+ED145, ,Evening Snack,22/02/2022,21,Tuesday,17:00:00,17:30:00,30,2,Optimum,4.0
+EL642, ,Lectures,22/02/2022,21,Tuesday,18:00:00,20:00:00,120,1,Slightly Cold,3.0
+ED145, ,Dinner,22/02/2022,21,Tuesday,20:15:00,21:45:00,90,2,Slightly Cold,3.0
+R523, ,Leisure reading,22/02/2022,21,Tuesday,22:00:00,23:45:00,105,2,Slightly Cold,3.0
+UD415,L418,Scrolling,23/02/2022,21,Wednesday,00:00:00,00:45:00,45,1,Too Cold,2.0
+S801, ,Sleeping,23/02/2022,21,Wednesday,01:15:00,07:30:00,375,2,Too Cold,4.0
+O733, ,Morning Routine,23/02/2022,21,Wednesday,07:45:00,08:30:00,45,0,Slightly Cold,3.0
+X893, ,Walk,23/02/2022,21,Wednesday,08:45:00,09:45:00,60,2,Slightly Cold,4.0
+ED145, ,Breakfast,23/02/2022,21,Wednesday,10:00:00,11:00:00,60,2,Slightly Cold,3.0
+CW982, ,ADS coursework,23/02/2022,21,Wednesday,11:15:00,13:00:00,105,-1,Optimum,5.0
+S801, ,Siesta,23/02/2022,21,Wednesday,13:30:00,14:30:00,60,2,Optimum,3.0
+H179, ,Cleaning and Grocery,23/02/2022,21,Wednesday,14:45:00,15:15:00,30,2,Optimum,3.0
+EL642, ,Lectures,23/02/2022,21,Wednesday,15:30:00,17:00:00,90,0,Optimum,4.0
+UD415,L418,Scrolling,23/02/2022,21,Wednesday,17:00:00,18:15:00,75,1,Optimum,2.0
+O733, ,Medical needs,23/02/2022,21,Wednesday,18:15:00,20:30:00,135,-2,Slightly Cold,5.0
+ED145, ,Dinner,23/02/2022,21,Wednesday,20:30:00,21:30:00,60,1,Slightly Cold,4.0
+H179, ,Cleaning,23/02/2022,21,Wednesday,21:30:00,22:00:00,30,-1,Slightly Cold,3.0
+R523,L418,Leisure reading,23/02/2022,21,Wednesday,22:00:00,23:45:00,105,1,Too Cold,3.0

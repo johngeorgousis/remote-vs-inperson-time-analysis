@@ -1,0 +1,22 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Game time (hours),Focus in class (mins)
+S801,,Sleeping,2022/2/15,20,Tuesday,23:45,7:45,480,0,3,50
+O733,,Take a Bath,2022/2/16,20,Wednesday,8:00,8:20,20,0,,
+ED145,,Breakfast,2022/2/16,20,Wednesday,8:30,8:45,15,1,,
+UD415,,Using Devices,2022/2/16,20,Wednesday,8:45,9:15,30,1,,
+EL642,,Education/Lectures,2022/2/16,20,Wednesday,9:15,10:55,100,-1,,
+CW982,,Coursework,2022/2/16,20,Wednesday,13:00,15:00,120,-1,,
+PW101,,Paid Work,2022/2/16,20,Wednesday,15:30,19:30,240,0,,
+S801,,Sleeping,2022/2/16,20,Wednesday,22:45,7:45,540,2,2,80
+O733,,Take a Bath,2022/2/17,20,Thursday,8:00,8:20,20,0,,
+ED145,,Breakfast,2022/2/17,20,Thursday,8:30,8:45,15,1,,
+UD415,,Using Devices,2022/2/17,20,Thursday,8:45,9:15,30,1,,
+EL642,,Education/Lectures,2022/2/17,20,Thursday,9:15,10:55,100,-1,,
+CW982,,Coursework,2022/2/17,20,Thursday,13:00,15:00,120,-1,,
+PW101,,Paid Work,2022/2/17,20,Thursday,15:30,19:30,240,0,,
+S801,,Sleeping,2022/2/18,20,Friday,1:30,7:45,375,-2,5,30
+O733,,Take a Bath,2022/2/18,20,Friday,8:00,8:20,20,1,,
+ED145,,Breakfast,2022/2/18,20,Friday,8:30,8:45,15,1,,
+UD415,,Using Devices,2022/2/18,20,Friday,8:45,9:15,30,1,,
+EL642,,Education/Lectures,2022/2/18,20,Friday,9:15,10:55,100,-1,,
+CW982,,Coursework,2022/2/18,20,Friday,13:00,15:00,120,-1,,
+PW101,,Paid Work,2022/2/18,20,Friday,15:30,19:30,240,0,,

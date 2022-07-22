@@ -1,0 +1,47 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Purpose,StartNew
+EL642,,Review the lecture's recording.,19/02/2022,20,Saturday,00:00,01:00,60,0,Self-improvement,Whatever
+L418,ED145,Chat with my dad while eating snack.,19/02/2022,20,Saturday,01:00,04:00,180,1,Rest and relax,No
+S801,,Just sleep.,19/02/2022,20,Saturday,04:00,11:50,470,1,Rest and relax,No
+H179,L418,"Brush my teeth, wash my face, cook my lunch while listening to music.",19/02/2022,20,Saturday,12:00,13:10,70,0,Have to do so,Yes
+ED145,,Eating lunch.,19/02/2022,20,Saturday,13:12,13:40,28,2,Rest and relax,Whatever
+L418,,Call my mom.,19/02/2022,20,Saturday,13:43,14:25,42,1,Rest and relax;Escape from real life,Yes
+CW982,,Browse coursework requirements.,19/02/2022,20,Saturday,14:35,15:50,75,0,Have to do so,Yes
+O733,L418,Daydreamimg.,19/02/2022,20,Saturday,15:55,18:40,165,1,Self-improvement,Yes
+S801,,Take a nap.,19/02/2022,20,Saturday,18:40,19:12,32,0,Rest and relax,Yes
+H179,L418,Going shopping for some food while chatting with my friend.,19/02/2022,20,Saturday,19:20,20:00,40,0,Have to do so,Yes
+ED145,L418,Eating dinner while watching Youtube videos.,19/02/2022,20,Saturday,20:00,21:10,70,0,Rest and relax,Yes
+CW982,,Doing coursework while listening to music.,19/02/2022,20,Saturday,21:10,23:20,130,1,Self-improvement,Whatever
+UD415,,Play games with my friends.,19/02/2022,20,Saturday,23:25,23:59,34,0,Rest and relax;Social needs,Yes
+UD415,,Playing video games with my friend.,21/02/2022,21,Monday,00:00,01:20,80,0,Social needs,Yes
+L418,,Browsing social media.,21/02/2022,21,Monday,01:25,02:30,65,0,Rest and relax,Whatever
+S801,,Sleeping.,21/02/2022,21,Monday,02:30,11:00,510,1,Rest and relax,No
+H179,,"Brush my teeth, wash my face, cook my lunch.",21/02/2022,21,Monday,11:05,12:13,68,0,Have to do so,Yes
+ED145,,Eating my lunch.,21/02/2022,21,Monday,12:15,12:35,20,1,Have to do so,Yes
+T695,L418,On the way to lecture's room wearing my headphones.,21/02/2022,21,Monday,12:40,13:15,35,0,Have to do so,Yes
+EL642,,Attending a lecture.,21/02/2022,21,Monday,13:15,14:05,50,1,Self-improvement,No
+T695,R523,"Travelling to vaccination center, then back to city center.",21/02/2022,21,Monday,14:05,15:40,95,-1,Have to do so,Yes
+H179,,Buying groceries.,21/02/2022,21,Monday,15:40,16:30,50,0,Rest and relax;Have to do so,Yes
+T695,,Go back home.,21/02/2022,21,Monday,16:30,17:05,35,0,Have to do so,Yes
+L418,H179,Chatting with neighbours while preparing dinner.,21/02/2022,21,Monday,17:15,17:40,25,1,Rest and relax;Social needs,Whatever
+ED145,,Eating dinner.,21/02/2022,21,Monday,17:40,18:30,50,1,Rest and relax,No
+S801,,Take a nap.,21/02/2022,21,Monday,18:42,20:50,128,1,Rest and relax,No
+O733,,Take a shower.,21/02/2022,21,Monday,20:50,21:28,38,1,Rest and relax;Have to do so,Whatever
+EL642,L418,Watching pre-recorded lecture videos while playing on my phone.,21/02/2022,21,Monday,21:30,23:59,149,1,Self-improvement;Have to do so,No
+CW982,,Doing coursework.,22/02/2022,21,Tuesday,00:00,01:35,95,1,Self-improvement;Have to do so,Whatever
+L418,,Watching videos of my idol while chatting with my friends.,22/02/2022,21,Tuesday,01:40,03:00,80,2,Rest and relax;Escape from real life,No
+S801,,Sleeping.,22/02/2022,21,Tuesday,03:00,09:40,400,1,Rest and relax,No
+H179,,"Brush my teeth, wash my face, cook my brunch.",22/02/2022,21,Tuesday,09:40,10:15,35,0,Have to do so,Yes
+ED145,O733,Eating and packing my bag.,22/02/2022,21,Tuesday,10:15,10:40,25,0,Have to do so,Yes
+T695,,Travelling to university.,22/02/2022,21,Tuesday,10:40,11:20,40,-1,Have to do so,Yes
+EL642,,Attending a lecture.,22/02/2022,21,Tuesday,11:20,12:05,45,1,Self-improvement,No
+EL642,O733,Watching panopto while chatting with my classmates.,22/02/2022,21,Tuesday,12:15,14:15,120,1,Self-improvement,Whatever
+CW982,,Attending lab.,22/02/2022,21,Tuesday,14:15,16:00,105,0,Self-improvement,Whatever
+T695,L418,Go back home while listening to music.,22/02/2022,21,Tuesday,16:05,16:40,35,0,Have to do so,Yes
+H179,,Tidying up the kitchen and preparing dinner.,22/02/2022,21,Tuesday,16:50,17:45,55,0,Have to do so,Yes
+ED145,,Eating dinner.,22/02/2022,21,Tuesday,17:45,18:10,25,1,Rest and relax,No
+EL642,,Attending a lecture.,22/02/2022,21,Tuesday,18:15,19:50,95,0,Self-improvement,Yes
+L418,,Browsing social media.,22/02/2022,21,Tuesday,19:55,20:30,35,0,Rest and relax,Whatever
+S801,,Take a nap.,22/02/2022,21,Tuesday,20:30,21:13,43,1,Rest and relax,No
+H179,,Preparing the lunchbox for the next day.,22/02/2022,21,Tuesday,21:25,22:00,35,0,Have to do so,Whatever
+R523,,Reading code.,22/02/2022,21,Tuesday,22:00,23:10,70,0,Self-improvement,Whatever
+UD415,,Call my mom.,22/02/2022,21,Tuesday,23:10,23:59,49,1,Rest and relax,No

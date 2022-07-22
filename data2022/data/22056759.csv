@@ -1,0 +1,41 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AnxietyLevel,GroupWork?
+O733,UD415,company research,2022/01/02,13,Sunday,00:00,01:30,90,0,1,No
+S801,,cuddle,2022/01/02,13,Sunday,01:30,02:30,60,2,0,Yes
+S801,,,2022/01/02,13,Sunday,02:30,10:30,480,1,0,No
+L418,UD415,video games,2022/01/02,13,Sunday,10:30,10:45,15,1,0,No
+O733,,shower,2022/01/02,13,Sunday,10:45,11:15,30,0,0,No
+T695,,commute,2022/01/02,13,Sunday,11:15,12:00,45,1,0,No
+ED145,,chill with friends,2022/01/02,13,Sunday,12:00,13:15,75,2,0,Yes
+T695,,commute,2022/01/02,13,Sunday,13:15,14:00,45,1,0,No
+L418,,exhibitions,2022/01/02,13,Sunday,14:00,17:15,195,2,0,No
+T695,,commute,2022/01/02,13,Sunday,17:15,18:00,45,0,0,No
+ED145,UD415,watch anime,2022/01/02,13,Sunday,18:00,18:45,45,1,1,No
+O733,UD415,company research,2022/01/02,13,Sunday,18:45,20:30,105,0,1,No
+L418,UD415,video games,2022/01/02,13,Sunday,20:30,22:30,120,1,0,Yes
+L418,UD415,watch anime,2022/01/02,13,Sunday,22:30,00:00,90,1,0,No
+L418,UD415,watch anime,2022/02/15,20,Tuesday,00:00,01:00,60,1,0,No
+O733,,shower,2022/02/15,20,Tuesday,01:00,01:45,45,0,0,No
+L418,UD415,watch anime,2022/02/15,20,Tuesday,01:45,02:45,60,1,1,Yes
+S801,UD415,listen to music,2022/02/15,20,Tuesday,02:45,03:30,45,1,0,No
+S801,,,2022/02/15,20,Tuesday,03:30,10:45,435,1,0,No
+O733,,shower,2022/02/15,20,Tuesday,10:45,11:15,30,0,0,No
+L418,UD415,video games,2022/02/15,20,Tuesday,11:15,13:15,120,1,0,No
+ED145,UD415,watch anime,2022/02/15,20,Tuesday,13:15,14:00,45,1,0,No
+EL642,UD415,online,2022/02/15,20,Tuesday,14:00,18:45,285,1,0,No
+ED145,UD415,watch anime,2022/02/15,20,Tuesday,18:45,19:30,45,1,0,Yes
+EL642,UD415,online,2022/02/15,20,Tuesday,19:30,00:15,285,1,1,Yes
+O733,,shower,2022/02/16,20,Wednesday,00:15,00:45,30,0,0,No
+O733,UD415,company research,2022/02/16,20,Wednesday,00:45,01:30,45,1,1,No
+S801,,,2022/02/16,20,Wednesday,01:30,08:00,390,1,0,No
+O733,,shower,2022/02/16,20,Wednesday,08:00,08:30,30,0,0,No
+O733,UD415,company research,2022/02/16,20,Wednesday,08:30,09:00,30,0,1,No
+O733,UD415,job interview,2022/02/16,20,Wednesday,09:00,10:15,75,1,0,Yes
+T695,UD415,commute,2022/02/16,20,Wednesday,10:15,11:15,60,1,1,No
+CW982,UD415,lab,2022/02/16,20,Wednesday,11:15,17:15,360,0,2,No
+CW982,UD415,lab,2022/02/16,20,Wednesday,17:15,18:15,60,1,2,Yes
+L418,UD415,watch performance,2022/02/16,20,Wednesday,18:15,19:15,60,0,1,No
+T695,UD415,commute,2022/02/16,20,Wednesday,19:15,20:15,60,-1,1,No
+ED145,UD415,watch anime,2022/02/16,20,Wednesday,20:15,21:15,60,1,0,No
+L418,UD415,video games,2022/02/16,20,Wednesday,21:15,22:45,90,1,0,No
+L418,UD415,video games,2022/02/16,20,Wednesday,22:45,23:30,45,0,2,No
+L418,UD415,video games,2022/02/16,20,Wednesday,23:30,00:00,30,0,3,No

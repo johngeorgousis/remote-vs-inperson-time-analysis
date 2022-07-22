@@ -1,0 +1,26 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AdditionalData1,AdditionalData2
+S801,,Sleeping,11/02/22,19,Friday,00:00,12:00,720,1,Enjoyment    Rating: 0,Productivity Rating: 0
+ED145,,Eating Brunch,11/02/22,19,Friday,12:15,13:45,90,1,Enjoyment    Rating: 1,Productivity Rating: 0
+H179,,Doing Housework,11/02/22,19,Friday,14:00,14:30,30,0,Enjoyment    Rating: 0,Productivity Rating: 2
+CW982,,Review/ Preview Lectures,11/02/22,19,Friday,14:15,18:00,225,-2,Enjoyment    Rating: -1,Productivity Rating: 1
+ED145,,Having Dinner,11/02/22,19,Friday,18:15,19:45,90,1,Enjoyment    Rating: 1,Productivity Rating: 1
+L418,,Playing video games,11/02/22,19,Friday,20:15,22:00,105,-1,Enjoyment    Rating: 1,Productivity Rating: 0
+PW101,,Tutoring,11/02/22,19,Friday,22:00,24:00,120,-2,Enjoyment    Rating: 1,Productivity Rating: 2
+S801,,Sleeping,12/02/22,19,Saturday,00:00,11:00,660,2,Enjoyment    Rating: 1,Productivity Rating: 0
+ED145,,Eating Brunch,12/02/22,19,Saturday,11:30,12:15,45,1,Enjoyment    Rating: 2,Productivity Rating: 1
+L418,,Watching Movie,12/02/22,19,Saturday,12:30,15:00,150,1,Enjoyment    Rating: 2,Productivity Rating: 2
+O733,,Doing Grocery,12/02/22,19,Saturday,15:15,16:00,45,-1,Enjoyment    Rating: 1,Productivity Rating: 1
+ED145,,Having Dinner,12/02/22,19,Saturday,16:15,17:15,60,0,Enjoyment    Rating: 1,Productivity Rating: 1
+PW101,,Working,12/02/22,19,Saturday,17:30,19:00,90,-2,Enjoyment    Rating: 1,Productivity Rating: 2
+L418,,Playing Videogame,12/02/22,19,Saturday,19:15,21:30,135,-2,Enjoyment    Rating: -1,Productivity Rating: -1
+T695,,Using Phones,12/02/22,19,Saturday,21:45,22:30,45,0,Enjoyment    Rating: 1,Productivity Rating: 0
+S801,,Sleeping,12/02/22,19,Saturday,22:30,24:00,90,1,Enjoyment    Rating: 1,Productivity Rating: 0
+S801,,Sleeping,15/02/22,20,Tuesday,00:00,09:00,540,2,Enjoyment    Rating: 1,Productivity Rating: 1
+ED145,,Having Breakfast,15/02/22,20,Tuesday,9:15,10:15,60,2,Enjoyment    Rating: 2,Productivity Rating: 2
+S801,,Sleeping,15/02/22,20,Tuesday,10:30,12:00,90,2,Enjoyment    Rating: 2,Productivity Rating: 2
+CW982,,Doing Coursework,15/02/22,20,Tuesday,12:15,15:00,165,0,Enjoyment    Rating: 1,Productivity Rating: 2
+L418,,Petting Cats,15/02/22,20,Tuesday,15:00,15:15,15,1,Enjoyment    Rating: 2,Productivity Rating: 0
+EL642,,Previewing Lectures,15/02/22,20,Tuesday,15:30,17:30,120,-1,Enjoyment    Rating: 1,Productivity Rating: 2
+ED145,,Eating Dinner,15/02/22,20,Tuesday,18:00,18:45,45,1,Enjoyment    Rating: 1,Productivity Rating: 2
+PW101,,Tutoring,15/02/22,20,Tuesday,19:00,23:00,240,-2,Enjoyment    Rating: 2,Productivity Rating: 2
+S801,,Sleeping,15/02/22,20,Tuesday,23:00,24:00,60,1,Enjoyment    Rating: 1,Productivity Rating: 1

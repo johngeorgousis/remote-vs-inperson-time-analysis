@@ -1,0 +1,24 @@
+﻿PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,AnxietyLevel,HeartRate
+S801,,Sleeping,3/20/2022,11,Monday,23:15,8:00,525,,1,1
+O733,,Shower,3/20/2022,11,Monday,8:00,8:30,30,1,1,4
+ED145,,Breakfast,3/20/2022,11,Monday,8:30,9:15,45,2,1,2
+X893,UD415,"light cardio, listening to music",3/20/2022,11,Monday,9:15,9:45,30,0,1,2
+T695,,Taking the bus to the university,3/20/2022,11,Monday,9:45,10:00,15,0,2,2
+EL642,CW982,attending lectures,3/20/2022,11,Monday,10:00,19:00,540,-2,4,3
+T695,ED145,"Taking the bus back home, Dinner",3/20/2022,11,Monday,19:00,19:30,30,0,1,2
+EL642,UD415,"studying, browsing on computer",3/20/2022,11,Monday,20:00,23:00,180,1,4,3
+S801,,sleeping,3/20/2022,11,Monday,23:00,9:00,600,,1,1
+O733,,shower,4/20/2022,11,Tusday,9:00,9:30,30,1,2,3
+ED145,,Breakfast,4/20/2022,11,Tusday,9:30,10:15,45,2,1,2
+X893,UD415,"light cardio, listening to music",4/20/2022,11,Tusday,10:15,10:45,30,2,1,3
+T695,,Taking the bus to the university,4/20/2022,11,Tusday,10:45,11:00,15,0,1,2
+EL642,,attending lectures,4/20/2022,11,Tusday,11:00,18:00,420,0,1,2
+ED145,,Dinner,4/20/2022,11,Tusday,19:00,21:30,150,1,4,3
+T695,,Taking the bus back home,4/20/2022,11,Tusday,21:45,22:10,25,0,1,1
+UD415,,using phone and computer,4/20/2022,11,Tusday,22:30,23:30,60,1,2,3
+S801,,Sleeping,4/20/2022,11,Tusday,0:00,8:00,480,,1,1
+O733,,Shower,5/20/2022,11,Wednsday,8:30,9:00,30,2,1,3
+ED145,UD415,"Working out to the gym, listening to music",5/20/2022,11,Wednsday,9:30,11:00,90,0,1,2
+EL642,UD415,"studying, browsing on computer",5/20/2022,11,Wednsday,12:00,17:00,300,0,1,2
+ED145,,Dinner,5/20/2022,11,Wednsday,18:00,21:00,180,1,4,3
+S801,,Sleeping,5/20/2022,11,Wednsday,23:00,8:00,540,,1,1

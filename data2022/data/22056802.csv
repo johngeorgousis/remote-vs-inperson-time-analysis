@@ -1,0 +1,63 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Chewing Gum,EngagementScore
+UD415,,Using Devices,2022-02-21,21,Mon,00:00:00,01:00:00,60.0,1,False,
+S801,,Sleep,2022-02-21,21,Mon,01:00:00,08:30:00,450.0,1,False,
+ED145,,Eating/Drinking,2022-02-21,21,Mon,08:30:00,09:00:00,30.0,0,False,
+H179,,Housework,2022-02-21,21,Mon,09:00:00,09:45:00,45.0,-1,False,0.0
+EL642,,Education/Lectures,2022-02-21,21,Mon,09:45:00,11:30:00,105.0,0,True,1.0
+H179,,Housework,2022-02-21,21,Mon,11:30:00,12:00:00,30.0,-1,False,0.0
+ED145,,Eating/Drinking,2022-02-21,21,Mon,12:00:00,13:00:00,60.0,0,False,
+EL642,,Education/Lectures,2022-02-21,21,Mon,13:00:00,14:30:00,90.0,0,False,-1.0
+O733,,Other,2022-02-21,21,Mon,14:30:00,15:00:00,30.0,1,False,
+CW982,,Coursework,2022-02-21,21,Mon,15:00:00,17:00:00,120.0,-1,True,1.0
+R523,,Reading,2022-02-21,21,Mon,17:00:00,18:30:00,90.0,1,True,1.0
+CW982,,Coursework,2022-02-21,21,Mon,18:30:00,19:30:00,60.0,-1,False,-1.0
+X893,,Exercise,2022-02-21,21,Mon,19:30:00,20:30:00,60.0,1,True,0.0
+ED145,,Eating/Drinking,2022-02-21,21,Mon,20:30:00,21:15:00,45.0,0,False,
+EL642,,Education/Lectures,2022-02-21,21,Mon,21:15:00,22:00:00,45.0,-2,True,1.0
+H179,,Housework,2022-02-21,21,Mon,22:00:00,22:15:00,15.0,-1,True,0.0
+UD415,,Using Devices,2022-02-21,21,Mon,22:15:00,00:00:00,105.0,-1,False,
+R523,,Reading,2022-02-22,21,Tues,00:00:00,00:30:00,30.0,0,True,1.0
+S801,,Sleep,2022-02-22,21,Tues,00:30:00,08:00:00,450.0,0,False,
+O733,,Other,2022-02-22,21,Tues,08:00:00,08:30:00,30.0,0,False,
+ED145,,Eating/Drinking,2022-02-22,21,Tues,08:30:00,09:15:00,45.0,0,False,
+H179,,Housework,2022-02-22,21,Tues,09:15:00,10:30:00,75.0,-1,False,0.0
+T695,,Travelling,2022-02-22,21,Tues,10:30:00,11:15:00,45.0,-1,True,0.0
+EL642,,Education/Lectures,2022-02-22,21,Tues,11:15:00,12:00:00,45.0,-2,True,-1.0
+ED145,,Eating/Drinking,2022-02-22,21,Tues,12:00:00,12:15:00,15.0,0,False,
+CW982,,Coursework,2022-02-22,21,Tues,12:15:00,14:00:00,105.0,0,True,1.0
+T695,,Travelling,2022-02-22,21,Tues,14:00:00,14:15:00,15.0,0,True,0.0
+CW982,,Coursework,2022-02-22,21,Tues,14:15:00,16:00:00,105.0,1,False,0.0
+X893,,Exercise,2022-02-22,21,Tues,16:00:00,16:45:00,45.0,1,True,0.0
+UD415,,Using Devices,2022-02-22,21,Tues,16:45:00,17:30:00,45.0,0,False,
+S801,,Sleep,2022-02-22,21,Tues,17:30:00,18:00:00,30.0,-1,False,
+ED145,,Eating/Drinking,2022-02-22,21,Tues,18:00:00,18:30:00,30.0,0,False,
+H179,,Housework,2022-02-22,21,Tues,18:30:00,18:45:00,15.0,-1,True,0.0
+CW982,,Coursework,2022-02-22,21,Tues,18:45:00,19:45:00,60.0,0,False,-1.0
+O733,,Other,2022-02-22,21,Tues,19:45:00,20:00:00,15.0,1,False,
+CW982,,Coursework,2022-02-22,21,Tues,20:00:00,21:00:00,60.0,0,True,1.0
+UD415,,Using Devices,2022-02-22,21,Tues,21:00:00,22:30:00,90.0,0,False,
+O733,,Other,2022-02-22,21,Tues,22:30:00,22:45:00,15.0,2,False,
+UD415,,Using Devices,2022-02-22,21,Tues,22:45:00,00:00:00,75.0,0,False,
+UD415,,Using Devices,2022-02-23,21,Wed,00:00:00,01:30:00,90.0,0,False,
+S801,,Sleep,2022-02-23,21,Wed,01:30:00,07:45:00,375.0,0,False,
+O733,,Other,2022-02-23,21,Wed,07:45:00,08:00:00,15.0,1,False,
+ED145,,Eating/Drinking,2022-02-23,21,Wed,08:00:00,08:15:00,15.0,0,False,
+T695,,Travelling,2022-02-23,21,Wed,08:15:00,09:15:00,60.0,-1,False,-1.0
+EL642,,Education/Lectures,2022-02-23,21,Wed,09:15:00,11:15:00,120.0,0,False,-1.0
+T695,,Travelling,2022-02-23,21,Wed,11:15:00,12:00:00,45.0,-1,False,-1.0
+ED145,,Eating/Drinking,2022-02-23,21,Wed,12:00:00,12:30:00,30.0,1,False,
+H179,,Housework,2022-02-23,21,Wed,12:30:00,12:45:00,15.0,-1,True,-1.0
+CW982,,Coursework,2022-02-23,21,Wed,12:45:00,14:00:00,75.0,-1,True,1.0
+EL642,,Education/Lectures,2022-02-23,21,Wed,14:00:00,15:30:00,90.0,0,True,1.0
+H179,,Housework,2022-02-23,21,Wed,15:30:00,16:15:00,45.0,-2,True,-1.0
+S801,,Sleep,2022-02-23,21,Wed,16:15:00,17:00:00,45.0,-1,False,
+ED145,,Eating/Drinking,2022-02-23,21,Wed,17:00:00,18:00:00,60.0,0,False,
+UD415,,Using Devices,2022-02-23,21,Wed,18:00:00,19:00:00,60.0,1,False,
+CW982,,Coursework,2022-02-23,21,Wed,19:00:00,20:00:00,60.0,0,False,-1.0
+H179,,Housework,2022-02-23,21,Wed,20:00:00,20:15:00,15.0,0,False,-1.0
+T695,,Travelling,2022-02-23,21,Wed,20:15:00,20:30:00,15.0,1,False,
+X893,,Exercise,2022-02-23,21,Wed,20:30:00,21:45:00,75.0,1,True,0.0
+T695,,Travelling,2022-02-23,21,Wed,21:45:00,22:00:00,15.0,-1,False,
+CW982,,Coursework,2022-02-23,21,Wed,22:00:00,22:45:00,45.0,-2,False,-2.0
+R523,,Reading,2022-02-23,21,Wed,22:45:00,23:15:00,30.0,-1,False,-1.0
+UD415,,Using Devices,2022-02-23,21,Wed,23:15:00,00:00:00,45.0,0,False,

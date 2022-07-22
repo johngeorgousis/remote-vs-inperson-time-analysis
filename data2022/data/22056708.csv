@@ -1,0 +1,36 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo.,DayofWeek,StartTime,EndTime,DurationMins,EnjoymentScore,ProductivityLevel,RoutineActivity
+ED145,SL000,Sleep,2022-02-16,7,20,23:00:00,08:00:00,540.0000000000001,2,Good,Yes
+H179,,Housework,2022-02-17,7,20,08:00:00,10:00:00,120.0,1,Somewhat Bad,Yes
+CW982,,Course work,2022-02-17,7,20,10:00:00,15:00:00,300.0,0,Good,Yes
+ED145,,Eating/Drinking,2022-02-17,7,20,15:00:00,16:00:00,60.0,1,Good,Yes
+O733,US111,Using Mobile,2022-02-17,7,20,16:00:00,18:00:00,120.0,1,Very Good,No
+O733,TS123,Travelling to shop,2022-02-17,7,20,18:00:00,20:00:00,120.0,-1,Somewhat Bad,No
+O733,,Eating/Drinking,2022-02-17,7,20,20:00:00,21:00:00,60.0,1,Good,Yes
+O733,,Education/Lectures,2022-02-17,7,20,21:00:00,23:30:00,150.0,0,Good,Yes
+O733,US111,Using Mobile,2022-02-17,7,20,23:30:00,00:30:00,60.0,2,Very Good,No
+S801,SL000,Sleep,2022-02-18,7,20,00:30:00,08:30:00,480.0,2,Very Good,Yes
+X893,E250,Exercise,2022-02-18,7,20,08:30:00,09:00:00,30.0,2,Very Good,No
+ED145,,Eating/Drinking,2022-02-18,7,20,09:00:00,10:00:00,60.0,1,Good,Yes
+R523,,Reading,2022-02-18,7,20,10:00:00,16:00:00,360.0,-1,Somewhat Bad,No
+L418,,Leisure,2022-02-18,7,20,16:00:00,18:00:00,120.0,2,Very Good,No
+ED145,,Eating/Drinking,2022-02-18,7,20,18:00:00,00:00:00,360.0,2,Good,Yes
+UD415,US115,Using Devices,2022-02-19,7,20,00:00:00,01:00:00,60.0,2,Good,No
+S801,SL000,Sleep,2022-02-19,7,20,01:00:00,09:00:00,480.0,2,Very Good,Yes
+H179,,Housework,2022-02-19,7,20,09:00:00,10:30:00,90.0,1,Somewhat Bad,Yes
+ED145,,Eating/Drinking,2022-02-19,7,20,10:30:00,11:00:00,30.0,2,Good,Yes
+R523,,Reading,2022-02-19,7,20,11:00:00,13:00:00,120.0,2,Good,No
+O733,US111,Using Mobile,2022-02-19,7,20,13:00:00,14:00:00,60.0,1,Good,No
+O733,WT520,Watching Television,2022-02-19,7,20,14:00:00,15:30:00,90.0,2,Very Good,No
+PW101,,Paid work,2022-02-19,7,20,15:30:00,00:30:00,540.0000000000001,2,Very Good,No
+T695,,Travelling,2022-02-20,7,20,00:30:00,01:00:00,30.0,2,Very Good,No
+S801,SL000,Sleep,2022-02-20,7,20,01:00:00,08:00:00,420.0,2,Good,Yes
+X893,E250,Exercise,2022-02-20,7,20,08:00:00,09:00:00,60.0,2,Very Good,No
+ED145,,Eating/Drinking,2022-02-20,7,20,09:00:00,09:30:00,30.0,2,Good,Yes
+T695,,Travelling,2022-02-20,7,20,09:30:00,15:00:00,330.0,2,Very Good,No
+ED145,,Eating/Drinking,2022-02-20,7,20,15:00:00,15:30:00,30.0,0,Good,Yes
+S801,,Sleep,2022-02-20,7,20,15:30:00,16:30:00,60.0,1,Good,Yes
+ED145,,Eating/Drinking,2022-02-20,7,20,16:30:00,16:40:00,10.0,0,Somewhat Bad,Yes
+CW982,,Course work,2022-02-20,7,20,16:40:00,19:10:00,150.0,-2,Very Bad,No
+H179,,Housework,2022-02-20,7,20,19:10:00,21:30:00,140.0,0,Somewhat Bad,Yes
+UD415,US115,Using Devices,2022-02-20,7,20,21:30:00,23:00:00,90.0,0,Good,No
+S801,SL000,Sleep,2022-02-20,7,20,23:00:00,08:00:00,540.0000000000001,1,Good,Yes

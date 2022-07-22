@@ -1,0 +1,24 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Multitasking,EfficiencyScore
+S801,,Sleep ,2022-02-19,3,Saturday,00:00,09:45,585,1,NO,4
+T695,,Take train to Birmingham,2022-02-19,3,Saturday,10:00,12:00,120,0,YES,3
+L418,,Hanging out with friend,2022-02-19,3,Saturday,12:15,13:30,75,1,YES,3
+ED145,,Eating/drinking ,2022-02-19,3,Saturday,13:30,14:30,59,1,YES,4
+L418,,Mini golf,2022-02-19,3,Saturday,15:00,18:00,180,2,NO,5
+ED145,,Eating/drinking ,2022-02-19,3,Saturday,18:15,20:15,120,0,YES,2
+L418,,Hanging out with friend,2022-02-19,3,Saturday,20:30,23:15,165,1,YES,3
+O733,,shower and changing,2022-02-19,3,Saturday,23:15,23:45,29,0,NO,5
+S801,,Sleep ,2022-02-20,3,Sunday,00:00,09:30,570,0,NO,2
+T695,,Train back home,2022-02-20,3,Sunday,09:45,12:30,164,-2,NO,3
+ED145,,Eating/drinking ,2022-02-20,3,Sunday,12:45,13:45,59,1,YES,3
+L418,,watching football,2022-02-20,3,Sunday,14:00,16:00,120,1,NO,4
+EL642,,Education/Lectures ,2022-02-20,3,Sunday,16:00,19:45,225,0,YES,2
+ED145,,Eating/drinking ,2022-02-20,3,Sunday,20:00,20:45,45,0,YES,3
+O733,,chatting on phone,2022-02-20,3,Sunday,21:00,22:15,74,1,NO,3
+CW982,,Coursework ,2022-02-20,3,Sunday,22:30,23:45,74,0,YES,2
+S801,,Sleep ,2022-02-21,4,Monday,00:00,09:30,570,1,NO,4
+X893,,Exercise ,2022-02-21,4,Monday,10:00,11:45,105,1,NO,4
+EL642,,Education/Lectures ,2022-02-21,4,Monday,12:00,15:00,180,0,YES,3
+S801,,Sleep ,2022-02-21,4,Monday,15:15,18:00,165,1,NO,4
+ED145,,Eating/drinking ,2022-02-21,4,Monday,18:15,19:30,75,1,YES,3
+CW982,,Coursework ,2022-02-21,4,Monday,20:00,22:00,120,0,NO,4
+L418,,video games,2022-02-21,4,Monday,22:00,23:50,109,1,NO,5

@@ -1,0 +1,29 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,DayOfWeek,UniBathWeekNo,StartTime,EndTime,DurationMins,Level enjoyment,Level of stress,How many glass of water you drink
+R523,,Read Machine Learning,16/02/2022,Wednesday,20,01:00:00,03:00:00,120.00000000000001,-1,3,more than 3
+S801,,Sleep,16/02/2022,Wednesday,20,03:00:00,09:30:00,390,2,0,not drink
+EL642,ED145,Research preparation and having brunch,16/02/2022,Wednesday,20,09:30:00,10:30:00,60.00000000000003,-1,3,more than 3
+S801,,Take a nap,16/02/2022,Wednesday,20,10:30:00,12:00:00,90,2,0,not drink
+X893,UD415,Doing gym and listening music,16/02/2022,Wednesday,20,12:00:00,15:00:00,180,1,1,more than 3
+R523,UD415,Read Machine Learning and using computer for search,16/02/2022,Wednesday,20,16:00:00,19:00:00,180,-2,4,more than 3
+UD415,,Watch Netflix,16/02/2022,Wednesday,20,20:00:00,22:00:00,119.99999999999989,2,0,1
+CW982,UD415,Doing coursework and using computer,16/02/2022,Wednesday,20,22:30:00,23:50:00,79.99999999999987,-2,4,more than 3
+UD415,L418,Using Ipad,17/02/2022,Thursday,20,00:30:00,01:30:00,60.00000000000001,2,0,1
+R523,UD415,Read Reinforcement Learning and Using Computer,17/02/2022,Thursday,20,01:45:00,03:15:00,89.99999999999999,-2,4,more than 3
+S801,,Sleep,17/02/2022,Thursday,20,03:30:00,10:15:00,405,2,0,not drink
+EL642,UD415,Having online class and using computer,17/02/2022,Thursday,20,10:15:00,11:05:00,50.000000000000064,-2,4,more than 3
+ED145,UD415,Having brunch and watch netflix,17/02/2022,Thursday,20,11:30:00,12:15:00,44.99999999999992,2,0,2
+CW982,UD415,Doing coursework and using computer,17/02/2022,Thursday,20,12:30:00,15:30:00,180,-2,4,more than 3
+S801,,Take a nap,17/02/2022,Thursday,20,16:00:00,17:00:00,60.00000000000011,2,0,not drink
+X893,UD415,Doing gym and listening music,17/02/2022,Thursday,20,17:30:00,18:15:00,45,2,0,3
+ED145,,Having dinner,17/02/2022,Thursday,20,19:00:00,19:30:00,30.000000000000053,2,0,2
+L418,,Birthday party,17/02/2022,Thursday,20,20:00:00,23:59:00,238.99999999999994,2,0,more than 3
+L418,,Birthday party,18/02/2022,Friday,20,00:00:00,03:00:00,180,2,0,more than 3
+S801,,Sleep,18/02/2022,Friday,20,04:00:00,10:00:00,360,2,0,not drink
+EL642,UD415,Having Class and using computer,18/02/2022,Friday,20,10:15:00,11:05:00,50.000000000000064,-2,4,3
+ED145,UD415,Having brunch and watch netflix,18/02/2022,Friday,20,11:30:00,12:15:00,44.99999999999992,2,0,3
+CW982,UD415,Doing coursework and using computer,18/02/2022,Friday,20,13:00:00,15:30:00,150.0000000000001,-2,4,more than 3
+R523,,Reading Machine Learning,18/02/2022,Friday,20,16:00:00,18:00:00,120.00000000000006,-2,4,more than 3
+S801,,Take a nap,18/02/2022,Friday,20,18:30:00,20:30:00,119.99999999999989,2,0,not drink
+ED145,,Having dinner,18/02/2022,Friday,20,20:45:00,21:15:00,29.999999999999893,2,0,2
+H179,UD415,Clean the room and listen the music,18/02/2022,Friday,20,21:30:00,22:00:00,29.999999999999893,-1,3,2
+CW982,UD415,Doing coursework and using computer,18/02/2022,Friday,20,22:00:00,23:30:00,90,-2,4,more than 3

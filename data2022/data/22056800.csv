@@ -1,0 +1,48 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,HomeOrOutside,Interaction
+S801,,,2022-02-22,21.0,Tuesday,00:00:00,08:00:00,480.0,2,Home,No
+L418,,Morning routine,2022-02-22,21.0,Tuesday,08:00:00,09:00:00,60.0,-1,Home,No
+ED145,UD415,Listening to music while eating,2022-02-22,21.0,Tuesday,09:00:00,09:30:00,30.0,2,Home,No
+O733,UD415,Getting groomed,2022-02-22,21.0,Tuesday,09:30:00,10:15:00,45.0,1,Home,No
+R523,,Watching news,2022-02-22,21.0,Tuesday,10:15:00,11:00:00,45.0,0,Home,No
+T695,UD415,Bus to Uni,2022-02-22,21.0,Tuesday,11:00:00,11:15:00,15.0,0,Outside,Yes
+EL642,,Lecture,2022-02-22,21.0,Tuesday,11:15:00,12:00:00,45.0,-1,Outside,Yes
+ED145,L418,Eating lunch,2022-02-22,21.0,Tuesday,12:00:00,13:15:00,75.0,2,Outside,Yes
+EL642,,Lecture,2022-02-22,21.0,Tuesday,13:15:00,14:00:00,45.0,-1,Outside,Yes
+T695,,Walking back home,2022-02-22,21.0,Tuesday,14:00:00,14:30:00,30.0,2,Outside,Yes
+CW982,,,2022-02-22,21.0,Tuesday,14:30:00,16:00:00,90.0,0,Home,Yes
+X893,,,2022-02-22,21.0,Tuesday,16:00:00,17:00:00,60.0,1,Outside,No
+L418,,Chilling,2022-02-22,21.0,Tuesday,17:00:00,19:00:00,120.0,1,Home,Yes
+H179,UD415,Cooking dinner,2022-02-22,21.0,Tuesday,19:00:00,20:00:00,60.0,1,Home,No
+L418,,Chilling,2022-02-22,21.0,Tuesday,21:00:00,21:30:00,30.0,1,Home,Yes
+ED145,,Eating dinner,2022-02-22,21.0,Tuesday,21:30:00,22:00:00,30.0,2,Home,No
+L418,UD415,Playing the guitar,2022-02-22,21.0,Tuesday,22:00:00,00:00:00,120.0,2,Home,Yes
+S801,,,2022-02-23,21.0,Wednesday,00:00:00,08:00:00,480.0,2,Home,No
+L418,,Morning routine,2022-02-23,21.0,Wednesday,08:00:00,09:00:00,60.0,-1,Home,No
+ED145,UD415,Listening to music while eating,2022-02-23,21.0,Wednesday,09:00:00,09:30:00,30.0,2,Home,No
+O733,UD415,Getting groomed,2022-02-23,21.0,Wednesday,09:30:00,10:15:00,45.0,1,Home,No
+R523,,Watching news,2022-02-23,21.0,Wednesday,10:15:00,11:00:00,45.0,0,Home,No
+T695,UD415,Bus to Uni,2022-02-23,21.0,Wednesday,11:00:00,11:15:00,15.0,0,Outside,Yes
+EL642,,Lecture,2022-02-23,21.0,Wednesday,11:15:00,12:00:00,45.0,-1,Outside,Yes
+ED145,UD415,Eating lunch,2022-02-23,21.0,Wednesday,12:00:00,13:15:00,75.0,2,Outside,Yes
+EL642,,Lecture,2022-02-23,21.0,Wednesday,13:15:00,14:00:00,45.0,-1,Outside,Yes
+PW101,,Part-time job,2022-02-23,21.0,Wednesday,14:00:00,21:00:00,420.0,1,Outside,Yes
+L418,,Chilling,2022-02-23,21.0,Wednesday,21:00:00,21:30:00,30.0,1,Home,Yes
+ED145,,Eating dinner,2022-02-23,21.0,Wednesday,21:30:00,22:00:00,30.0,2,Home,No
+L418,UD415,Playing the guitar,2022-02-23,21.0,Wednesday,22:00:00,00:00:00,120.0,2,Home,Yes
+S801,,,2022-02-24,21.0,Thursday,00:00:00,08:00:00,480.0,2,Home,No
+L418,,Morning routine,2022-02-24,21.0,Thursday,08:00:00,09:00:00,60.0,-1,Home,No
+ED145,UD415,Listening to music while eating,2022-02-24,21.0,Thursday,09:00:00,09:30:00,30.0,2,Home,No
+O733,UD415,Getting groomed,2022-02-24,21.0,Thursday,09:30:00,10:15:00,45.0,1,Home,No
+R523,,Watching news,2022-02-24,21.0,Thursday,10:15:00,11:00:00,45.0,0,Home,Yes
+T695,UD415,Bus to Uni,2022-02-24,21.0,Thursday,11:00:00,11:15:00,15.0,0,Outside,Yes
+EL642,,Lecture,2022-02-24,21.0,Thursday,11:15:00,12:00:00,45.0,-1,Outside,Yes
+ED145,L418,Eating lunch,2022-02-24,21.0,Thursday,12:00:00,13:15:00,75.0,2,Outside,Yes
+EL642,,Lecture,2022-02-24,21.0,Thursday,13:15:00,14:00:00,45.0,-1,Outside,Yes
+T695,,Walking back home,2022-02-24,21.0,Thursday,14:00:00,14:30:00,30.0,2,Outside,Yes
+CW982,,,2022-02-24,21.0,Thursday,14:30:00,16:00:00,90.0,0,Home,Yes
+X893,,,2022-02-24,21.0,Thursday,16:00:00,17:00:00,60.0,1,Outside,No
+L418,,Chilling,2022-02-24,21.0,Thursday,17:00:00,19:00:00,120.0,2,Home,Yes
+H179,,Cooking dinner,2022-02-24,21.0,Thursday,19:00:00,20:00:00,60.0,1,Home,No
+L418,,Chilling,2022-02-24,21.0,Thursday,21:00:00,21:30:00,30.0,2,Home,Yes
+ED145,,Eating dinner,2022-02-24,21.0,Thursday,21:30:00,22:00:00,30.0,2,Home,No
+UD415,,Watching Rick and Morty,2022-02-24,21.0,Thursday,22:00:00,00:00:00,120.0,2,Home,Yes

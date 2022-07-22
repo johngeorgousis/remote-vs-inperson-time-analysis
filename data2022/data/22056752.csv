@@ -1,0 +1,41 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressScore,FocusScore
+S801,,,22/02/2022,21,Tuesday,00:00:00,07:30:00,450,2,0,
+ED145,,Breakfast and morning routine,22/02/2022,21,Tuesday,07:30:00,08:30:00,60,1,1,2
+T695,,Travel to Uni,22/02/2022,21,Tuesday,08:30:00,09:15:00,44,0,1,1
+EL642,,Entrepreneurship Drop-in session,22/02/2022,21,Tuesday,09:15:00,10:00:00,45,0,0,2
+CW982,,ADS Lab3,22/02/2022,21,Tuesday,10:00:00,13:00:00,180,1,1,3
+EL642,,ML2 Lecture,22/02/2022,21,Tuesday,13:00:00,14:00:00,60,1,0,3
+EL642,,ML2 Week 2 Revision,22/02/2022,21,Tuesday,14:00:00,17:00:00,180,1,1,3
+EL642,,RL Revision,22/02/2022,21,Tuesday,17:00:00,18:00:00,60,1,2,2
+T695,,Travel to city and walk back home,22/02/2022,21,Tuesday,18:00:00,19:00:00,59,1,0,1
+UD415,Leisure (Code: L418),Talk to fam and chill,22/02/2022,21,Tuesday,19:00:00,20:00:00,60,2,0,2
+ED145,,Make Dinner,22/02/2022,21,Tuesday,20:00:00,21:30:00,90,2,0,2
+EL642,,Online Course 1,22/02/2022,21,Tuesday,21:30:00,22:30:00,60,2,1,3
+EL642,,Online Course 2,22/02/2022,21,Tuesday,22:30:00,23:30:00,60,2,1,3
+O733,,Read about finances and nightime routine,22/02/2022,21,Tuesday,23:30:00,00:00:00,30,1,0,2
+S801,,,23/02/2022,21,Wednesday,00:00:00,07:30:00,450,2,0,
+ED145,,Breakfast and morning routine,23/02/2022,21,Wednesday,07:30:00,08:30:00,60,1,1,2
+T695,,,23/02/2022,21,Wednesday,08:30:00,09:15:00,44,1,0,1
+EL642,Coursework (Code: CW982),ADS Lab3,23/02/2022,21,Wednesday,09:15:00,23:00:00,825,1,2,3
+EL642,,ML2 Week 2 Revision,23/02/2022,21,Wednesday,14:00:00,15:00:00,60,1,1,3
+EL642,,Read Computer Vision Book,23/02/2022,21,Wednesday,15:00:00,16:00:00,60,1,1,3
+EL642,,RL Lab,23/02/2022,21,Wednesday,16:00:00,18:00:00,120,1,2,2
+T695,,Back Home,23/02/2022,21,Wednesday,18:00:00,18:45:00,44,1,0,1
+UD415,Leisure (Code: L418),Talk to fam and chill,23/02/2022,21,Wednesday,18:45:00,20:00:00,75,2,0,1
+ED145,,Make Dinner,23/02/2022,21,Wednesday,20:00:00,21:30:00,90,2,0,2
+EL642,,Online Course 1,23/02/2022,21,Wednesday,21:30:00,22:30:00,60,2,1,3
+EL642,,Online Course 2,23/02/2022,21,Wednesday,22:30:00,23:30:00,60,2,1,3
+O733,,Read about finances and nightime routine,23/02/2022,21,Wednesday,23:30:00,00:00:00,30,1,0,2
+S801,,,24/02/2022,21,Thursday,00:00:00,07:30:00,450,2,0,
+ED145,,Breakfast and morning routine,24/02/2022,21,Thursday,07:30:00,08:30:00,60,1,1,2
+UD415,Leisure (Code: L418),,24/02/2022,21,Thursday,08:30:00,09:15:00,44,2,0,0
+EL642,,ML Revision,24/02/2022,21,Thursday,09:15:00,14:00:00,285,1,0,3
+CW982,,ADS Lab3,24/02/2022,21,Thursday,14:00:00,16:00:00,120,1,1,3
+EL642,,RL Revision,24/02/2022,21,Thursday,16:00:00,18:00:00,120,1,1,3
+X893,,Full Body Workout,24/02/2022,21,Thursday,18:00:00,18:45:00,44,2,2,3
+O733,,Shower,24/02/2022,21,Thursday,18:45:00,19:00:00,15,2,0,0
+UD415,Leisure (Code: L418),Talk to fam and chill,24/02/2022,21,Thursday,19:00:00,20:00:00,60,2,0,1
+ED145,,Make Dinner,24/02/2022,21,Thursday,20:00:00,21:30:00,90,2,0,2
+EL642,,Online Course 1,24/02/2022,21,Thursday,21:30:00,22:30:00,60,2,1,3
+EL642,,Online Course 2,24/02/2022,21,Thursday,22:30:00,23:30:00,60,2,1,3
+O733,,Read about finances and nightime routine,24/02/2022,21,Thursday,23:30:00,00:00:00,30,1,0,2

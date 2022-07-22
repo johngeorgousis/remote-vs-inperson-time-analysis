@@ -1,0 +1,43 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayofWeek,StartTime,EndTime,DurationMins,EnjoymentScore,LocationofActivity,Accompaniment
+0,S801,,Sleep,2022-02-19,21,Saturday,00:00:00,08:45:00,525,2,Home,0
+1,O733,,Brushing my teeth,2022-02-19,21,Saturday,08:45:00,09:00:00,15,1,Home,0
+2,ED145,UD415,Eating breakfast while watching youtube ,2022-02-19,21,Saturday,09:00:00,09:15:00,15,2,Home,0
+3,T695,,Walk to Gym,2022-02-19,21,Saturday,09:15:00,09:30:00,15,0,Gym,0
+4,X893,,Exercising,2022-02-19,21,Saturday,09:30:00,11:15:00,105,0,Gym,0
+5,T695,,Walking back home,2022-02-19,21,Saturday,11:15:00,11:30:00,15,0,Home,0
+6,ED145,UD415,Eating lunch while watching youtube ,2022-02-19,21,Saturday,11:30:00,12:30:00,60,2,Home,0
+7,O733,UD415,Job hunting,2022-02-19,21,Saturday,12:30:00,15:30:00,180,-1,Home,0
+8,UD415,,Social Media,2022-02-19,21,Saturday,15:30:00,16:00:00,30,2,Home,0
+9,O733,UD415,Job hunting,2022-02-19,21,Saturday,16:00:00,19:00:00,180,-1,Home,0
+10,O733,,Shower,2022-02-19,21,Saturday,19:00:00,19:30:00,30,2,Home,0
+11,ED145,,Making and eating dinner ,2022-02-19,21,Saturday,19:30:00,21:00:00,90,0,Home,0
+12,UD415,,Video calling friends,2022-02-19,21,Saturday,21:00:00,23:30:00,150,2,Home,1
+13,S801,,Sleep,2022-02-19,21,Saturday,23:30:00,23:45:00,15,2,Home,0
+14,S801,,Sleep,2022-02-20,21,Sunday,00:00:00,08:45:00,525,2,Home,0
+15,O733,,Brushing my teeth,2022-02-20,21,Sunday,08:45:00,09:00:00,15,1,Home,0
+16,ED145,UD415,Eating breakfast while watching youtube ,2022-02-20,21,Sunday,09:00:00,09:15:00,15,2,Home,0
+17,T695,,Walk to Gym,2022-02-20,21,Sunday,09:15:00,09:30:00,15,0,Gym,0
+18,X893,,Exercising,2022-02-20,21,Sunday,09:30:00,11:15:00,105,0,Gym,0
+19,T695,,Walking back home,2022-02-20,21,Sunday,11:15:00,11:30:00,15,0,Home,0
+20,ED145,UD415,Eating lunch while watching youtube ,2022-02-20,21,Sunday,11:30:00,12:30:00,60,2,Home,0
+21,O733,UD415,Job hunting,2022-02-20,21,Sunday,12:30:00,15:30:00,180,-1,Home,0
+22,UD415,,Social Media,2022-02-20,21,Sunday,15:30:00,16:00:00,30,2,Home,0
+23,O733,UD415,Job hunting,2022-02-20,21,Sunday,16:00:00,19:00:00,180,-1,Home,0
+24,O733,,Shower,2022-02-20,21,Sunday,19:00:00,19:30:00,30,2,Home,0
+25,ED145,,Making and eating dinner ,2022-02-20,21,Sunday,19:30:00,21:00:00,90,0,Home,0
+26,UD415,,Video calling friends,2022-02-20,21,Sunday,21:00:00,23:30:00,150,2,Home,1
+27,S801,,Sleep,2022-02-20,21,Sunday,23:30:00,23:45:00,15,2,Home,0
+28,S801,,Sleep,2022-02-21,21,Monday,00:00:00,10:00:00,600,2,Home,0
+29,O733,,Brushing my teeth,2022-02-21,21,Monday,10:15:00,10:30:00,15,1,Home,0
+30,ED145,UD415,Eating breakfast while watching youtube ,2022-02-21,21,Monday,10:30:00,12:15:00,105,2,Home,0
+31,EL642,UD415,Statistical Modelling,2022-02-21,21,Monday,12:15:00,13:15:00,60,0,Home,0
+32,CW982,UD415,Applied Data Science,2022-02-21,21,Monday,13:15:00,14:45:00,90,0,Home,0
+33,T695,,Bristol to do paperwork,2022-02-21,21,Monday,14:45:00,17:45:00,180,0,Job Centre,0
+34,UD415,,Social Media,2022-02-21,21,Monday,17:45:00,18:00:00,15,2,Home,0
+35,O733,UD415,Job hunting,2022-02-21,21,Monday,18:00:00,19:30:00,90,-1,Home,0
+36,O733,,Shower,2022-02-21,21,Monday,19:30:00,20:00:00,30,2,Home,0
+37,ED145,UD415,Eating dinner while watching youtube,2022-02-21,21,Monday,20:00:00,21:00:00,60,-1,Home,0
+38,O733,UD415,Job Hunting,2022-02-21,21,Monday,21:00:00,22:00:00,60,2,Home,0
+39,UD415,,Calling my father,2022-02-21,21,Monday,22:00:00,22:30:00,30,0,Home,1
+40,R523,,Reading papers,2022-02-21,21,Monday,22:30:00,23:00:00,30,2,Home,0
+41,S801,,Sleep,2022-02-21,21,Monday,23:00:00,23:45:00,45,2,Home,0

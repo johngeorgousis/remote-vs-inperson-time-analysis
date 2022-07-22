@@ -1,0 +1,43 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressLevel,EmotionalState
+S801,,Sleeping,2022-02-15,20,Tuesday,00:30:00,09:00:00,510,2,1,1
+O733,,Freshen Up,2022-02-15,20,Tuesday,09:00:00,09:30:00,30,0,1,
+ED145,BR140,Had Breakfast,2022-02-15,20,Tuesday,09:30:00,10:15:00,45,2,1,1
+T695,,Travelling to University,2022-02-15,20,Tuesday,10:15:00,11:00:00,45,0,1,
+L418,PH100,Browsing for jobs,2022-02-15,20,Tuesday,11:00:00,11:15:00,15,-1,3,3
+EL642,,Bayesian ML Lecture,2022-02-15,20,Tuesday,11:15:00,12:15:00,60,-1,3,4
+L418,,Played pool,2022-02-15,20,Tuesday,12:15:00,13:15:00,60,-2,2,1
+ED145,LU120,Had Lunch,2022-02-15,20,Tuesday,13:15:00,14:15:00,60,1,1,1
+EL642,,RL Lab,2022-02-15,20,Tuesday,14:15:00,16:15:00,120,-2,3,5
+UD415,PH100,Browsing for jobs,2022-02-15,20,Tuesday,16:15:00,17:00:00,45,-1,3,3
+PW101,,Part time work,2022-02-15,20,Tuesday,17:00:00,20:30:00,210,-2,4,6
+T695,,Travelling to home,2022-02-15,20,Tuesday,20:30:00,21:15:00,45,0,4,
+ED145,DI200,Had dinner,2022-02-15,20,Tuesday,21:15:00,22:15:00,60,2,1,1
+CW982,,ADS Coursework,2022-02-15,20,Tuesday,22:15:00,00:00:00,105,-2,3,5
+S801,,Sleeping,2022-02-17,20,Thursday,00:30:00,09:00:00,510,2,1,1
+O733,,Freshen Up,2022-02-17,20,Thursday,09:00:00,09:30:00,30,0,1,
+ED145,BR140,Had Breakfast,2022-02-17,20,Thursday,09:30:00,10:30:00,60,2,1,1
+X893,WK160,Walking,2022-02-17,20,Thursday,10:30:00,11:15:00,45,2,2,1
+T695,,Travelling to University,2022-02-17,20,Thursday,11:15:00,12:00:00,45,0,1,
+PW101,,Part time work,2022-02-17,20,Thursday,12:00:00,15:00:00,180,1,3,1
+L418,,Played pool,2022-02-17,20,Thursday,15:00:00,17:00:00,120,-2,2,1
+PW101,,Part time work,2022-02-17,20,Thursday,17:00:00,20:30:00,210,-2,4,5
+T695,,Travelling to home,2022-02-17,20,Thursday,20:30:00,21:15:00,45,0,4,
+ED145,DI200,Had dinner,2022-02-17,20,Thursday,21:15:00,22:15:00,60,2,1,1
+CW982,,ADS Coursework,2022-02-17,20,Thursday,22:15:00,00:00:00,105,-2,3,6
+S801,,Sleeping,2022-02-21,21,Monday,00:00:00,06:00:00,360,2,1,1
+O733,,Freshen Up,2022-02-21,21,Monday,06:00:00,06:30:00,30,0,1,
+UD415,LP200,Browsing for jobs,2022-02-21,21,Monday,06:30:00,07:00:00,30,-1,3,3
+EL642,,RL lecture online,2022-02-21,21,Monday,07:00:00,09:00:00,120,1,2,4
+ED145,BR140,Had Breakfast,2022-02-21,21,Monday,09:00:00,10:00:00,60,2,1,
+CW982,,ADS Coursework,2022-02-21,21,Monday,10:00:00,12:30:00,150,-2,3,5
+T695,,Travelling to University,2022-02-21,21,Monday,12:30:00,13:15:00,45,0,1,
+EL642,,ML2 Lecture,2022-02-21,21,Monday,13:15:00,14:15:00,60,-1,3,4
+T695,,Travelling to home,2022-02-21,21,Monday,14:15:00,15:15:00,60,0,1,
+ED145,LU120,Had Lunch,2022-02-21,21,Monday,15:15:00,16:30:00,75,2,1,1
+T695,,Travelling to play TT,2022-02-21,21,Monday,16:30:00,17:00:00,30,0,1,
+L418,,Played TT,2022-02-21,21,Monday,17:00:00,19:00:00,120,2,2,1
+T695,,Travelling to home,2022-02-21,21,Monday,19:00:00,19:30:00,30,0,1,
+L418,,Taking rest,2022-02-21,21,Monday,19:30:00,20:30:00,60,0,1,1
+ED145,DI200,Had dinner,2022-02-21,21,Monday,20:30:00,21:30:00,60,2,1,1
+UD415,PH100,Using Instagram,2022-02-21,21,Monday,21:30:00,22:30:00,60,1,2,
+CW982,,ADS Coursework,2022-02-21,21,Monday,22:30:00,23:30:00,60,-2,3,5

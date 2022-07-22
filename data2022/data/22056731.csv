@@ -1,0 +1,58 @@
+primary_activity_code,secondary_activity_code,descriptive_label,start_date,uni_bath_week_no,day_of_week,start_time,end_time,duration_mins,enjoyment_score,activity_type,weather
+O733,,Getting dressed,10/02/2022,19,Thursday,09:15:00,09:30:00,15,1,individual,sunny 
+ED145,,Breakfast,10/02/2022,19,Thursday,09:35:00,10:00:00,25,2,individual,sunny 
+UD415,L418,Playing one the phone,10/02/2022,19,Thursday,10:05:00,11:30:00,85,2,individual,sunny 
+H179,,Cooking,10/02/2022,19,Thursday,11:30:00,12:00:00,30,-1,individual,sunny 
+ED145,,Lunch,10/02/2022,19,Thursday,12:00:00,12:30:00,30,2,individual,sunny 
+CW982,,Doing coursework,10/02/2022,19,Thursday,12:40:00,15:40:00,180,1,individual,sunny 
+T695,,Travelling to shop,10/02/2022,19,Thursday,15:40:00,17:40:00,120,2,group ,sunny 
+H179,,Cooking,10/02/2022,19,Thursday,17:50:00,18:20:00,30,0,individual,sunny 
+ED145,,Dinner,10/02/2022,19,Thursday,18:20:00,19:00:00,40,1,individual,sunny 
+UD415,L418,Watching movies,10/02/2022,19,Thursday,19:00:00,21:00:00,120,2,individual,sunny 
+T695,,Taking a shower,10/02/2022,19,Thursday,21:00:00,21:40:00,40,0,individual,sunny 
+UD415,L418,Watching movies,10/02/2022,19,Thursday,21:40:00,23:30:00,110,2,individual,sunny 
+S801,,Sleeping,10/02/2022,19,Thursday,23:30:00,23:59:00,29,1,individual,sunny 
+S801,,Sleeping,11/02/2022,19,Friday,00:00:00,08:00:00,480,1,individual,sunny 
+O733,,Getting dressed,11/02/2022,19,Friday,08:00:00,08:30:00,30,0,individual,sunny 
+ED145,,Breakfast,11/02/2022,19,Friday,08:30:00,09:00:00,30,1,individual,sunny 
+T695,,Travelling to campus,11/02/2022,19,Friday,09:00:00,10:00:00,60,0,individual,sunny 
+EL642,,Lectures,11/02/2022,19,Friday,10:00:00,13:00:00,180,1,group ,sunny 
+T695,,Travelling to home,11/02/2022,19,Friday,13:05:00,13:40:00,35,0,group ,sunny 
+ED145,,Lunch,11/02/2022,19,Friday,13:40:00,14:10:00,30,2,individual,sunny 
+EL642,,Lectures,11/02/2022,19,Friday,14:15:00,15:00:00,45,1,group ,sunny 
+UD415,L418,Browsing web on laptop,11/02/2022,19,Friday,15:00:00,16:15:00,75,1,individual,sunny 
+EL642,,Lectures,11/02/2022,19,Friday,16:15:00,17:15:00,60,1,group ,sunny 
+H179,,Cooking,11/02/2022,19,Friday,17:15:00,18:00:00,45,-1,group ,sunny 
+ED145,,Dinner,11/02/2022,19,Friday,18:00:00,20:00:00,120,2,group ,sunny 
+UD415,,Playing video games,11/02/2022,19,Friday,20:00:00,21:00:00,60,2,individual,sunny 
+UD415,,Watching movies,11/02/2022,19,Friday,21:00:00,23:59:00,179,2,individual,sunny 
+S801,,Sleeping,12/02/2022,19,Saturday,00:00:00,09:00:00,540,2,individual,cloudy
+O733,,Getting dressed,12/02/2022,19,Saturday,09:00:00,09:15:00,15,1,individual,cloudy
+ED145,,Breakfast,12/02/2022,19,Saturday,09:15:00,09:45:00,30,2,individual,cloudy
+UD415,L418,Playing on the phone,12/02/2022,19,Saturday,09:45:00,12:00:00,135,2,individual,cloudy
+T695,,Travelling to restaurant,12/02/2022,19,Saturday,12:00:00,12:30:00,30,-1,group ,cloudy
+ED145,,Lunch,12/02/2022,19,Saturday,12:30:00,13:30:00,60,2,group ,cloudy
+L418,,Shopping,12/02/2022,19,Saturday,13:30:00,15:30:00,120,2,group ,cloudy
+T695,,Travelling to home,12/02/2022,19,Saturday,15:30:00,16:00:00,30,-1,individual,cloudy
+X893,,Yoga,12/02/2022,19,Saturday,16:00:00,17:00:00,60,1,individual,cloudy
+UD415,,Playing video games,12/02/2022,19,Saturday,17:00:00,18:00:00,60,2,individual,cloudy
+H179,,Cooking,12/02/2022,19,Saturday,18:00:00,18:30:00,30,0,individual,cloudy
+ED145,,Dinner,12/02/2022,19,Saturday,18:30:00,19:00:00,30,1,individual,cloudy
+H179,,Clean the room,12/02/2022,19,Saturday,19:00:00,20:00:00,60,-1,individual,cloudy
+T695,,Taking a shower,12/02/2022,19,Saturday,20:00:00,21:00:00,60,1,individual,cloudy
+UD415,,Watching movies,12/02/2022,19,Saturday,21:00:00,23:59:00,179,2,individual,cloudy
+S801,,Sleeping,14/02/2022,20,Monday,01:00:00,09:00:00,480,2,individual,cloudy
+O733,,Getting dressed,14/02/2022,20,Monday,09:00:00,09:15:00,15,0,individual,cloudy
+ED145,,Breakfast,14/02/2022,20,Monday,09:15:00,09:45:00,30,2,individual,cloudy
+T695,,Travelling to campus,14/02/2022,20,Monday,09:45:00,10:15:00,30,0,individual,cloudy
+EL642,,Labs,14/02/2022,20,Monday,10:15:00,12:05:00,110,1,group ,cloudy
+ED145,,Lunch,14/02/2022,20,Monday,12:10:00,13:00:00,50,2,group ,cloudy
+EL642,,Lectures,14/02/2022,20,Monday,13:10:00,14:05:00,55,1,group ,cloudy
+T695,,Travelling to home,14/02/2022,20,Monday,14:05:00,14:45:00,40,0,individual,cloudy
+CW982,,Doing coursework,14/02/2022,20,Monday,14:45:00,16:45:00,120,-1,individual,cloudy
+S801,,Sleeping,14/02/2022,20,Monday,16:45:00,17:45:00,60,2,individual,cloudy
+ED145,,Dinner,14/02/2022,20,Monday,17:45:00,18:15:00,30,1,individual,cloudy
+UD415,,Browsing web on laptop,14/02/2022,20,Monday,18:15:00,20:15:00,120,0,individual,cloudy
+O733,,Taking a shower,14/02/2022,20,Monday,20:15:00,21:15:00,60,0,individual,cloudy
+UD415,L418,Playing on the phone,14/02/2022,20,Monday,21:15:00,23:15:00,120,1,individual,cloudy
+S801,,Sleeping,14/02/2022,20,Monday,23:15:00,23:59:00,44,2,individual,cloudy

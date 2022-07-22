@@ -1,0 +1,46 @@
+StartDate,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,UniBathWeekNo,DayOfWeek,StartTime,EndTime,EnjoymentScore,TirednessLevel,SocialMediaScore
+17/02/2022,S801,,,19,Thursday,00:00:00,07:00:00,2,0,0
+17/02/2022,O733,,Freshen up,19,Thursday,07:00:00,07:30:00,0,0,1
+17/02/2022,ED145,C777,Having Breakfast,19,Thursday,07:30:00,08:00:00,2,0,1
+17/02/2022,T695,M143,Tavelling to Uni,19,Thursday,08:00:00,08:30:00,1,0,1
+17/02/2022,L418,W842,,19,Thursday,08:30:00,09:00:00,1,0,0
+17/02/2022,EL642,,Daily lectures,19,Thursday,09:00:00,11:00:00,0,1,0
+17/02/2022,UD415,C456,Coding,19,Thursday,11:00:00,12:30:00,1,0,1
+17/02/2022,T695,C777,Travelling back home,19,Thursday,12:30:00,13:00:00,1,0,1
+17/02/2022,ED145,,Lunch,19,Thursday,13:00:00,14:00:00,1,0,0
+17/02/2022,L418,M143,Chitchatting and talking,19,Thursday,14:00:00,16:15:00,2,0,1
+17/02/2022,O733,W842,Going to partime,19,Thursday,16:15:00,17:00:00,0,1,0
+17/02/2022,PW101,,Partime jobs,19,Thursday,17:00:00,22:00:00,-1,2,0
+17/02/2022,O733,W842,Coming back from partime,19,Thursday,22:00:00,22:30:00,0,2,0
+17/02/2022,H179,C777,Preparing food for next day,19,Thursday,22:30:00,23:30:00,-1,1,0
+17/02/2022,O733,,Freshen up,19,Thursday,23:30:00,23:45:00,1,0,0
+17/02/2022,L418,M143,Rest,19,Thursday,23:45:00,23:59:00,2,0,1
+18/02/2022,S801,,,20,Friday,00:00:00,07:00:00,2,0,0
+18/02/2022,O733,,Freshen up,20,Friday,07:00:00,07:30:00,0,0,1
+18/02/2022,ED145,C777,Having Breakfast,20,Friday,07:30:00,08:00:00,2,0,1
+18/02/2022,T695,M143,Tavelling to Uni,20,Friday,08:00:00,08:30:00,1,0,1
+18/02/2022,L418,W842,,20,Friday,08:30:00,09:00:00,1,0,0
+18/02/2022,EL642,,Daily lectures,20,Friday,09:00:00,11:00:00,0,1,0
+18/02/2022,CW982,C456,Labs and Coursework,20,Friday,11:00:00,14:00:00,1,1,1
+18/02/2022,T695,C777,Travelling back home,20,Friday,14:00:00,14:30:00,1,0,1
+18/02/2022,ED145,,Lunch,20,Friday,14:30:00,15:30:00,1,0,0
+18/02/2022,L418,M143,"Chitchatting, talking, Youtube",20,Friday,15:30:00,18:00:00,2,0,1
+18/02/2022,R523,M143,Reading lecture notes,20,Friday,18:00:00,20:00:00,0,1,1
+18/02/2022,R523,,Reading novels,20,Friday,20:00:00,21:00:00,1,0,0
+18/02/2022,L418,M143,Netflix,20,Friday,21:00:00,21:30:00,2,0,1
+18/02/2022,H179,C777,Preparing food for next day,20,Friday,21:30:00,22:30:00,-1,1,0
+18/02/2022,O733,C456,Coding,20,Friday,22:30:00,23:30:00,1,0,1
+18/02/2022,O733,,Freshen up,20,Friday,23:30:00,23:45:00,1,0,0
+18/02/2022,L418,M143,Chilling,20,Friday,23:45:00,23:59:00,2,0,1
+20/02/2022,S801,,,20,Sunday,00:00:00,08:30:00,2,0,0
+20/02/2022,O733,,Freshen up,20,Sunday,08:30:00,09:00:00,0,0,1
+20/02/2022,ED145,,Breakfast,20,Sunday,09:00:00,09:30:00,2,0,1
+20/02/2022,O733,W842,Going to partime,20,Sunday,09:30:00,10:00:00,-1,1,0
+20/02/2022,PW101,,Partime work,20,Sunday,10:00:00,17:00:00,-1,2,0
+20/02/2022,L418,C777,Break for 30 minute,20,Sunday,17:00:00,17:30:00,2,0,1
+20/02/2022,PW101,,Partime work,20,Sunday,17:30:00,21:00:00,-2,2,0
+20/02/2022,O733,W842,Coming back from partime,20,Sunday,21:00:00,21:30:00,-1,1,0
+20/02/2022,O733,,Freshen up,20,Sunday,21:30:00,22:00:00,1,0,0
+20/02/2022,ED145,M143,Dinner,20,Sunday,22:00:00,22:30:00,1,0,1
+20/02/2022,L418,M143,Chilling and netflix,20,Sunday,22:30:00,23:00:00,2,0,1
+20/02/2022,S801,,,20,Sunday,23:00:00,23:59:00,2,0,0

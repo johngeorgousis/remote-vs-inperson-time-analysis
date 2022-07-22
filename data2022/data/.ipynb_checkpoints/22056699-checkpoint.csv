@@ -1,0 +1,39 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Screen,Tiredness
+S801,,,2022-02-21,21,Monday,04:00,07:45,225,0,N,Sleep
+PW101,,,2022-02-21,21,Monday,08:00,09:00,60,1,Y,Somewhat Tired
+CW982,,,2022-02-21,21,Monday,09:00,10:00,60,0,,Somewhat Tired
+L418,,,2022-02-21,21,Monday,10:00,11:30,90,2,Y,Somewhat Tired
+ED145,,,2022-02-21,21,Monday,11:30,12:00,30,1,N,Not Tired
+EL642,,,2022-02-21,21,Monday,12:15,13:15,60,-1,Y,Very Tired
+T695,,,2022-02-21,21,Monday,13:30,14:15,45,0,N,Not Tired
+EL642,,,2022-02-21,21,Monday,14:15,15:15,60,2,Y,Not Tired
+T695,,,2022-02-21,21,Monday,15:15,16:00,45,0,N,Not Tired
+ED145,,,2022-02-21,21,Monday,16:00,16:30,30,1,Y,Not Tired
+PW101,,,2022-02-21,21,Monday,16:30,17:45,75,1,Y,Somewhat Tired
+L418,,,2022-02-21,21,Monday,17:45,22:00,255,2,Y,Not Tired
+ED145,UD415,,2022-02-21,21,Monday,22:00,23:00,60,1,Y,Somewhat Tired
+S801,,,2022-02-21,21,Monday,23:00,08:00,540,0,N,Sleep
+T695,,,2022-02-22,21,Tuesday,08:30,09:15,45,0,,
+EL642,,,2022-02-22,21,Tuesday,09:15,12:15,180,1,N,Not Tired
+ED145,,,2022-02-22,21,Tuesday,12:15,12:45,30,0,N,Not Tired
+X893,,,2022-02-22,21,Tuesday,13:00,13:30,30,1,N,Not Tired
+T695,,,2022-02-22,21,Tuesday,13:30,14:15,45,0,N,Somewhat Tired
+L418,,,2022-02-22,21,Tuesday,14:15,16:15,120,1,Y,Very Tired
+EL642,,,2022-02-22,21,Tuesday,16:15,17:15,60,-1,Y,Somewhat Tired
+H179,,,2022-02-22,21,Tuesday,17:15,17:45,30,-1,N,Somewhat Tired
+L418,,,2022-02-22,21,Tuesday,17:45,18:45,60,2,Y,Not Tired
+ED145,,,2022-02-22,21,Tuesday,18:45,20:00,75,1,Y,Not Tired
+H179,,,2022-02-22,21,Tuesday,20:00,20:30,30,-1,N,Somewhat Tired
+UD415,,,2022-02-22,21,Tuesday,20:30,23:30,180,1,Y,Somewhat Tired
+S801,,,2022-02-22,21,Tuesday,23:30,10:30,660,0,N,Sleep
+H179,,,2022-02-23,21,Wednesday,10:30,11:00,30,-1,N,Not Tired
+ED145,,,2022-02-23,21,Wednesday,11:00,11:30,30,0,N,Not Tired
+T695,,,2022-02-23,21,Wednesday,11:30,12:15,45,0,N,Not Tired
+X893,,,2022-02-23,21,Wednesday,12:30,15:15,165,1,N,Not Tired
+T695,,,2022-02-23,21,Wednesday,15:15,16:00,45,0,N,Not Tired
+ED145,UD415,,2022-02-23,21,Wednesday,16:00,16:30,30,1,Y,Not Tired
+PW101,,,2022-02-23,21,Wednesday,17:00,18:15,75,1,Y,Not TIred
+L418,,,2022-02-23,21,Wednesday,18:15,19:30,75,2,Y,Not Tired
+CW982,,,2022-02-23,21,Wednesday,19:30,20:30,60,0,Y,Somewhat Tired
+ED145,UD415,,2022-02-23,21,Wednesday,20:30,21:30,60,2,Y,Somewhat Tired
+L418,,,2022-02-23,21,Wednesday,21:30,00:00,150,1,Y,Somewhat Tired

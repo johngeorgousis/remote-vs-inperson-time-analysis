@@ -1,0 +1,22 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SleepQuality ,DurationMinsOfExercise
+S801,,Sleeping,2022/2/14,20,Monday,0:30,9:30,540,0,0,0
+ED145,,Breakfast,2022/2/14,20,Monday,9:45,10:00,15,1,,
+EL642,CW982,Doing coursework,2022/2/14,20,Monday,10:20,11:30,70,-1,,
+ED145,,Lunch,2022/2/14,20,Monday,12:30,13:10,40,2,,
+X893,,Exercise,2022/2/14,20,Monday,14:00,16:00,120,1,,
+UD415,L418,Gaming,2022/2/14,20,Monday,19:00,21:00,120,2,,
+S801,,Sleeping,2022/2/15,20,Tuesday,23:30,9:30,600,2,2,120
+ED145,,Breakfast,2022/2/15,20,Tuesday,9:45,10:00,15,1,,
+EL642,,Lectures,2022/2/15,20,Tuesday,11:15,12:05,50,0,,
+ED145,,Lunch,2022/2/15,20,Tuesday,12:15,12:50,35,1,,
+EL642,,Lectures,2022/2/15,20,Tuesday,13:05,14:15,50,1,,
+UD415,L418,Browsing web online,2022/2/15,20,Tuesday,15:00,17:00,120,1,,
+R523,L418,Reading,2022/2/15,20,Tuesday,19:00,21:00,120,0,,
+S801,,Sleeping,2022/2/18,20,Friday,1:30,9:30,480,-1,0,0
+ED145,,Breakfast,2022/2/18,20,Friday,9:45,10:00,15,1,,
+EL642,UD415,Online lecture,2022/2/18,20,Friday,10:15,11:05,50,-1,,
+EL642,,Lectures,2022/2/18,20,Friday,12:15,13:05,50,1,,
+ED145,,Lunch,2022/2/18,20,Friday,13:40,14:20,40,2,,
+X893,,Exercise,2022/2/18,20,Friday,16:00,17:40,100,2,,
+EL642,CW982,Doing coursework,2022/2/18,20,Friday,18:30,20:30,120,-1,,
+UD415,L418,Gaming,2022/2/18,20,Friday,20:40,23:30,170,2,,

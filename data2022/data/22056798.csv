@@ -1,0 +1,46 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,HungerLevel,BeingWithCompany
+L418,ED145,Watching a movie,19/02/22,20,Saturday,00:00,01:45,105,2,0,Yes
+S801,,,19/02/22,20,Saturday,01:45,11:45,600,2,0,No
+O733,,Shower,19/02/22,20,Saturday,11:45,12:15,30,1,1,No
+ED145,,Breakfast,19/02/22,20,Saturday,12:15,12:30,15,2,0,No
+R523,,,19/02/22,20,Saturday,12:30,13:15,45,2,0,No
+L418,,Taking a walk,19/02/22,20,Saturday,13:15,13:45,30,2,0,No
+H179,,Shopping groceries,19/02/22,20,Saturday,13:45,14:15,30,0,0,Yes
+UD415,,Chatting with friends,19/02/22,20,Saturday,14:15,15:30,75,2,1,No
+ED145,,Lunch,19/02/22,20,Saturday,15:30,16:00,30,2,0,Yes
+UD415,,Research on the Internet,19/02/22,20,Saturday,16:00,17:00,60,1,0,No
+R523,,,19/02/22,20,Saturday,17:00,18:00,60,2,1,No
+S801,,Afternoon nap,19/02/22,20,Saturday,18:00,19:30,90,1,2,No
+ED145,UD415,,19/02/22,20,Saturday,19:30,20:00,30,0,0,No
+CW982,,Work on labs,19/02/22,20,Saturday,20:00,21:00,60,2,0,No
+EL642,,Watch online lectures,19/02/22,20,Saturday,21:00,23:00,120,2,0,No
+O733,,Relaxing,19/02/22,20,Saturday,23:00,00:00,60,1,1,No
+S801,,,22/02/22,21,Tuesday,00:00,10:00,600,2,0,No
+O733,,Getting dressed,22/02/22,21,Tuesday,10:00,10:15,15,0,1,No
+ED145,,Having breakfast,22/02/22,21,Tuesday,10:15,10:45,30,1,0,No
+T695,UD415,Bus to campus,22/02/22,21,Tuesday,10:45,11:15,30,0,0,Yes
+EL642,,University lecture,22/02/22,21,Tuesday,11:15,12:00,45,-1,1,Yes
+T695,UD415,Bus to accommodation,22/02/22,21,Tuesday,12:00,12:30,30,0,2,Yes
+ED145,,Lunch,22/02/22,21,Tuesday,12:30,13:15,45,1,0,No
+UD415,,Video chat with family,22/02/22,21,Tuesday,13:15,14:30,75,1,0,No
+UD415,L418,Browsing web on laptop,22/02/22,21,Tuesday,14:30,17:00,150,2,0,No
+CW982,UD415,Work on labs,22/02/22,21,Tuesday,17:00,19:00,120,1,1,No
+UD415,L418,Chat with friends,22/02/22,21,Tuesday,19:00,19:15,15,2,2,No
+ED145,,Prepare dinner,22/02/22,21,Tuesday,19:15,19:45,30,1,0,No
+L418,,Watch football game,22/02/22,21,Tuesday,19:45,22:15,150,2,0,Yes
+H179,,Cleaned dishes,22/02/22,21,Tuesday,22:15,22:30,15,-1,0,No
+UD415,L418,Social Media,22/02/22,21,Tuesday,22:30,00:00,90,0,1,No
+UD415,L418,Social Media,23/02/22,21,Wednesday,00:00,00:45,45,0,1,No
+S801,,,23/02/22,21,Wednesday,00:45,11:30,645,2,1,No
+UD415,,Video chat with family,23/02/22,21,Wednesday,11:30,13:00,90,1,1,No
+ED145,,Brunch,23/02/22,21,Wednesday,13:00,13:15,15,2,0,No
+CW982,,Work on labs,23/02/22,21,Wednesday,13:15,14:30,75,1,0,No
+H179,,Cleaning,23/02/22,21,Wednesday,14:30,15:00,30,-1,0,No
+CW982,UD415,Work on labs,23/02/22,21,Wednesday,15:00,17:45,165,1,1,No
+ED145,,,23/02/22,21,Wednesday,17:45,18:00,15,2,0,No
+UD415,,Browsinfg the web,23/02/22,21,Wednesday,18:00,19:00,60,1,0,No
+X893,,Gym,23/02/22,21,Wednesday,19:00,19:30,30,1,1,No
+O733,,Relaxing,23/02/22,21,Wednesday,19:30,20:00,30,1,1,No
+L418,UD415,Watch football game,23/02/22,21,Wednesday,20:00,22:00,120,1,1,No
+ED145,,Quick snack,23/02/22,21,Wednesday,22:00,22:15,15,1,0,No
+L418,,Meet with friends,23/02/22,21,Wednesday,22:15,00:00,105,2,1,Yes

@@ -1,0 +1,47 @@
+PrimaryActivity,SecondaryActivity,DescriptiveLabel,StartDate,UniBathWeek,DayofWeek,StartTime,EndTime,DurationMins,Enjoyment,AreYouFocused,WhyNotFocused
+EL642,UD415,Online video,21/02/22,21,Monday,00:00:00,02:00:00,120.0,-1,no,mobile phone
+CW982,UD415,CM50266 lab,21/02/22,21,Monday,02:05:00,04:00:00,115.0,0,yes,
+R523,EL642,CM50270 textbook,21/02/22,21,Monday,04:01:00,05:00:00,59.0,1,yes,
+S801,,,21/02/22,21,Monday,05:10:00,12:00:00,410.0,2,yes,
+O733,,Getting dressed,21/02/22,21,Monday,12:10:00,12:30:00,20.0,0,yes,
+ED145,,Breakfast,21/02/22,21,Monday,12:30:00,13:20:00,50.0,2,no,mobile phone
+T695,,Travelling to gym,21/02/22,21,Monday,13:20:00,14:00:00,40.0,0,no,mobile phone
+X893,,,21/02/22,21,Monday,14:00:00,15:30:00,90.0,0,no,other
+T695,,Travelling back to home,21/02/22,21,Monday,15:30:00,16:00:00,30.0,0,no,mobile phone
+O733,,Wash,21/02/22,21,Monday,16:00:00,16:30:00,30.0,-1,yes,
+L418,UD415,Video game,21/02/22,21,Monday,16:35:00,17:30:00,55.0,2,yes,
+ED145,,Dinner,21/02/22,21,Monday,17:30:00,18:00:00,30.0,2,no,mobile phone
+EL642,UD415,Online lecture video,21/02/22,21,Monday,18:01:00,20:30:00,149.0,0,no,mobile phone
+L418,UD415,Video game,21/02/22,21,Monday,20:30:00,22:00:00,90.0,2,yes,
+CW982,UD415,CM50265 lab,21/02/22,21,Monday,22:10:00,23:59:00,109.0,0,no,mobile phone
+EL642,UD415,Online lecture video,23/02/22,21,Wednesday,00:00:00,02:00:00,120.0,1,yes,
+CW982,UD415,CM50266 lab,23/02/22,21,Wednesday,02:01:00,03:00:00,59.0,0,yes,
+L418,UD415,Watching movie,23/02/22,21,Wednesday,03:00:00,04:00:00,60.0,2,yes,
+S801,,,23/02/22,21,Wednesday,04:00:00,13:00:00,540.0,-1,no,other
+O733,,Getting dressed,23/02/22,21,Wednesday,13:00:00,13:30:00,30.0,0,yes,
+ED145,,Lunch,23/02/22,21,Wednesday,13:30:00,14:15:00,45.0,2,no,mobile phone
+L418,UD415,Watching movie,23/02/22,21,Wednesday,14:15:00,15:00:00,45.0,2,yes,
+EL642,UD415,CM50268 lecture video,23/02/22,21,Wednesday,15:00:00,17:00:00,120.0,-2,no,other
+CW982,UD415,CM50270 lab1,23/02/22,21,Wednesday,17:00:00,18:30:00,90.0,1,no,mobile phone
+ED145,,Dinner,23/02/22,21,Wednesday,18:30:00,19:00:00,30.0,2,no,mobile phone
+UD415,L418,Watching movie,23/02/22,21,Wednesday,19:00:00,20:30:00,90.0,2,yes,
+O733,,Wash,23/02/22,21,Wednesday,20:30:00,21:00:00,30.0,2,yes,
+UD415,L418,Video game,23/02/22,21,Wednesday,21:00:00,22:00:00,60.0,2,yes,
+EL642,UD415,Online lecture video,23/02/22,21,Wednesday,22:10:00,23:59:00,109.0,0,no,mobile phone
+CW982,UD415,CM50266 lab,24/02/22,21,Thursday,00:00:00,01:20:00,80.0,0,no,mobile phone
+EL642,UD415,CM50270 lecture video,24/02/22,21,Thursday,01:30:00,02:30:00,60.0,0,no,mobile phone
+CW982,UD415,CM50265 coursework1,24/02/22,21,Thursday,02:30:00,04:00:00,90.0,0,no,mobile phone
+O733,L418,Man Utd vs Atletico Madrid,24/02/22,21,Thursday,04:00:00,06:30:00,150.0,2,yes,
+ED145,,Breakfast,24/02/22,21,Thursday,06:30:00,06:45:00,15.0,1,no,other
+CW982,,CM50268 coursework,24/02/22,21,Thursday,06:45:00,08:50:00,125.0,-2,no,mobile phone
+O733,,Getting dressed,24/02/22,21,Thursday,09:00:00,09:30:00,30.0,0,yes,
+T695,,Travelling to mental institution,24/02/22,21,Thursday,09:30:00,10:00:00,30.0,0,no,mobile phone
+EL642,,Psychological counseing,24/02/22,21,Thursday,10:00:00,10:50:00,50.0,1,yes,
+T695,,Travelling back to home,24/02/22,21,Thursday,10:50:00,11:30:00,40.0,0,yes,
+S801,,,24/02/22,21,Thursday,11:30:00,17:00:00,330.0,2,yes,
+ED145,,Dinner,24/02/22,21,Thursday,17:00:00,17:30:00,30.0,2,no,mobile phone
+UD415,L418,Watching movie,24/02/22,21,Thursday,17:30:00,18:30:00,60.0,2,yes,
+O733,,Wash,24/02/22,21,Thursday,18:30:00,19:00:00,30.0,2,yes,
+EL642,UD415,Online lecture video,24/02/22,21,Thursday,19:00:00,20:35:00,95.0,-1,yes,
+CW982,UD415,CM50265 coursework1,24/02/22,21,Thursday,20:40:00,22:00:00,80.0,-2,no,mobile phone
+UD415,L418,Video game,24/02/22,21,Thursday,22:00:00,23:59:00,119.0,2,yes,
